@@ -95,6 +95,11 @@ class JLPTSenseiScraper:
                 if first_p:
                     explanation = first_p.get_text(strip=True)
 
+            # Validate explanation is not empty
+            if not explanation:
+                logger.warning(f"No explanation found for {url}")
+                return None
+
             # Extract examples
             examples = []
 
@@ -129,6 +134,11 @@ class JLPTSenseiScraper:
 
                 if len(examples) >= 5:
                     break
+
+            # Validate minimum examples
+            if len(examples) < 2:
+                logger.warning(f"Insufficient examples ({len(examples)}) for {url}")
+                return None
 
             # Create grammar point ID from URL
             grammar_id = url.rstrip('/').split('/')[-1]
