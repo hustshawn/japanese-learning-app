@@ -1,186 +1,5073 @@
 [
   {
-    "id": "ga-particle",
-    "title": "が (ga) - Subject Marker",
-    "titleRomaji": "ga",
-    "explanation": "标记句子的语法主语。通常用于引入新信息或强调执行动作的事物。",
+    "id": "%e3%81%a1%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-%e3%81%98%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-cha-ikenai-ja-dame",
+    "title": "JLPT N5 Grammarちゃいけない・じゃいけない(cha ikenai / ja ikenai)",
+    "titleRomaji": "JLPT N5 Grammar chaikenai ・ jaikenai (cha ikenai / ja ikenai )",
+    "explanation": "不能做；不可以做（口语日语）",
     "examples": [
       {
-        "japanese": "猫が好きです。",
-        "romaji": "Neko ga suki desu.",
-        "english": "我喜欢猫。（字面意思：猫被喜欢）"
+        "japanese": "寝る前にスマホを見ちゃダメよ。",
+        "romaji": "neru mae ni sumaho o micha dame yo.",
+        "english": "睡觉前不能看手机。"
       },
       {
-        "japanese": "雨が降っています。",
-        "romaji": "Ame ga futteimasu.",
-        "english": "正在下雨。（字面意思：雨在降落）"
+        "japanese": "ここはきけんなので、入っちゃダメだよ。",
+        "romaji": "koko wa kiken na node, haiccha dame da yo.",
+        "english": "这里很危险，所以不能进去。"
       },
       {
-        "japanese": "誰が来ましたか？",
-        "romaji": "Dare ga kimashita ka?",
-        "english": "谁来了？"
+        "japanese": "やっちゃいけないことをやっちゃった。",
+        "romaji": "yaccha ikenai koto o yacchatta.",
+        "english": "我做了不该做的事..."
+      },
+      {
+        "japanese": "自信をなくしちゃいけません！",
+        "romaji": "jishin o naku shicha ikemasen!",
+        "english": "不能失去信心！"
+      },
+      {
+        "japanese": "そんなに授業をさぼっちゃダメよ。",
+        "romaji": "sonna ni jugyou o saboccha dame yo.",
+        "english": "你不能翘那么多课。"
       }
-    ]
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-%e3%81%98%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-cha-ikenai-ja-dame/"
   },
   {
-    "id": "wa-particle",
-    "title": "は (wa) - Topic Marker",
-    "titleRomaji": "wa",
-    "explanation": "标记句子的主题（你正在谈论的内容）。注意：写作は但用作助词时发音为'wa'。",
+    "id": "%e3%81%a0-da-%e3%81%a7%e3%81%99-desu-meaning",
+    "title": "JLPT N5 Grammarだ / です(da / desu)",
+    "titleRomaji": "JLPT N5 Grammar da  /  desu (da / desu )",
+    "explanation": "是（am, is, are, were, used to）",
     "examples": [
       {
-        "japanese": "私は学生です。",
-        "romaji": "Watashi wa gakusei desu.",
-        "english": "我是学生。"
+        "japanese": "今日は暑いですね。",
+        "romaji": "kyou wa atsui desu ne.",
+        "english": "今天很热，对吧？"
       },
       {
-        "japanese": "これは本です。",
-        "romaji": "Kore wa hon desu.",
-        "english": "这是一本书。"
+        "japanese": "かれは私の友だちです。",
+        "romaji": "kare wa watashi no tomodachi desu.",
+        "english": "他是我的朋友。"
       },
       {
-        "japanese": "今日は暑いです。",
-        "romaji": "Kyou wa atsui desu.",
-        "english": "今天很热。"
+        "japanese": "日本の文化が好きです。",
+        "romaji": "nihon no bunka ga suki desu.",
+        "english": "我喜欢日本文化。"
+      },
+      {
+        "japanese": "昔はサッカーが趣味だったが、今はやっていない。",
+        "romaji": "mukashi wa sakka ga shumi datta ga, ima wa yatteinai.",
+        "english": "以前足球是我的爱好，但现在不踢了。"
       }
-    ]
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0-da-%e3%81%a7%e3%81%99-desu-meaning/"
   },
   {
-    "id": "wo-particle",
-    "title": "を (wo) - Object Marker",
-    "titleRomaji": "wo/o",
-    "explanation": "标记动作的直接宾语。在现代日语中通常发音为'o'而不是'wo'。",
+    "id": "%e3%81%a0%e3%81%91-dake-meaning",
+    "title": "JLPT N5 Grammarだけ(dake)",
+    "titleRomaji": "JLPT N5 Grammar dake (dake )",
+    "explanation": "只；仅仅；尽可能～",
     "examples": [
       {
-        "japanese": "りんごを食べます。",
-        "romaji": "Ringo wo tabemasu.",
-        "english": "我吃苹果。"
+        "japanese": "私の持っているお金はこれだけだ。",
+        "romaji": "watashi no motteiru okane wa kore dake da.",
+        "english": "这就是我所有的钱了。"
       },
       {
-        "japanese": "本を読みます。",
-        "romaji": "Hon wo yomimasu.",
-        "english": "我读书。"
+        "japanese": "ちょっと見ているだけです。",
+        "romaji": "chotto mitteiru dake desu.",
+        "english": "我只是随便看看。"
       },
       {
-        "japanese": "音楽を聞きます。",
-        "romaji": "Ongaku wo kikimasu.",
-        "english": "我听音乐。"
+        "japanese": "好きじゃない食べ物はトマトだけだ。",
+        "romaji": "suki janai tabemono wa tomato dake da.",
+        "english": "我唯一不喜欢的食物是西红柿。"
+      },
+      {
+        "japanese": "ただ話していただけです。",
+        "romaji": "tada hanashiteita dake desu.",
+        "english": "我只是在说话而已。"
+      },
+      {
+        "japanese": "問題はそれだけだと思うかい？",
+        "romaji": "mondai wa sore dake da to omou?",
+        "english": "你觉得这个问题就只有这些吗？"
       }
-    ]
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91-dake-meaning/"
   },
   {
-    "id": "ni-particle",
-    "title": "に (ni) - Location/Time/Direction Marker",
-    "titleRomaji": "ni",
-    "explanation": "表示存在的位置、时间、方向或动作的目标。用途非常广泛的助词。",
+    "id": "%e3%81%a0%e3%82%8d%e3%81%86-darou-meaning",
+    "title": "JLPT N5 Grammarだろう(darou)",
+    "titleRomaji": "JLPT N5 Grammar darou (darou )",
+    "explanation": "我想；好像；大概；对吧？",
     "examples": [
       {
-        "japanese": "東京に住んでいます。",
-        "romaji": "Toukyou ni sundeimasu.",
-        "english": "我住在东京。"
+        "japanese": "彼はもうすぐ来るだろう。",
+        "romaji": "kare wa mou sugu kuru darou.",
+        "english": "他应该马上就会来。"
       },
       {
-        "japanese": "９時に起きます。",
-        "romaji": "Kuji ni okimasu.",
-        "english": "我9点起床。"
+        "japanese": "そうだろうと思ったよ。",
+        "romaji": "sou darou to omotta.",
+        "english": "我就觉得是这样。"
       },
       {
-        "japanese": "友達に会います。",
-        "romaji": "Tomodachi ni aimasu.",
-        "english": "我见朋友。"
+        "japanese": "明日はたぶん雨が降るだろう。空に雲がたくさんあるから。",
+        "romaji": "ashita wa tabun ame ga furu darou. sora ni kumo ga takusan aru kara.",
+        "english": "明天可能会下雨。因为天上有很多云。"
+      },
+      {
+        "japanese": "間違いないだろう。",
+        "romaji": "machigai nai darou.",
+        "english": "肯定没错。"
+      },
+      {
+        "japanese": "たぶんこの雨は１時間ぐらいでやむだろう。",
+        "romaji": "tabun kono ame wa ichijikan gurai de yamu darou.",
+        "english": "这场雨大概一个小时左右就会停。"
       }
-    ]
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%82%8d%e3%81%86-darou-meaning/"
   },
   {
-    "id": "de-particle",
-    "title": "で (de) - Location/Means Marker",
-    "titleRomaji": "de",
-    "explanation": "表示动作发生的地点或完成某事的方式/方法。",
+    "id": "%e3%81%a7-de-particle-meaning",
+    "title": "JLPT N5 Grammarで(de)",
+    "titleRomaji": "JLPT N5 Grammar de (de )",
+    "explanation": "在；用；通过～",
     "examples": [
       {
-        "japanese": "図書館で勉強します。",
-        "romaji": "Toshokan de benkyou shimasu.",
-        "english": "我在图书馆学习。"
+        "japanese": "じてんしゃで行きます。",
+        "romaji": "jitensha de ikimasu.",
+        "english": "我骑自行车去。"
       },
       {
-        "japanese": "バスで行きます。",
-        "romaji": "Basu de ikimasu.",
-        "english": "我坐公交车去。"
+        "japanese": "みんなで行こう！",
+        "romaji": "minna de ikou!",
+        "english": "大家一起去吧！"
       },
       {
-        "japanese": "日本語で話します。",
-        "romaji": "Nihongo de hanashimasu.",
-        "english": "我用日语说话。"
+        "japanese": "たまに一人でカラオケに行きます。",
+        "romaji": "tamani hitori de karaoke ni ikimasu.",
+        "english": "我偶尔一个人去唱卡拉OK。"
+      },
+      {
+        "japanese": "なにかの理由で彼は虫が怖いんだ。",
+        "romaji": "nanika no riyuu de kare wa mushi ga kowai n da.",
+        "english": "不知为什么，他害怕虫子。"
+      },
+      {
+        "japanese": "そのシャツどこで買いました？",
+        "romaji": "sono shatsu doko de kaimashita?",
+        "english": "你那件衬衫在哪买的？"
       }
-    ]
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7-de-particle-meaning/"
   },
   {
-    "id": "desu-copula",
-    "title": "です (desu) - Copula",
-    "titleRomaji": "desu",
-    "explanation": "系动词，意思是'是'（用于非动作）。使句子礼貌并表示存在状态或等同关系。",
+    "id": "%e3%81%a7%e3%81%97%e3%82%87%e3%81%86-deshou-meaning",
+    "title": "JLPT N5 Grammarでしょう(deshou)",
+    "titleRomaji": "JLPT N5 Grammar deshou (deshou )",
+    "explanation": "我想；好像；大概；对吧？",
     "examples": [
       {
-        "japanese": "これは机です。",
-        "romaji": "Kore wa tsukue desu.",
-        "english": "这是一张桌子。"
+        "japanese": "あの人は誰でしょう？",
+        "romaji": "ano hito wa dare deshou?",
+        "english": "那个人是谁呢？"
       },
       {
-        "japanese": "彼は先生です。",
-        "romaji": "Kare wa sensei desu.",
-        "english": "他是老师。"
+        "japanese": "いいでしょう。",
+        "romaji": "ii deshou.",
+        "english": "听起来/看起来不错。"
       },
       {
-        "japanese": "きれいです。",
-        "romaji": "Kirei desu.",
-        "english": "很漂亮。"
+        "japanese": "この問題は簡単でしょう？",
+        "romaji": "kono mondai wa kantan deshou?",
+        "english": "这个问题很简单，对吧？"
+      },
+      {
+        "japanese": "彼はもうすぐ来るでしょう。",
+        "romaji": "kare wa mou sugu kuru deshou.",
+        "english": "他应该马上就到。"
+      },
+      {
+        "japanese": "頑張れば、いい大学に行けるでしょう。",
+        "romaji": "ganbareba, ii daigaku ni ikeru deshou.",
+        "english": "如果努力的话，应该能考上好大学。"
       }
-    ]
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%97%e3%82%87%e3%81%86-deshou-meaning/"
   },
   {
-    "id": "masu-form",
-    "title": "ます (masu) - Polite Verb Ending",
-    "titleRomaji": "masu",
-    "explanation": "礼貌的现在时/将来时动词词尾。附加到动词词干使其正式和礼貌。",
+    "id": "%e3%81%a9%e3%82%93%e3%81%aa-donna-meaning",
+    "title": "JLPT N5 Grammarどんな(donna)",
+    "titleRomaji": "JLPT N5 Grammar donna (donna )",
+    "explanation": "什么样的；什么种类的",
     "examples": [
       {
-        "japanese": "行きます。",
-        "romaji": "Ikimasu.",
-        "english": "我去。/ 我将去。"
+        "japanese": "ベトナムはどんな国ですか。",
+        "romaji": "betonamu wa donna kuni desu ka.",
+        "english": "越南是个什么样的国家？"
       },
       {
-        "japanese": "食べます。",
-        "romaji": "Tabemasu.",
-        "english": "我吃。/ 我将吃。"
+        "japanese": "どんな仕事をするのですか。",
+        "romaji": "donna shigoto o suru no desu ka?",
+        "english": "你做什么工作？"
       },
       {
-        "japanese": "見ます。",
-        "romaji": "Mimasu.",
-        "english": "我看。/ 我将看。"
+        "japanese": "どんな食べ物が好きですか。",
+        "romaji": "donna tabemono ga suki desu ka.",
+        "english": "你喜欢什么样的食物？"
+      },
+      {
+        "japanese": "どんなパソコンを持っていますか。",
+        "romaji": "donna pasokon o motteimasu ka.",
+        "english": "你有什么样的电脑？"
+      },
+      {
+        "japanese": "どんな車に乗っていますか？",
+        "romaji": "donna kuruma ni notteimasu ka?",
+        "english": "你开什么车？"
       }
-    ]
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%82%93%e3%81%aa-donna-meaning/"
   },
   {
-    "id": "te-form",
-    "title": "て形 (te-form) - Connector Form",
-    "titleRomaji": "te-kei",
-    "explanation": "用于连接动作、提出请求或表示正在进行的动作的动词形式。非常常见且用途广泛的语法结构。",
+    "id": "%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6-doushite-meaning",
+    "title": "JLPT N5 Grammarどうして(doushite)",
+    "titleRomaji": "JLPT N5 Grammar doushite (doushite )",
+    "explanation": "为什么；什么原因；怎么",
     "examples": [
       {
-        "japanese": "起きて、顔を洗います。",
-        "romaji": "Okite, kao wo araimasu.",
-        "english": "我起床然后洗脸。"
+        "japanese": "どうして来ないの？",
+        "romaji": "doushite konai no?",
+        "english": "你为什么不来？"
       },
       {
-        "japanese": "座ってください。",
-        "romaji": "Suwatte kudasai.",
-        "english": "请坐。"
+        "japanese": "どうしてそうなったの？",
+        "romaji": "doushite sou natta no?",
+        "english": "怎么会变成那样？"
       },
       {
-        "japanese": "走っています。",
-        "romaji": "Hashitteimasu.",
-        "english": "我正在跑步。"
+        "japanese": "どうしてそれを知っている？",
+        "romaji": "doushite sore o shitteiru?",
+        "english": "你怎么知道那件事？"
+      },
+      {
+        "japanese": "どうして日本に来たんですか？",
+        "romaji": "doushite nihon ni kitan desu ka?",
+        "english": "你为什么来日本？"
+      },
+      {
+        "japanese": "どうして日本の夏はこんなに暑いんだろう。",
+        "romaji": "doushite nihon no natsu wa konnani atsui n darou.",
+        "english": "日本的夏天为什么这么热啊？"
       }
-    ]
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6-doushite-meaning/"
+  },
+  {
+    "id": "%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6-douyatte-meaning",
+    "title": "JLPT N5 Grammarどうやって(douyatte)",
+    "titleRomaji": "JLPT N5 Grammar douyatte (douyatte )",
+    "explanation": "怎么；用什么方法；通过什么方式",
+    "examples": [
+      {
+        "japanese": "駅までどうやって行きますか。",
+        "romaji": "eki made douyatte ikimasu ka.",
+        "english": "怎么去车站？"
+      },
+      {
+        "japanese": "これはどうやって使いますか。",
+        "romaji": "kore wa douyatte tsukaimasu ka.",
+        "english": "这个怎么用？"
+      },
+      {
+        "japanese": "これはどうやって食べますか。",
+        "romaji": "kore wa douyatte tabemasu ka.",
+        "english": "这个怎么吃？"
+      },
+      {
+        "japanese": "リサさんは毎日どうやって学校へ来ますか。",
+        "romaji": "risa san wa mainichi douyatte gakkou e kimasu ka.",
+        "english": "丽莎，你每天怎么来学校？"
+      },
+      {
+        "japanese": "どうやって彼女と出会ったのですか。",
+        "romaji": "douyatte kanojo to deatta no desu ka.",
+        "english": "你是怎么遇到她的？"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6-douyatte-meaning/"
+  },
+  {
+    "id": "%e3%81%8c-ga-subject-marker-particle",
+    "title": "JLPT N5 Grammarが(ga)",
+    "titleRomaji": "JLPT N5 Grammar ga (ga )",
+    "explanation": "主语标记；但是；可是～",
+    "examples": [
+      {
+        "japanese": "明日は雨が降る。",
+        "romaji": "ashita wa ame ga furu.",
+        "english": "明天会下雨。"
+      },
+      {
+        "japanese": "仕方がない。",
+        "romaji": "shikata ga nai.",
+        "english": "没办法。（日语中的常用表达）"
+      },
+      {
+        "japanese": "コンビニが近くにあります。",
+        "romaji": "konbini ga chikaku ni arimasu.",
+        "english": "附近有便利店。"
+      },
+      {
+        "japanese": "彼は借金がある。",
+        "romaji": "kare wa shakkin ga aru.",
+        "english": "他欠债。"
+      },
+      {
+        "japanese": "今日は、やることがたくさんある。",
+        "romaji": "kyou wa, yaru koto ga takusan aru.",
+        "english": "今天有很多事要做。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c-ga-subject-marker-particle/"
+  },
+  {
+    "id": "%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99-ga-arimasu-%e3%81%8c%e3%81%82%e3%82%8b-ga-aru-meaning",
+    "title": "JLPT N5 Grammarがあります(ga arimasu)",
+    "titleRomaji": "JLPT N5 Grammar gaarimasu (ga arimasu )",
+    "explanation": "有；存在（非生物）",
+    "examples": [
+      {
+        "japanese": "人気がある。",
+        "romaji": "ninki ga aru.",
+        "english": "受欢迎。"
+      },
+      {
+        "japanese": "先月お金がぜんぜんなかった。",
+        "romaji": "sengetsu okane ga zenzen nakatta.",
+        "english": "上个月我一点钱都没有。"
+      },
+      {
+        "japanese": "へやにテレビがあります。",
+        "romaji": "heya ni terebi ga arimasu.",
+        "english": "房间里有电视。"
+      },
+      {
+        "japanese": "日本の好きじゃないところはあります。",
+        "romaji": "nihon no suki janai tokoro ha arimasu.",
+        "english": "我有不喜欢日本的地方。"
+      },
+      {
+        "japanese": "このマンションにはへやが三つあります。",
+        "romaji": "kono manshon niwa heya ga mitsu arimasu.",
+        "english": "这套公寓里有三个房间。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99-ga-arimasu-%e3%81%8c%e3%81%82%e3%82%8b-ga-aru-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e3%81%bb%e3%81%97%e3%81%84-ga-hoshii-%e3%81%8c%e6%ac%b2%e3%81%97%e3%81%84-meaning",
+    "title": "JLPT N5 Grammarがほしい(ga hoshii)",
+    "titleRomaji": "JLPT N5 Grammar gahoshii (ga hoshii )",
+    "explanation": "想要某物",
+    "examples": [
+      {
+        "japanese": "もっとお金が欲しいです。",
+        "romaji": "motto okane ga hoshii desu.",
+        "english": "我想要更多钱。"
+      },
+      {
+        "japanese": "彼女がほしい。",
+        "romaji": "kanojo ga hoshii.",
+        "english": "我想要个女朋友。"
+      },
+      {
+        "japanese": "お金がたくさんほしい。",
+        "romaji": "okane ga takusan hoshii.",
+        "english": "我想要很多钱。"
+      },
+      {
+        "japanese": "何人子どもがほしいですか？",
+        "romaji": "nan nin kodomo ga hoshii desu ka?",
+        "english": "你想要几个孩子？"
+      },
+      {
+        "japanese": "新しいGoProカメラが欲しいです！",
+        "romaji": "atarashii gopuro kamera ga hoshii desu!",
+        "english": "我想要新的GoPro相机！"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%bb%e3%81%97%e3%81%84-ga-hoshii-%e3%81%8c%e6%ac%b2%e3%81%97%e3%81%84-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e3%81%84%e3%81%be%e3%81%99-ga-imasu-%e3%81%8c%e3%81%84%e3%82%8b-ga-iru-meaning",
+    "title": "JLPT N5 Grammarがいます(ga imasu)",
+    "titleRomaji": "JLPT N5 Grammar gaimasu (ga imasu )",
+    "explanation": "有；在；存在（生物）",
+    "examples": [
+      {
+        "japanese": "テーブルの下に猫がいる。",
+        "romaji": "teeburu no shita ni neko ga iru.",
+        "english": "桌子下面有只猫。"
+      },
+      {
+        "japanese": "あなたは彼氏がいるの？",
+        "romaji": "anata wa kareshi ga iru no?",
+        "english": "你有男朋友吗？"
+      },
+      {
+        "japanese": "私には兄弟がいないんだ。",
+        "romaji": "watashi ni wa kyoudai ga inai nda.",
+        "english": "我没有兄弟姐妹。"
+      },
+      {
+        "japanese": "弟一人妹一人がいます。",
+        "romaji": "otouto hitori imouto hitori ga imasu.",
+        "english": "我有一个弟弟和一个妹妹。"
+      },
+      {
+        "japanese": "その部屋に犬がいる。",
+        "romaji": "sono heya ni inu ga iru.",
+        "english": "那个房间里有只狗。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%84%e3%81%be%e3%81%99-ga-imasu-%e3%81%8c%e3%81%84%e3%82%8b-ga-iru-meaning/"
+  },
+  {
+    "id": "%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84-%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84-hou-ga-ii-meaning",
+    "title": "JLPT N5 Grammarほうがいい(hou ga ii)",
+    "titleRomaji": "JLPT N5 Grammar hougaii (hou ga ii )",
+    "explanation": "最好；应该～",
+    "examples": [
+      {
+        "japanese": "疲れたら、早く寝たほうがいい。",
+        "romaji": "tsukaretara, hayaku neta hou ga ii.",
+        "english": "如果累了，最好早点睡。"
+      },
+      {
+        "japanese": "暑い日には、水をたくさん飲んだ方がいい。",
+        "romaji": "atsui hi ni wa, mizu o takusan nonda hou ga ii.",
+        "english": "热天最好多喝水。"
+      },
+      {
+        "japanese": "寝る前に、スマホを使わない方がいい。",
+        "romaji": "neru mae ni, sumaho o tsukawanai hou ga ii.",
+        "english": "睡前最好不要用手机。"
+      },
+      {
+        "japanese": "毎日日本語を練習した方がいいですよ。",
+        "romaji": "mainichi nihongo o renshuu shita hou ga ii desu yo.",
+        "english": "你应该每天练习日语。"
+      },
+      {
+        "japanese": "分からないとき、先生に聞いた方がいいですよ。",
+        "romaji": "wakaranai toki, sensei ni kiita hou ga ii desu yo.",
+        "english": "不懂的时候，最好问老师。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84-%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84-hou-ga-ii-meaning/"
+  },
+  {
+    "id": "%e4%b8%80%e7%95%aa-%e3%81%84%e3%81%a1%e3%81%b0%e3%82%93-ichiban-meaning",
+    "title": "JLPT N5 Grammar一番(ichiban)",
+    "titleRomaji": "JLPT N5 Grammar ichiban (ichiban )",
+    "explanation": "最；最好",
+    "examples": [
+      {
+        "japanese": "彼がいちばん働いた。",
+        "romaji": "kare ga ichiban hataraita.",
+        "english": "他工作最努力。"
+      },
+      {
+        "japanese": "秋が一番好きな季節です。",
+        "romaji": "aki ga ichiban suki na kisetsu desu.",
+        "english": "秋天是我最喜欢的季节。"
+      },
+      {
+        "japanese": "私はブロッコリーが一番嫌いだ。",
+        "romaji": "watashi wa burokkorii ga ichiban kirai da.",
+        "english": "我最讨厌西兰花。"
+      },
+      {
+        "japanese": "午前中が一番調子がいい。",
+        "romaji": "gozen chuu ga ichiban choushi ga ii.",
+        "english": "我上午状态最好。"
+      },
+      {
+        "japanese": "一番前に座っている人は誰ですか？",
+        "romaji": "ichiban mae ni suwatteiru hito wa dare desu ka?",
+        "english": "坐在最前面的人是谁？"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e7%95%aa-%e3%81%84%e3%81%a1%e3%81%b0%e3%82%93-ichiban-meaning/"
+  },
+  {
+    "id": "%e4%b8%80%e7%b7%92%e3%81%ab-%e3%81%84%e3%81%a3%e3%81%97%e3%82%87%e3%81%ab-issho-ni-meaning",
+    "title": "JLPT N5 Grammar一緒に(issho ni)",
+    "titleRomaji": "JLPT N5 Grammar isshoni (issho ni )",
+    "explanation": "一起",
+    "examples": [
+      {
+        "japanese": "一緒に日本語を勉強しましょう。",
+        "romaji": "isshoni nihongo o benkyou shimashou.",
+        "english": "我们一起学日语吧。"
+      },
+      {
+        "japanese": "今夜、カラオケに一緒に行こう。",
+        "romaji": "konya, karaoke ni isshoni ikou.",
+        "english": "今晚一起去唱卡拉OK吧。"
+      },
+      {
+        "japanese": "ずっと彼と一緒にいたい。",
+        "romaji": "zutto kare to issho ni itai.",
+        "english": "我想一直和他在一起。"
+      },
+      {
+        "japanese": "明日の朝、一緒にジムに行きませんか？",
+        "romaji": "ashita no asa, issho ni jimu ni ikimasen ka?",
+        "english": "明天早上一起去健身房怎么样？"
+      },
+      {
+        "japanese": "今朝、友だちと一緒に図書館に行きました。",
+        "romaji": "kesa, tomodachi to issho ni toshokan ni ikimashita.",
+        "english": "今天早上我和朋友一起去了图书馆。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e7%b7%92%e3%81%ab-%e3%81%84%e3%81%a3%e3%81%97%e3%82%87%e3%81%ab-issho-ni-meaning/"
+  },
+  {
+    "id": "%e3%81%84%e3%81%a4%e3%82%82-itsumo-meaning",
+    "title": "JLPT N5 Grammarいつも(itsumo)",
+    "titleRomaji": "JLPT N5 Grammar itsumo (itsumo )",
+    "explanation": "总是；通常；习惯性地",
+    "examples": [
+      {
+        "japanese": "彼はいつも元気ですね。",
+        "romaji": "kare wa itsumo genki desu ne.",
+        "english": "他总是很有精神。"
+      },
+      {
+        "japanese": "妹はいつも寝ている。",
+        "romaji": "imouto wa itsumo neteiru.",
+        "english": "我妹妹总是在睡觉。"
+      },
+      {
+        "japanese": "いつも夜10時に寝ます。",
+        "romaji": "itsumo yoru juuji ni nemasu.",
+        "english": "我总是晚上10点睡觉。"
+      },
+      {
+        "japanese": "昼ご飯はいつも納豆を食べます。",
+        "romaji": "hirugohan wa itsumo nattou o tabemasu.",
+        "english": "我午饭总是吃纳豆。"
+      },
+      {
+        "japanese": "仕事に行く前にいつもジムに行きます。",
+        "romaji": "shigoto ni iku mae ni itsumo jimu ni ikimasu.",
+        "english": "上班前我总是去健身房。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%a4%e3%82%82-itsumo-meaning/"
+  },
+  {
+    "id": "%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-janai-%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dewa-nai-meaning",
+    "title": "JLPT N5 Grammarじゃない・ではない(janai / dewa nai)",
+    "titleRomaji": "JLPT N5 Grammar janai ・ dehanai (janai / dewa nai )",
+    "explanation": "不是（am not; is not; are not）",
+    "examples": [
+      {
+        "japanese": "あなたは一人じゃない。",
+        "romaji": "anata wa hitori janai.",
+        "english": "你不是一个人。"
+      },
+      {
+        "japanese": "危険じゃないの？",
+        "romaji": "kiken janai no?",
+        "english": "不危险吗？"
+      },
+      {
+        "japanese": "そんなつもりじゃなかった。",
+        "romaji": "sonna tsumori ja nakatta.",
+        "english": "我不是那个意思。"
+      },
+      {
+        "japanese": "ごめんなさい！わざとではありませんでした。",
+        "romaji": "gomennasai! wazato dewa arimasen deshita.",
+        "english": "对不起！我不是故意的。"
+      },
+      {
+        "japanese": "肉はあまり好きじゃないです。",
+        "romaji": "niku wa amari suki janai desu.",
+        "english": "我不太喜欢吃肉。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-janai-%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dewa-nai-meaning/"
+  },
+  {
+    "id": "%e3%81%8b-ka-question-particle-meaning",
+    "title": "JLPT N5 Grammarか(ka)",
+    "titleRomaji": "JLPT N5 Grammar ka (ka )",
+    "explanation": "疑问助词",
+    "examples": [
+      {
+        "japanese": "何ですか？",
+        "romaji": "nan desu ka?",
+        "english": "什么？"
+      },
+      {
+        "japanese": "すみません、あなたも学生ですか。",
+        "romaji": "sumimasen, anata mo gakusei desu ka.",
+        "english": "不好意思，你也是学生吗？"
+      },
+      {
+        "japanese": "あなたの名前は何ですか。",
+        "romaji": "anata no namae wa nandesu ka.",
+        "english": "你叫什么名字？"
+      },
+      {
+        "japanese": "元気ですか。",
+        "romaji": "genki desu ka.",
+        "english": "你好吗？"
+      },
+      {
+        "japanese": "彼は何才ですか。",
+        "romaji": "kare wa nansai desu ka.",
+        "english": "他多大了？"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b-ka-question-particle-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%ef%bd%9e%e3%81%8b-ka-ka-or-meaning",
+    "title": "JLPT N5 Grammarか～か(ka~ka)",
+    "titleRomaji": "JLPT N5 Grammar ka ~ ka (ka~ka )",
+    "explanation": "或者",
+    "examples": [
+      {
+        "japanese": "明日は雨かどうか分からない。",
+        "romaji": "ashita wa ame ka dou ka wakaranai.",
+        "english": "不知道明天会不会下雨。"
+      },
+      {
+        "japanese": "お茶かコーヒーが飲みたい。",
+        "romaji": "ocha ka koohii ga nomitai.",
+        "english": "我想喝茶或咖啡。"
+      },
+      {
+        "japanese": "当たるかはずれるか。",
+        "romaji": "ataru ka hazureru ka.",
+        "english": "成功或失败。"
+      },
+      {
+        "japanese": "やるかやらないか早く決めてください。",
+        "romaji": "yaru ka yaranai ka hayaku kimete kudasai.",
+        "english": "请快点决定做还是不做。"
+      },
+      {
+        "japanese": "来週の月曜日か火曜日に京都に行きます。",
+        "romaji": "raishuu no getsuyoubi ka kayoubi ni kyouto ni ikimasu.",
+        "english": "下周一或周二我要去京都。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%ef%bd%9e%e3%81%8b-ka-ka-or-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%82%89-kara-meaning",
+    "title": "JLPT N5 Grammarから(kara)",
+    "titleRomaji": "JLPT N5 Grammar kara (kara )",
+    "explanation": "因为；从",
+    "examples": [
+      {
+        "japanese": "天気がいいから、外に行きたい。",
+        "romaji": "tenki ga ii kara, soto ni ikitai.",
+        "english": "因为天气好，所以我想出去。"
+      },
+      {
+        "japanese": "私はすぐ戻るから、ここでちょっと待ってください。",
+        "romaji": "watashi wa sugu modoru kara, koko de chotto matte kudasai.",
+        "english": "我马上回来，请在这里稍等一下。"
+      },
+      {
+        "japanese": "これからもよろしくお願いします。",
+        "romaji": "kore kara mo yoroshiku onegaishimasu.",
+        "english": "今后也请多多关照。"
+      },
+      {
+        "japanese": "ここからあの駅まで歩いてどれぐらいかかりますか？",
+        "romaji": "koko kara ano eki made aruite dore gurai kakarimasuka?",
+        "english": "从这里走到那个车站要多久？"
+      },
+      {
+        "japanese": "お店は何時から何時まで開いていますか？",
+        "romaji": "omise wa nanji kara nanji made aiteimasu ka?",
+        "english": "商店营业时间是几点到几点？"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89-kara-meaning/"
+  },
+  {
+    "id": "%e6%96%b9-%e3%81%8b%e3%81%9f-kata-meaning",
+    "title": "JLPT N5 Grammar方(kata)",
+    "titleRomaji": "JLPT N5 Grammar hou (kata )",
+    "explanation": "做某事的方法；如何做～",
+    "examples": [
+      {
+        "japanese": "パソコンの使いかたがわかりません。",
+        "romaji": "pasokon no tsukai kata ga wakarimasen.",
+        "english": "我不知道怎么用电脑。"
+      },
+      {
+        "japanese": "ケーキの作り方を知っていますか？",
+        "romaji": "keeki no tsukuri kata o shitteimasu ka?",
+        "english": "你知道怎么做蛋糕吗？"
+      },
+      {
+        "japanese": "おはしの使い方が上手ですね。",
+        "romaji": "ohashi no tsukai kata ga jouzu desu ne.",
+        "english": "你用筷子很熟练啊。（在日本你会经常听到这句话）"
+      },
+      {
+        "japanese": "あの先生の教え方はとてもわかりやすいです。",
+        "romaji": "ano sensei no oshie kata wa totemo wakari yasui desu.",
+        "english": "那位老师的教学方法非常容易理解。"
+      },
+      {
+        "japanese": "彼の生き方は、かっこいいです。",
+        "romaji": "kare no iki kata wa, kakkoii desu.",
+        "english": "他的生活方式很酷。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e6%96%b9-%e3%81%8b%e3%81%9f-kata-meaning/"
+  },
+  {
+    "id": "%e3%81%91%e3%81%a9-kedo-meaning",
+    "title": "JLPT N5 Grammarけど(kedo)",
+    "titleRomaji": "JLPT N5 Grammar kedo (kedo )",
+    "explanation": "但是；可是；虽然～",
+    "examples": [
+      {
+        "japanese": "仕事は辛いけど楽しい。",
+        "romaji": "shigoto wa tsurai kedo tanoshii.",
+        "english": "工作虽然辛苦但很开心。"
+      },
+      {
+        "japanese": "金はないけど夢はある。",
+        "romaji": "kane wa nai kedo yume wa aru.",
+        "english": "我没有钱，但我有梦想。"
+      },
+      {
+        "japanese": "スポーツは上手じゃないけど、好きです。",
+        "romaji": "supootsu wa jouzu janai kedo, suki desu.",
+        "english": "我运动不擅长，但我喜欢。"
+      },
+      {
+        "japanese": "悪いけど、明日のパーティーに行けません。",
+        "romaji": "warui kedo, ashita no paatii ni ikemasen.",
+        "english": "不好意思，我明天去不了派对。"
+      },
+      {
+        "japanese": "眠いけど、まだ宿題があるから寝られません。",
+        "romaji": "nemui kedo, mada shukudai ga aru kara neraremasen.",
+        "english": "我很困，但还有作业要做所以不能睡。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%91%e3%81%a9-kedo-meaning/"
+  },
+  {
+    "id": "%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82-keredo-mo-meaning",
+    "title": "JLPT N5 Grammarけれども(keredo mo)",
+    "titleRomaji": "JLPT N5 Grammar keredomo (keredo mo )",
+    "explanation": "但是；可是；虽然～",
+    "examples": [
+      {
+        "japanese": "外はさむいけれど、家の中は暖かいです。",
+        "romaji": "soto wa samui keredo, ie no naka wa atatakai desu.",
+        "english": "外面很冷，但屋里很暖和。"
+      },
+      {
+        "japanese": "彼は若いけれども経験がある。",
+        "romaji": "kare wa wakai keredo mo keiken ga aru.",
+        "english": "他虽然年轻但有经验。"
+      },
+      {
+        "japanese": "眠いけれど、まだ宿題があるから寝られません。",
+        "romaji": "nemui keredo, mada shukudai ga aru kara neraremasen.",
+        "english": "我很困但还有作业要做所以不能睡。"
+      },
+      {
+        "japanese": "このカメラは高かったけれど、すぐ壊れてしまいました。",
+        "romaji": "kono kamera wa takakatta keredo, sugu kowarete shimaimashita.",
+        "english": "这个相机很贵，但很快就坏了。"
+      },
+      {
+        "japanese": "雪が降っているけれども、スーパーに行きます。",
+        "romaji": "yuki ga futteiru keredo mo, suupaa ni ikimasu.",
+        "english": "虽然在下雪，但我还是要去超市。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82-keredo-mo-meaning/"
+  },
+  {
+    "id": "%e3%81%be%e3%81%a0-mada-meaning",
+    "title": "JLPT N5 Grammarまだ(mada)",
+    "titleRomaji": "JLPT N5 Grammar mada (mada )",
+    "explanation": "还；还没",
+    "examples": [
+      {
+        "japanese": "まだですか？",
+        "romaji": "mada desu ka?",
+        "english": "好了吗？/到了吗？/还没...？"
+      },
+      {
+        "japanese": "まだまだ暑いだ。",
+        "romaji": "mada mada atsui da.",
+        "english": "还是很热。（mada可以连用两次表示强调）"
+      },
+      {
+        "japanese": "先生はまだ来ていない。",
+        "romaji": "sensei wa mada kiteinai.",
+        "english": "老师还没来。"
+      },
+      {
+        "japanese": "もう10時ですが弟がまだ寝ている。",
+        "romaji": "mou juuji desu ga otouto ga mada neteiru.",
+        "english": "已经10点了，但我弟弟还在睡觉。"
+      },
+      {
+        "japanese": "まだ1時間もあるよ。",
+        "romaji": "mada ichijikan mo aru yo.",
+        "english": "我们还有一个小时呢。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a0-mada-meaning/"
+  },
+  {
+    "id": "%e3%81%be%e3%81%a0%ef%bd%9e%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93-mada-te-imasen-meaning",
+    "title": "JLPT N5 Grammarまだ～ていません(mada ~te imasen)",
+    "titleRomaji": "JLPT N5 Grammar mada ~ teimasen (mada ~te imasen )",
+    "explanation": "还没～",
+    "examples": [
+      {
+        "japanese": "バスはまだ来ていません。",
+        "romaji": "basu wa mada kiteimasen.",
+        "english": "公交车还没来。"
+      },
+      {
+        "japanese": "まだ、決まっていません。",
+        "romaji": "mada, kimatteimasen.",
+        "english": "还没定下来。"
+      },
+      {
+        "japanese": "私はまだ朝ごはんを食べていません。",
+        "romaji": "watashi wa mada asagohan o tabete imasen.",
+        "english": "我还没吃早饭。"
+      },
+      {
+        "japanese": "今週の新しい単語をまだ覚えていません。",
+        "romaji": "konshuu no atarashii tango o mada oboete imasen.",
+        "english": "我还没记住这周的新单词。"
+      },
+      {
+        "japanese": "父はまだ帰ってきていない。",
+        "romaji": "chichi wa mada kaette kiteinai.",
+        "english": "爸爸还没回家。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a0%ef%bd%9e%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93-mada-te-imasen-meaning/"
+  },
+  {
+    "id": "%e3%81%be%e3%81%a7-made-meaning",
+    "title": "JLPT N5 Grammarまで(made)",
+    "titleRomaji": "JLPT N5 Grammar made (made )",
+    "explanation": "直到；到；甚至～",
+    "examples": [
+      {
+        "japanese": "昨日までお休みでした。",
+        "romaji": "kinou made o yasumi deshita.",
+        "english": "到昨天为止我都在休假。"
+      },
+      {
+        "japanese": "ここからそこまでは遠いですよ。",
+        "romaji": "koko kara soko made wa tooi desu yo.",
+        "english": "从这里到那里很远！"
+      },
+      {
+        "japanese": "駅まで行きたいんですが、どう行ったらいいですか。",
+        "romaji": "eki made ikitai ndesu ga, dou ittara ii desu ka.",
+        "english": "我想去车站，怎么走？"
+      },
+      {
+        "japanese": "最後までがんばってね！",
+        "romaji": "saigo made ganbatte ne!",
+        "english": "坚持到最后！"
+      },
+      {
+        "japanese": "家まで車で送ります。",
+        "romaji": "ie made kuruma de okurimasu.",
+        "english": "我开车送你回家。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a7-made-meaning/"
+  },
+  {
+    "id": "%e5%89%8d%e3%81%ab-%e3%81%be%e3%81%88%e3%81%ab-mae-ni-meaning",
+    "title": "JLPT N5 Grammar前に(mae ni)",
+    "titleRomaji": "JLPT N5 Grammar mae ni (mae ni )",
+    "explanation": "在...之前；在...前面～",
+    "examples": [
+      {
+        "japanese": "ドアを開ける前にノックぐらいしてください。",
+        "romaji": "doa o akeru mae ni nokku gurai shite kudasai.",
+        "english": "开门前至少先敲个门。"
+      },
+      {
+        "japanese": "コンビニの前にじてんしゃがたくさんあります。",
+        "romaji": "konbini no mae ni jitensha ga takusan arimasu.",
+        "english": "便利店前面有很多自行车。"
+      },
+      {
+        "japanese": "旅行の前に切符を買っておきます。",
+        "romaji": "ryokou no mae ni kippu o katte okimasu.",
+        "english": "旅行前我会买好票。"
+      },
+      {
+        "japanese": "ご飯の前に手を洗いましょう。",
+        "romaji": "gohan no mae ni te o araimashou.",
+        "english": "吃饭前要洗手。"
+      },
+      {
+        "japanese": "テストの前に一生懸命勉強しました。",
+        "romaji": "tesuto no mae ni isshokenmei benkyou shimashita.",
+        "english": "考试前我拼命学习。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%89%8d%e3%81%ab-%e3%81%be%e3%81%88%e3%81%ab-mae-ni-meaning/"
+  },
+  {
+    "id": "%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b-masen-ka-meaning",
+    "title": "JLPT N5 Grammarませんか(masen ka)",
+    "titleRomaji": "JLPT N5 Grammar masenka (masen ka )",
+    "explanation": "要不要；想不想；一起...吧～",
+    "examples": [
+      {
+        "japanese": "今日一緒に食べませんか？",
+        "romaji": "kyou isshoni tabemasen ka?",
+        "english": "今天一起吃饭怎么样？"
+      },
+      {
+        "japanese": "うちで映画を見ませんか。",
+        "romaji": "uchi de eiga o mimasen ka.",
+        "english": "来我家看电影怎么样？"
+      },
+      {
+        "japanese": "お茶にしませんか？",
+        "romaji": "ocha ni shimasen ka?",
+        "english": "喝杯茶怎么样？"
+      },
+      {
+        "japanese": "日曜日にテニスをしませんか。",
+        "romaji": "nichiyoubi ni tenisu o shimasen ka.",
+        "english": "周日打网球怎么样？"
+      },
+      {
+        "japanese": "明日自転車で学校へ行きませんか？",
+        "romaji": "ashita jitensha de gakkou e ikimasen ka?",
+        "english": "明天骑自行车去学校怎么样？"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b-masen-ka-meaning/"
+  },
+  {
+    "id": "%e3%81%be%e3%81%97%e3%82%87%e3%81%86-mashou-meaning",
+    "title": "JLPT N5 Grammarましょう(mashou)",
+    "titleRomaji": "JLPT N5 Grammar mashou (mashou )",
+    "explanation": "我们...吧；一起...吧～",
+    "examples": [
+      {
+        "japanese": "行きましょう！",
+        "romaji": "iki mashou!",
+        "english": "我们走吧！"
+      },
+      {
+        "japanese": "駅で会いましょう！",
+        "romaji": "eki de ai mashou!",
+        "english": "我们在车站见！"
+      },
+      {
+        "japanese": "もうご飯の時間だよ、早く食べましょう！",
+        "romaji": "mou gohan no jikan dayo, hayaku tabe mashou!",
+        "english": "已经到饭点了，快点吃吧！"
+      },
+      {
+        "japanese": "帰る前に教室をきれいにしましょう。",
+        "romaji": "kaeru mae ni kyoushitsu o kirei ni shi mashou.",
+        "english": "回家前把教室打扫干净吧。"
+      },
+      {
+        "japanese": "一緒に日本語を勉強しましょう！",
+        "romaji": "isshoni nihongo o benkyou shi mashou!",
+        "english": "我们一起学日语吧！"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%97%e3%82%87%e3%81%86-mashou-meaning/"
+  },
+  {
+    "id": "%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%81%8b-mashouka-meaning",
+    "title": "JLPT N5 Grammarましょうか(mashouka)",
+    "titleRomaji": "JLPT N5 Grammar mashouka (mashouka )",
+    "explanation": "我来...吧；用于向对方提供帮助",
+    "examples": [
+      {
+        "japanese": "マドを開けましょうか。",
+        "romaji": "mado o ake mashouka?",
+        "english": "我来开窗吧？"
+      },
+      {
+        "japanese": "手伝いましょうか。",
+        "romaji": "tetsudai mashouka?",
+        "english": "要我帮忙吗？"
+      },
+      {
+        "japanese": "荷物を持ちましょうか。",
+        "romaji": "nimotsu o mochi mashouka?",
+        "english": "我来帮你拿行李吧？"
+      },
+      {
+        "japanese": "タクシーを呼びましょうか。",
+        "romaji": "takushii o yobi mashouka?",
+        "english": "我给你叫出租车吧？"
+      },
+      {
+        "japanese": "私がお皿を洗いましょうか？",
+        "romaji": "watashi ga osara o arai mashouka?",
+        "english": "我来洗碗吧？"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%81%8b-mashouka-meaning/"
+  },
+  {
+    "id": "%e3%82%82%e3%81%86-mou-meaning",
+    "title": "JLPT N5 Grammarもう(mou)",
+    "titleRomaji": "JLPT N5 Grammar mou (mou )",
+    "explanation": "已经；再；又；其他",
+    "examples": [
+      {
+        "japanese": "もう昼ご飯の時間だ。早く食べましょう！",
+        "romaji": "mou hiru gohan no jikan da. hayaku tabe mashou!",
+        "english": "已经到午饭时间了，快点吃吧！"
+      },
+      {
+        "japanese": "宿題はもう終わった？",
+        "romaji": "shukudai wa mou owatta?",
+        "english": "作业已经做完了吗？"
+      },
+      {
+        "japanese": "ビールもう一杯ください！",
+        "romaji": "biiru mou ippai kudasai!",
+        "english": "请再来一杯啤酒！"
+      },
+      {
+        "japanese": "飲み物は全部飲みました。もうありません。",
+        "romaji": "nomimono wa zenbu nomimashita. mou arimasen.",
+        "english": "饮料都喝完了。已经没有了。"
+      },
+      {
+        "japanese": "もう少し待ってください。",
+        "romaji": "mou sukoshi matte kudasai.",
+        "english": "请再稍等一会。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%86-mou-meaning/"
+  },
+  {
+    "id": "%e3%81%aa%e3%81%82-naa-sentence-ending-particle-meaning",
+    "title": "JLPT N5 Grammarなあ(naa)",
+    "titleRomaji": "JLPT N5 Grammar naa (naa )",
+    "explanation": "句尾助词；表示确认、感叹等",
+    "examples": [
+      {
+        "japanese": "たくさんの人がいるなあ。",
+        "romaji": "takusan no hito ga iru naa.",
+        "english": "哇，这里有好多人啊。"
+      },
+      {
+        "japanese": "これ、美味しいなあ。",
+        "romaji": "kore, oishii naa.",
+        "english": "这个真好吃啊。"
+      },
+      {
+        "japanese": "暑くなってきたなあ。",
+        "romaji": "atsu ku natte kita naa.",
+        "english": "开始变热了啊。"
+      },
+      {
+        "japanese": "それは本当かな。",
+        "romaji": "sore wa hontou kana.",
+        "english": "不知道那是不是真的..."
+      },
+      {
+        "japanese": "明日は晴れるかなあ。",
+        "romaji": "ashita wa hareru kanaa.",
+        "english": "不知道明天会不会放晴..."
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%82-naa-sentence-ending-particle-meaning/"
+  },
+  {
+    "id": "%e3%81%aa%e3%81%84%e3%81%a7-naide-meaning",
+    "title": "JLPT N5 Grammarないで(naide)",
+    "titleRomaji": "JLPT N5 Grammar naide (naide )",
+    "explanation": "不做...；不...就做[B]",
+    "examples": [
+      {
+        "japanese": "コーヒーには、いつもさとうを入れないで飲みます。",
+        "romaji": "koohii ni wa, itsumo satou o irenaide nomimasu.",
+        "english": "我喝咖啡总是不加糖。"
+      },
+      {
+        "japanese": "彼女はカサを持たないで出てしまった。",
+        "romaji": "kanojo wa kasa o mota naide deteshimatta.",
+        "english": "她没带伞就出门了。"
+      },
+      {
+        "japanese": "昨日は疲れていて、電気を消さないで寝てしまった。",
+        "romaji": "kinou wa tsukarete ite, denki o kesanaide nete shimatta.",
+        "english": "昨天我太累了，没关灯就睡着了。"
+      },
+      {
+        "japanese": "今朝、朝ごはんを食べないで仕事に来ました。",
+        "romaji": "kesa, asa gohan o tabenaide shigoto ni kimashita.",
+        "english": "今天早上没吃早饭就来上班了。"
+      },
+      {
+        "japanese": "昨日、お風呂に入らないで寝てしまった。",
+        "romaji": "kinou, ofuro ni haira naide neteshimatta.",
+        "english": "昨天没洗澡就睡了。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7-naide-meaning/"
+  },
+  {
+    "id": "%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-naide-kudasai-meaning",
+    "title": "JLPT N5 Grammarないでください(naide kudasai)",
+    "titleRomaji": "JLPT N5 Grammar naidekudasai (naide kudasai )",
+    "explanation": "请不要～",
+    "examples": [
+      {
+        "japanese": "泣かないでください。",
+        "romaji": "nakanaide kudasai",
+        "english": "请不要哭。"
+      },
+      {
+        "japanese": "このパソコンを使わないでください。",
+        "romaji": "kono pasokon o tsukawanaide kudasai.",
+        "english": "请不要用这台电脑。"
+      },
+      {
+        "japanese": "明日の予定を忘れないでください。",
+        "romaji": "ashita no yotei o wasure naide kudasai.",
+        "english": "请不要忘记明天的安排！"
+      },
+      {
+        "japanese": "私のことを心配しないでください。",
+        "romaji": "watashi no koto o shinpai shi naide kudasai.",
+        "english": "请不要担心我。"
+      },
+      {
+        "japanese": "道の邪魔をしないでください。",
+        "romaji": "michi no jama o shi naide kudasai",
+        "english": "请不要挡路。"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-naide-kudasai-meaning/"
+  },
+  {
+    "id": "%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-naito-ikenai-meaning",
+    "title": "JLPT N5 Grammarないといけない(naito ikenai)",
+    "titleRomaji": "JLPT N5 Grammar naitoikenai (naito ikenai )",
+    "explanation": "必须做；有义务做～",
+    "examples": [
+      {
+        "japanese": "そろそろ寝ないといけない。",
+        "romaji": "sorosoro nenaito ikenai.",
+        "english": "我得快睡了。"
+      },
+      {
+        "japanese": "私は家に帰らないといけない。",
+        "romaji": "watashi wa ie ni kaeranaito ikenai.",
+        "english": "我必须回家。"
+      },
+      {
+        "japanese": "今から勉強をしないといけない。",
+        "romaji": "ima kara benkyou o shinaito ikenai.",
+        "english": "我现在必须学习。"
+      },
+      {
+        "japanese": "明日から働かないといけない。",
+        "romaji": "ashita kara hatarakanaito ikenai.",
+        "english": "我从明天起必须工作。"
+      },
+      {
+        "japanese": "この薬を飲まないといけませんか。",
+        "romaji": "kono kusuri o nomanaito ikemasen ka?",
+        "english": "我必须吃这个药吗？"
+      }
+    ],
+    "jlptLevel": "N5",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-naito-ikenai-meaning/"
+  },
+  {
+    "id": "%e9%96%93-aida-meaning",
+    "title": "JLPT N4 Grammar間(aida)",
+    "titleRomaji": "JLPT N4 Grammar kan (aida )",
+    "explanation": "在...期间；在...之间～",
+    "examples": [
+      {
+        "japanese": "昨日は、家にいる間、ずっとテレビを見ていました。",
+        "romaji": "kinou wa, ie ni iru aida, zutto terebi o miteimashita.",
+        "english": "昨天我在家的时候一直在看电视。"
+      },
+      {
+        "japanese": "日本にいる間は、毎日日本語を話すつもりです。",
+        "romaji": "nihon ni iru aida wa, mainichi nihongo o hanasu tsumori desu.",
+        "english": "在日本期间，我打算每天说日语。"
+      },
+      {
+        "japanese": "サイクリングをしている間、ずっと雨が降っていました。",
+        "romaji": "saikuringu o shiteiru aida, zutto ame ga futteimashita.",
+        "english": "我骑自行车的时候一直在下雨。"
+      },
+      {
+        "japanese": "食事の間、彼女と一緒に映画を見ました。",
+        "romaji": "shokuji no aida, kanojo to isshoni eiga o mimashita.",
+        "english": "吃饭的时候，我和女朋友一起看了电影。"
+      },
+      {
+        "japanese": "学校にいる間は、スマホを使ってはいけません。",
+        "romaji": "gakkou ni iru aida wa, sumaho o tsukatte wa ikemasen.",
+        "english": "在学校期间不能使用智能手机。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e9%96%93-aida-meaning/"
+  },
+  {
+    "id": "%e9%96%93%e3%81%ab-aida-ni-meaning",
+    "title": "JLPT N4 Grammar間に(aida ni)",
+    "titleRomaji": "JLPT N4 Grammar mani (aida ni )",
+    "explanation": "在...期间；在...时候发生了某事",
+    "examples": [
+      {
+        "japanese": "夜の間に火事が起こった。",
+        "romaji": "yoru no aida ni kaji ga okotta.",
+        "english": "夜里发生了火灾。"
+      },
+      {
+        "japanese": "知らない間に寝ていた。",
+        "romaji": "shiranai aida ni neteita.",
+        "english": "不知不觉就睡着了。"
+      },
+      {
+        "japanese": "日本にいる間に、日本語が上手になりたいです。",
+        "romaji": "nihon ni iru aida ni, nihongo ga jouzu ni naritai desu.",
+        "english": "我想在日本期间把日语学好。"
+      },
+      {
+        "japanese": "休みの間に漢字を200個覚えた。",
+        "romaji": "yasumi no aida ni kanji o ni hyaku ko oboeta.",
+        "english": "假期里我记住了200个汉字。"
+      },
+      {
+        "japanese": "先生がいない間にスマホを見ていた。",
+        "romaji": "sensei ga inai aida ni, sumaho o miteita.",
+        "english": "老师不在的时候我在看手机。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e9%96%93%e3%81%ab-aida-ni-meaning/"
+  },
+  {
+    "id": "%e5%be%8c%e3%81%a7-%e3%81%82%e3%81%a8%e3%81%a7-ato-de-meaning",
+    "title": "JLPT N4 Grammar後で(ato de)",
+    "titleRomaji": "JLPT N4 Grammar atode (ato de )",
+    "explanation": "在...之后；之后",
+    "examples": [
+      {
+        "japanese": "図書館で宿題をしたあとで、帰ります。",
+        "romaji": "toshokan de shukudai o shita ato de, kaerimasu.",
+        "english": "在图书馆做完作业后我就回家。"
+      },
+      {
+        "japanese": "晩ご飯の後でアイスを食べた。",
+        "romaji": "bangohan no ato de aisu o tabeta",
+        "english": "晚饭后我吃了冰淇淋。"
+      },
+      {
+        "japanese": "授業が終わった後で、部活に行く。",
+        "romaji": "jugyou ga owatta ato de, bukatsu ni iku.",
+        "english": "下课后我会去社团活动。"
+      },
+      {
+        "japanese": "お酒を飲んだ後で、運転してはダメですよ！",
+        "romaji": "osake o nonda ato de, unten shitewa dame desu yo.",
+        "english": "喝酒后不能开车！"
+      },
+      {
+        "japanese": "昼ご飯を食べた後で、30分ほど昼寝をした。",
+        "romaji": "hiru gohan o tabeta ato de, sanjuu pun hodo hirune o shita.",
+        "english": "吃完午饭后，我午睡了大约30分钟。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%be%8c%e3%81%a7-%e3%81%82%e3%81%a8%e3%81%a7-ato-de-meaning/"
+  },
+  {
+    "id": "%e3%81%b0-ba-conditional-form-meaning",
+    "title": "JLPT N4 Grammarば(ba)",
+    "titleRomaji": "JLPT N4 Grammar ba (ba )",
+    "explanation": "条件形；如果[A]那么[B]",
+    "examples": [
+      {
+        "japanese": "このボタンを押せば、ドアが開きます。",
+        "romaji": "kono botan o oseba, doa ga hirakimasu.",
+        "english": "按这个按钮门就会开。"
+      },
+      {
+        "japanese": "あなたが行けば、わたしも行くよ。",
+        "romaji": "anata ga ikeba, watashi mo iku yo.",
+        "english": "如果你去，我也去。"
+      },
+      {
+        "japanese": "今すぐ出発すれば間に合うでしょう。",
+        "romaji": "ima sugu shuppatsu sureba ma ni au deshou.",
+        "english": "如果现在就出发应该能赶上。"
+      },
+      {
+        "japanese": "毎日練習をすれば、上手になるよ。",
+        "romaji": "mainichi renshuu o sureba, jouzu ni naru yo.",
+        "english": "如果每天练习，你会变得很厉害！"
+      },
+      {
+        "japanese": "数週間もすれば、みんな忘れるよ。",
+        "romaji": "suushuukan mo sureba, minna wasureru yo.",
+        "english": "几周后大家就会忘记了。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0-ba-conditional-form-meaning/"
+  },
+  {
+    "id": "%e5%a0%b4%e5%90%88%e3%81%af-baai-wa-meaning",
+    "title": "JLPT N4 Grammar場合は(baai wa)",
+    "titleRomaji": "JLPT N4 Grammar baai ha (baai wa )",
+    "explanation": "在...的情况下；如果...的话～",
+    "examples": [
+      {
+        "japanese": "パスワードを忘れた場合は、こちらからご連絡ください。",
+        "romaji": "pasuwaado o wasureta baai wa, kochira kara gorenraku kudasai.",
+        "english": "如果忘记密码，请在这里联系我们。"
+      },
+      {
+        "japanese": "火事の場合は、119をかけます。",
+        "romaji": "kaji no baai wa, 119 o kakemasu.",
+        "english": "发生火灾时，拨打119。"
+      },
+      {
+        "japanese": "地震が起きた場合は、テーブルの下に潜ってください。",
+        "romaji": "jishin ga okita baai wa, teeburu no shita ni mogutte kudasai.",
+        "english": "发生地震时，请躲到桌子下面。"
+      },
+      {
+        "japanese": "避難する場合は、車を使わないで必ず歩きます。",
+        "romaji": "hinan suru baai wa, kuruma o tsukawanaide kanarazu arukimasu.",
+        "english": "撤离时，不要使用汽车，一定要步行。"
+      },
+      {
+        "japanese": "授業に間に合わない場合は、連絡してください。",
+        "romaji": "jugyou ni ma ni awanai baai wa, renraku shite kudasai.",
+        "english": "如果赶不上课，请联系我们。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%a0%b4%e5%90%88%e3%81%af-baai-wa-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%e3%81%8b%e3%82%8a-bakari-meaning",
+    "title": "JLPT N4 Grammarばかり(bakari)",
+    "titleRomaji": "JLPT N4 Grammar bakari (bakari )",
+    "explanation": "只；净是～",
+    "examples": [
+      {
+        "japanese": "娘はテレビばかり見ている。",
+        "romaji": "musume wa terebi bakari miteiru.",
+        "english": "我女儿只会看电视。"
+      },
+      {
+        "japanese": "彼はお金ばかり考えている。",
+        "romaji": "kare wa o kane bakari kangaiteiru.",
+        "english": "他满脑子只想着钱。"
+      },
+      {
+        "japanese": "甘いものばかり食べると太ります。",
+        "romaji": "amaimono bakari taberu to futorimasu.",
+        "english": "如果只吃甜食会变胖。"
+      },
+      {
+        "japanese": "嘘ばかりつく人が嫌いだ。",
+        "romaji": "uso bakari tsuku hito ga kirai da.",
+        "english": "我讨厌总是说谎的人。"
+      },
+      {
+        "japanese": "得るものはなく、失うものばかりだ。",
+        "romaji": "eru mono wa naku, ushinau mono bakari da.",
+        "english": "没有什么收获，只有失去的东西。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a-bakari-meaning/"
+  },
+  {
+    "id": "%e3%81%a0%e3%81%91%e3%81%a7-dake-de-meaning",
+    "title": "JLPT N4 Grammarだけで(dake de)",
+    "titleRomaji": "JLPT N4 Grammar dakede (dake de )",
+    "explanation": "仅凭；只要...就",
+    "examples": [
+      {
+        "japanese": "あなたに会うだけで元気になる。",
+        "romaji": "anata ni au dake de genki ni naru.",
+        "english": "只要见到你就会变得精神起来。"
+      },
+      {
+        "japanese": "あなたの写真を見るだけでうれしい。",
+        "romaji": "anata no shashin o miru dake de ureshii.",
+        "english": "只要看到你的照片就很开心。"
+      },
+      {
+        "japanese": "宿題のことを考えるだけでやる気がなくなります。",
+        "romaji": "shukudai no koto o kangaeru dake de yaruki ga naku narimasu.",
+        "english": "一想到作业就失去动力。"
+      },
+      {
+        "japanese": "二人だけで少し話がしたい。",
+        "romaji": "futari dake de sukoshi hanashi ga shitai.",
+        "english": "我想只有我们两个人聊一会儿。"
+      },
+      {
+        "japanese": "彼女のことを思うだけでドキドキする。",
+        "romaji": "kanojo no koto o omou dake de doki doki suru.",
+        "english": "只要想到她就会心跳加速。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%a7-dake-de-meaning/"
+  },
+  {
+    "id": "%e5%87%ba%e3%81%99-dasu-meaning",
+    "title": "JLPT N4 Grammar出す(dasu)",
+    "titleRomaji": "JLPT N4 Grammar dasu (dasu )",
+    "explanation": "开始；突然...起来；...出来（表示动作的开始或向外）",
+    "examples": [
+      {
+        "japanese": "雨が急に降り出した。",
+        "romaji": "ame ga kyuu ni furi dashita.",
+        "english": "突然下起雨来了。"
+      },
+      {
+        "japanese": "彼は店から飛び出した。",
+        "romaji": "kare wa mise kara tobi dashita.",
+        "english": "他从店里冲了出去。"
+      },
+      {
+        "japanese": "校長室へ呼び出された。",
+        "romaji": "kouchoushitsu e yobi dasareta.",
+        "english": "我被叫到校长室去了。"
+      },
+      {
+        "japanese": "それを運び出してくれますか。",
+        "romaji": "sore o hakobi dashite kuremasu ka?",
+        "english": "你能帮我把那个搬出去吗？"
+      },
+      {
+        "japanese": "朝食後すぐに飛び出した。",
+        "romaji": "choushoku go sugu ni tobi dashita.",
+        "english": "吃完早饭后马上就冲了出去。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%87%ba%e3%81%99-dasu-meaning/"
+  },
+  {
+    "id": "%e3%81%a7%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-de-gozaimasu-meaning",
+    "title": "JLPT N4 Grammarでございます(de gozaimasu)",
+    "titleRomaji": "JLPT N4 Grammar degozaimasu (de gozaimasu )",
+    "explanation": "是（敬语）",
+    "examples": [
+      {
+        "japanese": "お釣でございます。",
+        "romaji": "otsuri de gozaimasu.",
+        "english": "这是您的找零。"
+      },
+      {
+        "japanese": "初めまして、経理部の佐藤でございます。",
+        "romaji": "hajime mashite, keiribu no satou degozaimasu.",
+        "english": "初次见面，我是财务部的佐藤。"
+      },
+      {
+        "japanese": "この件に関しましては、ただいま確認中でございます。",
+        "romaji": "kono ken ni kanshi mashite wa, tadaima kakuninchuu degozaimasu.",
+        "english": "关于这件事，我们正在确认中。"
+      },
+      {
+        "japanese": "私からは以上でございます。",
+        "romaji": "watashi kara wa ijou de gozaimasu.",
+        "english": "我要说的就是这些。"
+      },
+      {
+        "japanese": "予約で満員でございます。",
+        "romaji": "yoyaku wa man'in de gozaimasu.",
+        "english": "预约已经满了。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-de-gozaimasu-meaning/"
+  },
+  {
+    "id": "%e3%81%a7%e3%82%82-demo-meaning-something",
+    "title": "JLPT N4 Grammarでも(demo)",
+    "titleRomaji": "JLPT N4 Grammar demo (demo )",
+    "explanation": "...或什么的；来点...怎么样",
+    "examples": [
+      {
+        "japanese": "水でも飲みますか？",
+        "romaji": "mizu demo nomimasu ka?",
+        "english": "要不要喝点水什么的？"
+      },
+      {
+        "japanese": "牛丼でもしましょうか？",
+        "romaji": "gyuudon demo shimashou ka?",
+        "english": "吃牛肉盖饭什么的怎么样？"
+      },
+      {
+        "japanese": "寒いから、暖かいものでも飲みませんか。",
+        "romaji": "samui kara, atatakai mono demo nomimasen ka.",
+        "english": "有点冷，要不要喝点热的什么的？"
+      },
+      {
+        "japanese": "晩ご飯ならサラダでも作りましょうか？",
+        "romaji": "bangohan nara sarada demo tsukuri mashouka?",
+        "english": "晚饭的话要不要做个沙拉什么的？"
+      },
+      {
+        "japanese": "ちょっと時間があるからゲームでもしましょうか？",
+        "romaji": "chotto jikan ga aru kara geemu demo shimashou ka？",
+        "english": "有点时间，玩玩游戏什么的怎么样？"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%82%82-demo-meaning-something/"
+  },
+  {
+    "id": "%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b-dewa-nai-ka-meaning",
+    "title": "JLPT N4 Grammarではないか(dewa nai ka)",
+    "titleRomaji": "JLPT N4 Grammar dehanaika (dewa nai ka )",
+    "explanation": "对吧？不是吗？",
+    "examples": [
+      {
+        "japanese": "トムではないか。",
+        "romaji": "tomu dewa nai ka.",
+        "english": "这不是汤姆吗？"
+      },
+      {
+        "japanese": "何ときれいではないか。",
+        "romaji": "nanto kirei dewa nai ka.",
+        "english": "多么漂亮啊！"
+      },
+      {
+        "japanese": "すばらしい天気ではないか。",
+        "romaji": "subarashii tenki dewa nai ka.",
+        "english": "天气真好啊，对吧？"
+      },
+      {
+        "japanese": "明日は雨ではないかと思う。",
+        "romaji": "ashita wa ame dewa nai ka to omou.",
+        "english": "我觉得明天会下雨。"
+      },
+      {
+        "japanese": "彼は病気ではないかと思う。",
+        "romaji": "kare wa byouki dewa nai ka to omou.",
+        "english": "我怀疑他生病了。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b-dewa-nai-ka-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e5%bf%85%e8%a6%81-ga-hitsuyou-meaning",
+    "title": "JLPT N4 Grammarが必要(ga hitsuyou)",
+    "titleRomaji": "JLPT N4 Grammar ga hitsuyou (ga hitsuyou )",
+    "explanation": "需要；必要",
+    "examples": [
+      {
+        "japanese": "それは必要だ。",
+        "romaji": "sore wa hitsuyou da.",
+        "english": "那是必要的。"
+      },
+      {
+        "japanese": "君が必要だ。",
+        "romaji": "kimi ga hitsuyou da.",
+        "english": "我需要你！"
+      },
+      {
+        "japanese": "サインは必要ですか？",
+        "romaji": "sain wa hitsuyou desu ka?",
+        "english": "需要签名吗？"
+      },
+      {
+        "japanese": "サッカーを練習する場所が必要です。",
+        "romaji": "sakkaa o renshuu suru basho ga hitsuyou desu.",
+        "english": "我需要一个练习足球的地方。"
+      },
+      {
+        "japanese": "私は少し考える時間が必要です。",
+        "romaji": "watashi wa sukoshi kangaeru jikan ga hitsuyou desu.",
+        "english": "我需要一些时间考虑一下。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e5%bf%85%e8%a6%81-ga-hitsuyou-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e3%81%99%e3%82%8b-ga-suru-meaning",
+    "title": "JLPT N4 Grammarがする(ga suru)",
+    "titleRomaji": "JLPT N4 Grammar gasuru (ga suru )",
+    "explanation": "有...的味道；听到...的声音；闻到...的气味",
+    "examples": [
+      {
+        "japanese": "甘い味がする。",
+        "romaji": "amai aji ga suru.",
+        "english": "有甜味。"
+      },
+      {
+        "japanese": "人の声がする。",
+        "romaji": "hito no koe ga suru.",
+        "english": "我能听到有人的声音。"
+      },
+      {
+        "japanese": "ガスの匂いがする。",
+        "romaji": "gasu no nioi ga suru.",
+        "english": "我闻到煤气味。"
+      },
+      {
+        "japanese": "このクッキーはしょうがの味がする。",
+        "romaji": "kono kukkii wa shouga no aji ga suru.",
+        "english": "这个饼干有生姜的味道。"
+      },
+      {
+        "japanese": "このフルーツはどんな味がする？",
+        "romaji": "kono furuutsu wa donna aji ga suru?",
+        "english": "这个水果是什么味道？"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%99%e3%82%8b-ga-suru-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e3%82%8a-gari-meaning",
+    "title": "JLPT N4 Grammarがり(gari)",
+    "titleRomaji": "JLPT N4 Grammar gari (gari )",
+    "explanation": "性格（表示倾向、易...的性格）",
+    "examples": [
+      {
+        "japanese": "彼女は寂しがり屋です。",
+        "romaji": "kanojo wa sabishi gari ya desu.",
+        "english": "她是个怕寂寞的人。"
+      },
+      {
+        "japanese": "この仕事は恥ずかしがりの人には向いていない 。",
+        "romaji": "kono shigoto wa hazukashi gari no hito ni wa muiteinai.",
+        "english": "这个工作不适合害羞的人。"
+      },
+      {
+        "japanese": "彼は強がりだけど、優しい心の人です。",
+        "romaji": "kare wa tsuyogari dakedo, yasashii kokoro no hito desu.",
+        "english": "他虽然逞强，但内心很温柔。"
+      },
+      {
+        "japanese": "彼女は怖がりだからホラー映画はダメだ。",
+        "romaji": "kanojo wa kowa gari dakara horaa eiga wa dame da",
+        "english": "她胆子小，所以不能看恐怖片。"
+      },
+      {
+        "japanese": "私は寒がりなので、冬はあまり好きじゃない。",
+        "romaji": "watashi wa samu gari nanode, fuyu wa amari suki janai.",
+        "english": "我怕冷，所以不太喜欢冬天。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%82%8a-gari-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e3%82%8b-garu-%e3%81%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b-gatteiru-meaning",
+    "title": "JLPT N4 Grammarがる / がっている(garu / gatteiru)",
+    "titleRomaji": "JLPT N4 Grammar garu  /  gatteiru (garu / gatteiru )",
+    "explanation": "显示出...的迹象；表现出；感到；认为",
+    "examples": [
+      {
+        "japanese": "怖がらないでください。",
+        "romaji": "kowa garanai de kudasai.",
+        "english": "请不要害怕。"
+      },
+      {
+        "japanese": "彼は死ぬのを怖がっている。",
+        "romaji": "kare wa shinu no o kowa gatteiru.",
+        "english": "他害怕死亡。"
+      },
+      {
+        "japanese": "彼は彼女が欲しがるバッグを買ってあげた。",
+        "romaji": "kare wa kanojo ga hoshi garu baggu o katte ageta.",
+        "english": "他给她买了她想要的包。"
+      },
+      {
+        "japanese": "彼は負けて残念がっている。",
+        "romaji": "kare wa makete zannen gatteiru.",
+        "english": "他对输了感到很遗憾。"
+      },
+      {
+        "japanese": "恥ずかしがらないで、前に出てきてください。",
+        "romaji": "hazukashi garanai de, mae ni dete kite kudasai.",
+        "english": "请不要害羞，到前面来。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%82%8b-garu-%e3%81%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b-gatteiru-meaning/"
+  },
+  {
+    "id": "%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-gozaimasu-meaning",
+    "title": "JLPT N4 Grammarございます(gozaimasu)",
+    "titleRomaji": "JLPT N4 Grammar gozaimasu (gozaimasu )",
+    "explanation": "有；在（いる/ある的敬语形式）",
+    "examples": [
+      {
+        "japanese": "ご質問はございますか。",
+        "romaji": "go shitsumon wa gozaimasu ka",
+        "english": "有什么问题吗？"
+      },
+      {
+        "japanese": "お忘れ物はございませんか。",
+        "romaji": "o wasure mono wa gozaimasen ka?",
+        "english": "有遗失物品吗？"
+      },
+      {
+        "japanese": "お時間がございますか？",
+        "romaji": "ojikan ga gozaimasu ka?",
+        "english": "您有时间吗？"
+      },
+      {
+        "japanese": "電話は階段の横にございます。",
+        "romaji": "denwa wa kaidan no yoko ni gozaimasu.",
+        "english": "电话在楼梯旁边。"
+      },
+      {
+        "japanese": "お問い合わせいただいた商品については在庫がございます。",
+        "romaji": "o toiawase itadaita shouhin ni tsuite wa zaiko ga gozaimasu.",
+        "english": "您询问的商品我们有库存。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-gozaimasu-meaning/"
+  },
+  {
+    "id": "%e5%a7%8b%e3%82%81%e3%82%8b-hajimeru-%e5%a7%8b%e3%82%81%e3%81%9f-meaning",
+    "title": "JLPT N4 Grammar始める(hajimeru)",
+    "titleRomaji": "JLPT N4 Grammar hajime ru (hajimeru )",
+    "explanation": "开始；开始做",
+    "examples": [
+      {
+        "japanese": "食べ始める。",
+        "romaji": "tabe hajimeru.",
+        "english": "开始吃。"
+      },
+      {
+        "japanese": "雨が降り始めた。",
+        "romaji": "ame ga furi hajimeta.",
+        "english": "开始下雨了。"
+      },
+      {
+        "japanese": "いつそれをやり始めるの？",
+        "romaji": "itsu sore o yari hajimeru no?",
+        "english": "你什么时候开始做那个？"
+      },
+      {
+        "japanese": "今朝、歯が痛くなり始めた。",
+        "romaji": "kesa, ha ga itaku nari hajimeta.",
+        "english": "今天早上牙开始疼了。"
+      },
+      {
+        "japanese": "私はまだ走り始めていない。",
+        "romaji": "watashi wa mada hashiri hajimete inai.",
+        "english": "我还没开始跑步。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%a7%8b%e3%82%81%e3%82%8b-hajimeru-%e5%a7%8b%e3%82%81%e3%81%9f-meaning/"
+  },
+  {
+    "id": "%e3%81%af%e3%81%9a%e3%81%a0-hazu-da-meaning",
+    "title": "JLPT N4 Grammarはずだ(hazu da)",
+    "titleRomaji": "JLPT N4 Grammar hazuda (hazu da )",
+    "explanation": "一定；应该（表示期待）",
+    "examples": [
+      {
+        "japanese": "あなたなら分かるはずだ。",
+        "romaji": "anata nara wakaru hazu da.",
+        "english": "你应该知道的。"
+      },
+      {
+        "japanese": "彼は今学校にいるはずだ。",
+        "romaji": "kare wa ima gakkou ni iru hazu da.",
+        "english": "他现在应该在学校。"
+      },
+      {
+        "japanese": "お父さんがそろそろ家に帰るはずだ。",
+        "romaji": "otousan ga sorosoro ie ni kaeru hazu da.",
+        "english": "爸爸应该快回家了。"
+      },
+      {
+        "japanese": "今日は祝日だから、銀行は休みのはずだ。",
+        "romaji": "kyou wa shukujitsu dakara, ginkou wa yasumi no hazu da.",
+        "english": "今天是节假日，银行应该休息。"
+      },
+      {
+        "japanese": "それは明らかなはずだ。",
+        "romaji": "sore wa akirakana hazu da.",
+        "english": "那应该是明显的。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%9a%e3%81%a0-hazu-da-meaning/"
+  },
+  {
+    "id": "%e3%81%af%e3%81%9a%e3%81%8c%e3%81%aa%e3%81%84-hazu-ga-nai-meaning",
+    "title": "JLPT N4 Grammarはずがない(hazu ga nai)",
+    "titleRomaji": "JLPT N4 Grammar hazuganai (hazu ga nai )",
+    "explanation": "不可能（表示不可能性）",
+    "examples": [
+      {
+        "japanese": "そんなはずがない。",
+        "romaji": "sonna hazu ga nai.",
+        "english": "不可能是那样的。"
+      },
+      {
+        "japanese": "彼女の話は本当のはずがない。",
+        "romaji": "kanojo no hanashi wa hontou no hazu ga nai.",
+        "english": "她的话不可能是真的。"
+      },
+      {
+        "japanese": "彼はそんなことを言うはずがない。",
+        "romaji": "kare wa sonna koto o iu hazu ga nai.",
+        "english": "他不可能说那种话。"
+      },
+      {
+        "japanese": "ジョンが嘘をついているはずがない。",
+        "romaji": "jon ga uso o tsuiteiru hazu ga nai.",
+        "english": "约翰不可能在说谎。"
+      },
+      {
+        "japanese": "そんな大きな量を全部食べられるはずがない。",
+        "romaji": "sonna ookina ryou o zenbu taberareru hazu ga nai.",
+        "english": "不可能把那么多全部吃完。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%9a%e3%81%8c%e3%81%aa%e3%81%84-hazu-ga-nai-meaning/"
+  },
+  {
+    "id": "%e5%bf%85%e8%a6%81%e3%81%8c%e3%81%82%e3%82%8b-hitsuyou-ga-aru-meaning",
+    "title": "JLPT N4 Grammar必要がある(hitsuyou ga aru)",
+    "titleRomaji": "JLPT N4 Grammar hitsuyou gaaru (hitsuyou ga aru )",
+    "explanation": "需要；有必要",
+    "examples": [
+      {
+        "japanese": "彼らは休む必要がある。",
+        "romaji": "karera wa yasumu hitsuyou ga aru.",
+        "english": "他们需要休息。"
+      },
+      {
+        "japanese": "もっと勉強する必要がある。",
+        "romaji": "motto benkyou suru hitsuyou ga aru.",
+        "english": "我需要更加努力学习。"
+      },
+      {
+        "japanese": "私の弟は今日学校に行く必要がない。",
+        "romaji": "watashi no otouto wa kyou gakkou ni iku hitsuyou ga nai.",
+        "english": "我弟弟今天不需要去学校。"
+      },
+      {
+        "japanese": "俺にはもう必要がない。",
+        "romaji": "ore ni wa mou hitsuyou ga nai.",
+        "english": "我不再需要这个了。"
+      },
+      {
+        "japanese": "何でそんなことをする必要があるんですか？",
+        "romaji": "nande sonna koto o suru hitsuyou ga aru n desu ka?",
+        "english": "为什么有必要做那种事？"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%bf%85%e8%a6%81%e3%81%8c%e3%81%82%e3%82%8b-hitsuyou-ga-aru-meaning/"
+  },
+  {
+    "id": "%e6%84%8f%e5%90%91%e5%bd%a2-ikou-kei-volitional-form-meaning",
+    "title": "JLPT N4 Grammar意向形(ikou kei - volitional form)",
+    "titleRomaji": "JLPT N4 Grammar ikou katachi (ikou kei - volitional form )",
+    "explanation": "意向形；让我们做...",
+    "examples": [
+      {
+        "japanese": "今日から自転車で出勤しよう。",
+        "romaji": "kyou kara jitensha de shukkin shiyou.",
+        "english": "从今天开始骑自行车上班吧！"
+      },
+      {
+        "japanese": "もう11時だ。早く寝よう。",
+        "romaji": "mou 11 ji da. hayaku neyou.",
+        "english": "已经11点了，快点睡觉吧。"
+      },
+      {
+        "japanese": "重たそうだね。手伝おうか。",
+        "romaji": "omota sou da ne. tetsudaou ka?",
+        "english": "看起来很重，我来帮你吧？"
+      },
+      {
+        "japanese": "今日は食堂で昼食を食べよう。",
+        "romaji": "kyou wa shokudou de chuushoku o tabeyou.",
+        "english": "今天在食堂吃午饭吧。"
+      },
+      {
+        "japanese": "図書館で一緒に勉強しよう。",
+        "romaji": "toshokan de issho ni benkyou shiyou.",
+        "english": "一起在图书馆学习吧。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e6%84%8f%e5%90%91%e5%bd%a2-ikou-kei-volitional-form-meaning/"
+  },
+  {
+    "id": "%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%82%8b-irassharu-meaning",
+    "title": "JLPT N4 Grammarいらっしゃる(irassharu)",
+    "titleRomaji": "JLPT N4 Grammar irassharu (irassharu )",
+    "explanation": "在；来；去（敬语）",
+    "examples": [
+      {
+        "japanese": "質問のある方はいらっしゃいませんか。",
+        "romaji": "shitsumon no aru kata wa irasshaimasen ka.",
+        "english": "有问题的人吗？"
+      },
+      {
+        "japanese": "校長先生は図書館にいらっしゃいます。",
+        "romaji": "kouchou sensei wa toshokan ni irasshaimasu.",
+        "english": "校长在图书馆。"
+      },
+      {
+        "japanese": "私たちと一緒にいらっしゃいませんか？",
+        "romaji": "watashitachi to isshoni irasshaimasen ka?",
+        "english": "要不要和我们一起来？"
+      },
+      {
+        "japanese": "先生、何時まで学校にいらっしゃいますか。",
+        "romaji": "sensei, nanji made gakkou ni irasshaimasu ka.",
+        "english": "老师，您在学校待到几点？"
+      },
+      {
+        "japanese": "先生はあなたを信じていらっしゃる。",
+        "romaji": "sensei wa anata o shinjite irassharu.",
+        "english": "老师相信你。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%82%8b-irassharu-meaning/"
+  },
+  {
+    "id": "%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99-itashimasu-meaning",
+    "title": "JLPT N4 Grammarいたします(itashimasu)",
+    "titleRomaji": "JLPT N4 Grammar itashimasu (itashimasu )",
+    "explanation": "做（する的敬语形式）",
+    "examples": [
+      {
+        "japanese": "失礼いたします。",
+        "romaji": "shitsurei itashimasu.",
+        "english": "失礼了。"
+      },
+      {
+        "japanese": "この仕事は私がいたします。",
+        "romaji": "kono shigoto wa watashi ga itashimasu.",
+        "english": "这个工作我来做。"
+      },
+      {
+        "japanese": "お席にご案内いたします。",
+        "romaji": "oseki ni goannai itashimasu.",
+        "english": "我来带您到座位。"
+      },
+      {
+        "japanese": "新幹線の予約は私がいたします。",
+        "romaji": "shinkansen no yoyaku wa watashi ga itashimasu.",
+        "english": "新干线的预订我来办。"
+      },
+      {
+        "japanese": "荷物は私が明日にお届けいたします。",
+        "romaji": "nimotsu wa watashi ga ashita ni otodoke itashimasu.",
+        "english": "行李我明天给您送去。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99-itashimasu-meaning/"
+  },
+  {
+    "id": "%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%8b-janai-ka-meaning",
+    "title": "JLPT N4 Grammarじゃないか(janai ka)",
+    "titleRomaji": "JLPT N4 Grammar janaika (janai ka )",
+    "explanation": "对吧？不是吗？让我们...（表示确认）",
+    "examples": [
+      {
+        "japanese": "行こうじゃないか。",
+        "romaji": "ikou janai ka.",
+        "english": "走吧，我们去吧？"
+      },
+      {
+        "japanese": "ダメじゃないか。",
+        "romaji": "dame janai ka.",
+        "english": "不行啊（你应该知道的）。"
+      },
+      {
+        "japanese": "だから言ったじゃないか！",
+        "romaji": "dakara itta janai ka!",
+        "english": "所以我说了吧！（我早就告诉你了）"
+      },
+      {
+        "japanese": "今夜外食しようじゃないか。",
+        "romaji": "konya gaishoku shiyou janai ka.",
+        "english": "今晚出去吃饭吧，怎么样？"
+      },
+      {
+        "japanese": "今日は元気そうじゃないか。",
+        "romaji": "kyou wa genki sou janai ka.",
+        "english": "今天看起来很有精神嘛。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%8b-janai-ka-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b-ka-dou-ka-meaning",
+    "title": "JLPT N4 Grammarかどうか(ka dou ka)",
+    "titleRomaji": "JLPT N4 Grammar kadouka (ka dou ka )",
+    "explanation": "是否；是不是",
+    "examples": [
+      {
+        "japanese": "明日晴れるかどうか知らない。",
+        "romaji": "ashita hareru ka dou ka shiranai.",
+        "english": "我不知道明天会不会晴天。"
+      },
+      {
+        "japanese": "それが正しいかどうかわからない。",
+        "romaji": "sore ga tadashii ka dou ka wakaranai.",
+        "english": "我不确定那是否正确。"
+      },
+      {
+        "japanese": "行くかどうか後で電話で知らせます。",
+        "romaji": "iku ka douka atode denwa de shirasemasu.",
+        "english": "去不去，我稍后会打电话告诉你。"
+      },
+      {
+        "japanese": "おいしいかどうか食べないとわからない。",
+        "romaji": "oishii ka douka tabenai to wakaranai.",
+        "english": "不吃的话不知道好不好吃。"
+      },
+      {
+        "japanese": "名前を書いたかどうか、もう一度チェックしてください。",
+        "romaji": "namae o kaita ka douka, mou ichido chekku shite kudasai.",
+        "english": "请再检查一下是否写了名字。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b-ka-dou-ka-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%81%97%e3%82%89-ka-shira-meaning",
+    "title": "JLPT N4 Grammarかしら(ka shira)",
+    "titleRomaji": "JLPT N4 Grammar kashira (ka shira )",
+    "explanation": "我想知道（女性用语）",
+    "examples": [
+      {
+        "japanese": "本当かしら。",
+        "romaji": "hontou ka shira.",
+        "english": "是真的吗（我想知道）。"
+      },
+      {
+        "japanese": "どこへ行ったかしら。",
+        "romaji": "doko e itta ka shira.",
+        "english": "去哪儿了呢（我想知道）。"
+      },
+      {
+        "japanese": "誰かしら。",
+        "romaji": "dare ka shira.",
+        "english": "是谁呢（我想知道）。"
+      },
+      {
+        "japanese": "彼は本気かしら。",
+        "romaji": "kare wa honki ka shira.",
+        "english": "他是认真的吗（我想知道）。"
+      },
+      {
+        "japanese": "明日は雨かしら。",
+        "romaji": "ashita wa ame ka shira.",
+        "english": "明天会下雨吗（我想知道）。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%97%e3%82%89-ka-shira-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84-kamo-shirenai-meaning",
+    "title": "JLPT N4 Grammarかもしれない(kamo shirenai)",
+    "titleRomaji": "JLPT N4 Grammar kamoshirenai (kamo shirenai )",
+    "explanation": "可能；也许（表示可能性）",
+    "examples": [
+      {
+        "japanese": "難しいかも。",
+        "romaji": "muzukashii kamo.",
+        "english": "可能有点难。"
+      },
+      {
+        "japanese": "そうかもしれない。",
+        "romaji": "sou kamo shirenai.",
+        "english": "可能是那样。"
+      },
+      {
+        "japanese": "病気かもしれない。",
+        "romaji": "byouki kamo shirenai.",
+        "english": "可能生病了。"
+      },
+      {
+        "japanese": "午後から雨が降るかもしれない。",
+        "romaji": "gogo kara ame ga furu kamo shirenai.",
+        "english": "下午可能会下雨。"
+      },
+      {
+        "japanese": "来週、台風が来るかもしれない。",
+        "romaji": "konshuu, taifuu ga kuru kamo shirenai.",
+        "english": "这周可能会有台风来。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84-kamo-shirenai-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%81%aa-kana-meaning",
+    "title": "JLPT N4 Grammarかな(kana)",
+    "titleRomaji": "JLPT N4 Grammar kana (kana )",
+    "explanation": "我想知道；可以吗？",
+    "examples": [
+      {
+        "japanese": "彼女は元気かな。",
+        "romaji": "kanojo wa genki kana.",
+        "english": "她还好吗（我想知道）。"
+      },
+      {
+        "japanese": "雨が降るかな。",
+        "romaji": "ame ga furu kana.",
+        "english": "会下雨吗（我想知道）。"
+      },
+      {
+        "japanese": "外は寒いかな。",
+        "romaji": "soto wa samui kana.",
+        "english": "外面冷吗（我想知道）。"
+      },
+      {
+        "japanese": "もう食べていいかな。",
+        "romaji": "mou tabete ii kana.",
+        "english": "可以开始吃了吗（我想知道）。"
+      },
+      {
+        "japanese": "一緒に映画を見るのはどうかな？",
+        "romaji": "isshoni eiga o miru no wa dou kana?",
+        "english": "一起看电影怎么样？"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%aa-kana-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%82%89%e4%bd%9c%e3%82%8b-%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b-kara-tsukuru-meaning",
+    "title": "JLPT N4 Grammarから作る(kara tsukuru)",
+    "titleRomaji": "JLPT N4 Grammar kara tsukuru (kara tsukuru )",
+    "explanation": "由...制成；用...制作",
+    "examples": [
+      {
+        "japanese": "ワインはブドウから作る。",
+        "romaji": "wain wa budou kara tsukuru.",
+        "english": "葡萄酒是由葡萄制成的。"
+      },
+      {
+        "japanese": "紙は木から作られる。",
+        "romaji": "kami wa ki kara tsukurareru.",
+        "english": "纸是由木头制成的。"
+      },
+      {
+        "japanese": "酒は米で作る。",
+        "romaji": "sake wa kome de tsukuru.",
+        "english": "日本清酒是用米做的。"
+      },
+      {
+        "japanese": "このつくえは木で作られています。",
+        "romaji": "kono tsukue wa ki de tsukurarete imasu.",
+        "english": "这张桌子是用木头做的。"
+      },
+      {
+        "japanese": "チーズは牛乳から作られますか？",
+        "romaji": "chiizu wa gyuunyuu kara tsukurare masu ka?",
+        "english": "奶酪是用牛奶做的吗？"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89%e4%bd%9c%e3%82%8b-%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b-kara-tsukuru-meaning/"
+  },
+  {
+    "id": "%e9%a0%83-%e3%81%93%e3%82%8d-%e3%81%94%e3%82%8d-meaning",
+    "title": "JLPT N4 Grammar頃(koro / goro)",
+    "titleRomaji": "JLPT N4 Grammar goro (koro / goro )",
+    "explanation": "大约；...的时候",
+    "examples": [
+      {
+        "japanese": "夜の8時ごろ、うちに来てもらえるか？",
+        "romaji": "yoru no hachiji goro, uchi ni kite moraeru ka？",
+        "english": "晚上8点左右能来我家吗？"
+      },
+      {
+        "japanese": "私はこのころとても忙しいのです。",
+        "romaji": "watashi wa kono koro totemo isogashii no desu.",
+        "english": "我最近很忙。"
+      },
+      {
+        "japanese": "私は若いころ初めての一人旅をしました。",
+        "romaji": "watashi wa wakai koro hajimete no hitori tabi o shimashita.",
+        "english": "我年轻的时候第一次独自旅行。"
+      },
+      {
+        "japanese": "じゃ、僕は9時半ごろ迎えに来ればいいですね。",
+        "romaji": "ja, boku wa kujihan goro mukae ni kureba ii desu ne.",
+        "english": "那么，我9点半左右来接你好吗？"
+      },
+      {
+        "japanese": "あなたは子供のころ、いじめにあったことはある？",
+        "romaji": "anata wa kodomo no koro, ijime ni atta koto wa aru.",
+        "english": "你小时候有被欺负过吗？"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e9%a0%83-%e3%81%93%e3%82%8d-%e3%81%94%e3%82%8d-meaning/"
+  },
+  {
+    "id": "%e3%81%93%e3%81%a8-koto-meaning",
+    "title": "JLPT N4 Grammarこと(koto)",
+    "titleRomaji": "JLPT N4 Grammar koto (koto )",
+    "explanation": "动词名词化",
+    "examples": [
+      {
+        "japanese": "本を読むことが好きです。",
+        "romaji": "hon o yomu koto ga suki desu.",
+        "english": "我喜欢读书。"
+      },
+      {
+        "japanese": "私は料理を作ることが下手です。",
+        "romaji": "watashi wa ryouri o tsukuru koto ga heta desu.",
+        "english": "我不擅长做饭。"
+      },
+      {
+        "japanese": "私はゲームをすることが大好きです。",
+        "romaji": "watashi wa geemu o suru koto ga daisuki desu.",
+        "english": "我非常喜欢玩游戏。"
+      },
+      {
+        "japanese": "私には考えることがたくさんある。",
+        "romaji": "watashi ni wa kangaeru koto ga takusan aru.",
+        "english": "我有很多事情要考虑。"
+      },
+      {
+        "japanese": "私の趣味は料理を作ることです。",
+        "romaji": "watashi no shumi wa ryouri o tsukuru koto desu.",
+        "english": "我的爱好是做饭。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8-koto-meaning/"
+  },
+  {
+    "id": "%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b-koto-ga-aru-meaning",
+    "title": "JLPT N4 Grammarことがある(koto ga aru)",
+    "titleRomaji": "JLPT N4 Grammar kotogaaru (koto ga aru )",
+    "explanation": "有时候；偶尔",
+    "examples": [
+      {
+        "japanese": "たまに彼女と一緒にテニスをしに行くことがある。",
+        "romaji": "tamani kanojo to isshoni tenisu o shini iku koto ga aru.",
+        "english": "有时候我会和女朋友一起去打网球。"
+      },
+      {
+        "japanese": "たまに自転車で通勤することがある。",
+        "romaji": "tamani jitensha de tsuukin suru koto ga aru.",
+        "english": "有时候我会骑自行车上班。"
+      },
+      {
+        "japanese": "私は会議中でも、寝てしまうことがある。",
+        "romaji": "watashi wa kaigichuu demo, nete shimau koto ga aru.",
+        "english": "我有时候在会议中也会睡着。"
+      },
+      {
+        "japanese": "時々仕事をやめたいと思うことがある。",
+        "romaji": "tokidoki shigoto o yametai to omou koto ga aru.",
+        "english": "有时候我会想辞职。"
+      },
+      {
+        "japanese": "私の地元は6月でも寒いことがある。",
+        "romaji": "watashi no jimoto wa roku gatsu demo samui koto ga aru.",
+        "english": "我家乡即使在6月也有冷的时候。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b-koto-ga-aru-meaning/"
+  },
+  {
+    "id": "%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b-koto-ga-dekiru-%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99%e3%81%8b-meaning",
+    "title": "JLPT N4 Grammarことができる(koto ga dekiru)",
+    "titleRomaji": "JLPT N4 Grammar kotogadekiru (koto ga dekiru )",
+    "explanation": "能够；可以",
+    "examples": [
+      {
+        "japanese": "私は日本語を話すことができる。",
+        "romaji": "watashi wa nihongo o hanasu koto ga dekiru.",
+        "english": "我会说日语。"
+      },
+      {
+        "japanese": "彼女は歌うことができる。",
+        "romaji": "kanojo wa utau koto ga dekiru.",
+        "english": "她会唱歌。"
+      },
+      {
+        "japanese": "このナイフはどんなものでも切ることができるよ。",
+        "romaji": "kono naifu wa donna mono demo kiru koto ga dekiru yo.",
+        "english": "这把刀什么都能切。"
+      },
+      {
+        "japanese": "何も言うことができない。",
+        "romaji": "nani mo iu koto ga dekinai.",
+        "english": "我什么也说不出来。"
+      },
+      {
+        "japanese": "私は嘘をつくことができない。",
+        "romaji": "watashi wa uso o tsuku koto ga dekinai.",
+        "english": "我不会说谎。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b-koto-ga-dekiru-%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99%e3%81%8b-meaning/"
+  },
+  {
+    "id": "%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8b-koto-ni-naru-meaning",
+    "title": "JLPT N4 Grammarことになる(koto ni naru)",
+    "titleRomaji": "JLPT N4 Grammar kotoninaru (koto ni naru )",
+    "explanation": "已经决定...；结果是...",
+    "examples": [
+      {
+        "japanese": "入学式は4月1日に行うことになりました。",
+        "romaji": "nyuugakushiki wa shigatsu tsuitachi ni okonau koto ni narimashita.",
+        "english": "入学典礼决定在4月1日举行。"
+      },
+      {
+        "japanese": "私の母が入院することになった。",
+        "romaji": "watashi no haha ga nyuuin suru koto ni natta.",
+        "english": "我母亲住院了。"
+      },
+      {
+        "japanese": "大阪に転勤することになりました。",
+        "romaji": "oosaka ni tenkin suru koto ni narimashita.",
+        "english": "已经决定我要调到大阪工作。"
+      },
+      {
+        "japanese": "どうしてそれを学ぶことになったの？",
+        "romaji": "doushite sore o manabu koto ni natta no?",
+        "english": "你是怎么开始学那个的？"
+      },
+      {
+        "japanese": "両親は離婚ということになった。",
+        "romaji": "ryoushin wa rikon toiu koto ni natta.",
+        "english": "我父母最终决定离婚。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8b-koto-ni-naru-meaning/"
+  },
+  {
+    "id": "%e3%81%93%e3%81%a8%e3%81%ab%e3%81%99%e3%82%8b-koto-ni-suru-meaning",
+    "title": "JLPT N4 Grammarことにする(koto ni suru)",
+    "titleRomaji": "JLPT N4 Grammar kotonisuru (koto ni suru )",
+    "explanation": "决定",
+    "examples": [
+      {
+        "japanese": "これから毎日ランニングをすることにする。",
+        "romaji": "kore kara mainichi ranningu o suru koto ni suru.",
+        "english": "我决定从现在开始每天跑步。"
+      },
+      {
+        "japanese": "タバコをやめることにした。",
+        "romaji": "tabako o yameru koto ni shita.",
+        "english": "我决定戒烟了。"
+      },
+      {
+        "japanese": "春休みに彼女と一緒に台湾に行くことにします。",
+        "romaji": "haruyasumi ni okusan to isshoni taiwan ni iku koto ni shimasu.",
+        "english": "我决定春假和女朋友一起去台湾。"
+      },
+      {
+        "japanese": "寝る前に食べないことにした。",
+        "romaji": "neru mae ni tabenai koto ni shimashita.",
+        "english": "我决定睡前不吃东西了。"
+      },
+      {
+        "japanese": "毎朝、30分ジョギングすることにしています。",
+        "romaji": "maiasa, 30 pun jogingu suru koto ni shite imasu.",
+        "english": "我决定每天早上慢跑30分钟。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%93%e3%81%a8%e3%81%ab%e3%81%99%e3%82%8b-koto-ni-suru-meaning/"
+  },
+  {
+    "id": "%e3%81%84-adjective-%e3%81%8f%e3%81%99%e3%82%8b-ku-suru-meaning",
+    "title": "JLPT N4 Grammarくする(ku suru)",
+    "titleRomaji": "JLPT N4 Grammar kusuru (ku suru )",
+    "explanation": "使...变得；使某物...",
+    "examples": [
+      {
+        "japanese": "音楽でもっと良くする。",
+        "romaji": "ongaku de motto yoku suru.",
+        "english": "用音乐让它变得更好。"
+      },
+      {
+        "japanese": "あと５００円安くしてくれたら、買いますよ。",
+        "romaji": "ato go hyaku en yasuku shite kure tara, kaimasu yo.",
+        "english": "如果能便宜500日元，我就买。"
+      },
+      {
+        "japanese": "彼女は声を大きくした。",
+        "romaji": "kanojo wa koe o ookiku shita.",
+        "english": "她提高了音量。"
+      },
+      {
+        "japanese": "電気をつけて、部屋を明るくしましょう。",
+        "romaji": "denki o tsukete, heya o akaruku shimashou.",
+        "english": "开灯，把房间弄亮一点吧。"
+      },
+      {
+        "japanese": "部屋が暑いので、エアコンをつけて涼しくします。",
+        "romaji": "heya ga atsui no de, eakon o tsukete suzushiku shimasu.",
+        "english": "房间有点热，所以开空调让它凉快点。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%84-adjective-%e3%81%8f%e3%81%99%e3%82%8b-ku-suru-meaning/"
+  },
+  {
+    "id": "%e6%80%a5%e3%81%ab-kyuu-ni-meaning",
+    "title": "JLPT N4 Grammar急に(kyuu ni)",
+    "titleRomaji": "JLPT N4 Grammar kyuuni (kyuu ni )",
+    "explanation": "突然；急忙；意外地",
+    "examples": [
+      {
+        "japanese": "急に雨が降り始めました。",
+        "romaji": "kyuu ni ame ga furi hajimemashita.",
+        "english": "突然开始下雨了。"
+      },
+      {
+        "japanese": "雨は急にやんだ。",
+        "romaji": "ame wa kyuu ni yanda.",
+        "english": "雨突然停了。"
+      },
+      {
+        "japanese": "その車は急に曲がった。",
+        "romaji": "sono kuruma wa kyuu ni magatta.",
+        "english": "那辆车突然转弯了。"
+      },
+      {
+        "japanese": "今日は急に涼しくなった。",
+        "romaji": "kyou wa kyuu ni suzushiku natta.",
+        "english": "今天突然变凉快了。"
+      },
+      {
+        "japanese": "その子は急に泣き出した。",
+        "romaji": "sono ko wa kyuu ni naki dashita.",
+        "english": "那个孩子突然哭了起来。"
+      }
+    ],
+    "jlptLevel": "N4",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e6%80%a5%e3%81%ab-kyuu-ni-meaning/"
+  },
+  {
+    "id": "%e4%b8%8a%e3%81%92%e3%82%8b-ageru-meaning",
+    "title": "JLPT N3 Grammar上げる(ageru)",
+    "titleRomaji": "JLPT N3 Grammar age ru (ageru )",
+    "explanation": "完成；完全...完",
+    "examples": [
+      {
+        "japanese": "彼女は小説を書き上げた。",
+        "romaji": "kanojo wa shousetsu o kaki ageta.",
+        "english": "她写完了小说。"
+      },
+      {
+        "japanese": "この会社は新製品を作り上げた。",
+        "romaji": "kono kaisha wa shinseihin o tsukuri ageta.",
+        "english": "这家公司创造了新产品。"
+      },
+      {
+        "japanese": "みんなの意見を取り入れて、とてもいいプランが出来上がった。",
+        "romaji": "minna no iken o tori irete, totemo ii puran ga deki agatta.",
+        "english": "采纳了大家的意见，完成了一个非常好的计划。"
+      },
+      {
+        "japanese": "研究のレポートを一日で書き上げた。",
+        "romaji": "kenkyuu no repooto o ichinichi de kaki ageta.",
+        "english": "我一天就写完了研究报告。"
+      },
+      {
+        "japanese": "出来上がった料理を、お客さんのところに運ぶのが私の仕事です。",
+        "romaji": "deki agatta ryouri o, okyaku san no tokoro ni hakobu noga watashi no shigoto desu.",
+        "english": "把做好的菜送到客人那里是我的工作。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e4%b8%8a%e3%81%92%e3%82%8b-ageru-meaning/"
+  },
+  {
+    "id": "%e3%81%82%e3%81%be%e3%82%8a-amari-meaning",
+    "title": "JLPT N3 Grammarあまり(amari)",
+    "titleRomaji": "JLPT N3 Grammar amari (amari )",
+    "explanation": "太...以致；因为太...",
+    "examples": [
+      {
+        "japanese": "嬉しさのあまり、彼女は涙を流しました。",
+        "romaji": "ureshisa no amari, kanojo wa namida o nagashimashita.",
+        "english": "她高兴得流下了眼泪。"
+      },
+      {
+        "japanese": "それのあまりの安さにおどろいた。",
+        "romaji": "sore no amari no yasusa ni odoroita.",
+        "english": "我对它的便宜程度感到惊讶。"
+      },
+      {
+        "japanese": "プレゼンのとき、緊張のあまり間違えてしまった。",
+        "romaji": "purezen no toki, kinchou no amari machigaete shimatta.",
+        "english": "演讲时太紧张以至于出错了。"
+      },
+      {
+        "japanese": "怒りのあまり口がきけなかった。",
+        "romaji": "ikari no amari kuchi ga kikenakatta.",
+        "english": "气得说不出话来。"
+      },
+      {
+        "japanese": "私は苦悩のあまり、病気になりました。",
+        "romaji": "watashi wa kunou no amari, byouki ni narimashita.",
+        "english": "我因为太烦恼而生病了。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%be%e3%82%8a-amari-meaning/"
+  },
+  {
+    "id": "%e3%81%82%e3%81%be%e3%82%8a%e3%81%ab%e3%82%82-amari-ni-mo-meaning",
+    "title": "JLPT N3 Grammarあまりにも(amari ni mo)",
+    "titleRomaji": "JLPT N3 Grammar amarinimo (amari ni mo )",
+    "explanation": "太...；非常...；过分地",
+    "examples": [
+      {
+        "japanese": "最近あまりに暑すぎる。",
+        "romaji": "saikin amari ni atsu sugiru.",
+        "english": "最近太热了。"
+      },
+      {
+        "japanese": "彼はあまりにも変わった。",
+        "romaji": "kare wa amari ni mo kawatta.",
+        "english": "他变化太大了。"
+      },
+      {
+        "japanese": "あまりにも天気が良い。",
+        "romaji": "amari ni mo tenki ga yoi.",
+        "english": "天气太好了。"
+      },
+      {
+        "japanese": "あまりにも疲れているので仕事ができない。",
+        "romaji": "amari ni mo tsukareteiru no de shigoto ga dekinai.",
+        "english": "太累了以至于无法工作。"
+      },
+      {
+        "japanese": "あなたは起きるのがあまりに遅すぎる。",
+        "romaji": "anata wa okiru no ga amari ni ososugiru.",
+        "english": "你起床太晚了。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%be%e3%82%8a%e3%81%ab%e3%82%82-amari-ni-mo-meaning/"
+  },
+  {
+    "id": "%e5%90%88%e3%81%86-%e3%81%82%e3%81%86-au-meaning",
+    "title": "JLPT N3 Grammar合う(au)",
+    "titleRomaji": "JLPT N3 Grammar au (au )",
+    "explanation": "一起做某事；互相",
+    "examples": [
+      {
+        "japanese": "私たちはその件について話し合いましょう。",
+        "romaji": "watashi tachi wa sono ken ni tsuite hanashi aimashou.",
+        "english": "我们一起讨论一下那件事吧。"
+      },
+      {
+        "japanese": "2人は愛し合っている。",
+        "romaji": "futari wa aishiatteiru.",
+        "english": "他们两个相爱。"
+      },
+      {
+        "japanese": "チームだから、困った時は助け合いましょう。",
+        "romaji": "chiimu da kara, komatta toki wa tasukeai mashou.",
+        "english": "因为是团队，困难时要互相帮助！"
+      },
+      {
+        "japanese": "私たちはお互い助け合うべきだ。",
+        "romaji": "watashi tachi wa otagai ni tasuke au beki da.",
+        "english": "我们应该互相帮助。"
+      },
+      {
+        "japanese": "彼女は仲間とうまく付き合っている。",
+        "romaji": "kanojo wa nakama to umaku tsukiatte iru.",
+        "english": "她和同伴相处得很好。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%90%88%e3%81%86-%e3%81%82%e3%81%86-au-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%e3%81%84%e3%81%84-ba-ii-meaning",
+    "title": "JLPT N3 Grammarばいい(ba ii)",
+    "titleRomaji": "JLPT N3 Grammar baii (ba ii )",
+    "explanation": "应该；可以；...就好了",
+    "examples": [
+      {
+        "japanese": "どうすればいいですか？",
+        "romaji": "dou sureba ii desu ka.",
+        "english": "我该怎么做？"
+      },
+      {
+        "japanese": "どこに行けばいいですか？",
+        "romaji": "doko ni ikeba ii desu ka?",
+        "english": "我应该去哪里？"
+      },
+      {
+        "japanese": "私は何を言えばいいかわからない。",
+        "romaji": "watashi wa nani o ieba ii ka wakaranai.",
+        "english": "我不知道该说什么。"
+      },
+      {
+        "japanese": "何を歌えばいいですか。",
+        "romaji": "nani o utaeba ii desu ka.",
+        "english": "我应该唱什么？"
+      },
+      {
+        "japanese": "君が決めればいい。",
+        "romaji": "kimi ga kimereba ii.",
+        "english": "你决定就好。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%84%e3%81%84-ba-ii-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f-ba-yokatta-meaning",
+    "title": "JLPT N3 Grammarばよかった(ba yokatta)",
+    "titleRomaji": "JLPT N3 Grammar bayokatta (ba yokatta )",
+    "explanation": "早该...就好了；应该...的",
+    "examples": [
+      {
+        "japanese": "そうすればよかった。",
+        "romaji": "sou sureba yokatta.",
+        "english": "我早该那样做的。"
+      },
+      {
+        "japanese": "傘を持ってくればよかった。",
+        "romaji": "kasa o motte kureba yokatta.",
+        "english": "我早该带伞的。"
+      },
+      {
+        "japanese": "遅刻してしまった。もっと早く家を出ればよかった。",
+        "romaji": "chikoku shite shimatta. motto hayaku ie o dereba yokatta.",
+        "english": "迟到了...我应该早点出门的。"
+      },
+      {
+        "japanese": "早く連絡してくればよかったのに。",
+        "romaji": "hayaku renraku shite kurereba yokatta noni.",
+        "english": "你应该早点联系我的。"
+      },
+      {
+        "japanese": "友人にあんなことを言わなければよかった。",
+        "romaji": "yuujin ni anna koto o iwanakereba yokatta.",
+        "english": "我真不该对朋友说那种话。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f-ba-yokatta-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%ef%bd%9e%e3%81%bb%e3%81%a9-ba-hodo-meaning",
+    "title": "JLPT N3 Grammarば～ほど(ba~hodo)",
+    "titleRomaji": "JLPT N3 Grammar ba ~ hodo (ba~hodo )",
+    "explanation": "越...越...",
+    "examples": [
+      {
+        "japanese": "ビートルズの音楽は聞けば聞くほど好きになります。",
+        "romaji": "biitoruzu no ongaku wa kikeba kiku hodo suki ni narimasu.",
+        "english": "披头士的音乐越听越喜欢。"
+      },
+      {
+        "japanese": "考えれば考えるほどわからなくなる。",
+        "romaji": "kangaereba kangaeru hodo wakaranaku naru.",
+        "english": "越想越不明白。"
+      },
+      {
+        "japanese": "勉強すればするほど、日本語が上手になりますよ。",
+        "romaji": "benkyou sureba suru hodo, nihongo ga jouzu ni narimasu.",
+        "english": "越学习，日语就会越好。"
+      },
+      {
+        "japanese": "スーパーは家から近ければ近いほど便利です。",
+        "romaji": "suupaa wa ie kara chikakereba chikai hodo benri desu.",
+        "english": "超市离家越近越方便。"
+      },
+      {
+        "japanese": "日本語は話せば話すほど上手になります。",
+        "romaji": "nihongo wa hanaseba hanasu hodo jouzu ni narimasu.",
+        "english": "日语越说越好。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%ef%bd%9e%e3%81%bb%e3%81%a9-ba-hodo-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%ef%bd%9e%e3%81%ae%e3%81%ab-ba-noni-meaning",
+    "title": "JLPT N3 Grammarば～のに(ba~noni)",
+    "titleRomaji": "JLPT N3 Grammar ba ~ noni (ba~noni )",
+    "explanation": "本来会...的；要是...就好了",
+    "examples": [
+      {
+        "japanese": "このかばん、欲しいけど高いなあ。もっと安ければいいのに。",
+        "romaji": "kono kaban, hoshii kedo takai naa. motto yasukereba ii noni.",
+        "english": "我想要这个包，但太贵了...要是便宜点就好了。"
+      },
+      {
+        "japanese": "もうちょっと早く来れば、大好きなアイドルが見えるのに。",
+        "romaji": "mou chotto hayaku kureba, daisuki na aidoru ga mieru no ni.",
+        "english": "要是能早点来就能见到我最喜欢的偶像了。"
+      },
+      {
+        "japanese": "日本語がもっと上手なら、仕事が見つけれるのになあ。",
+        "romaji": "nihongo ga motto jouzu nara, shigoto ga mitsukereru noni naa.",
+        "english": "要是日语更好的话就能找到工作了。"
+      },
+      {
+        "japanese": "映画はとても面白かった。君も行けばよかったのに。",
+        "romaji": "eiga wa totemo omoshirokatta. kimi mo ikeba yokatta noni.",
+        "english": "电影很有趣。你也应该去的！"
+      },
+      {
+        "japanese": "車で行けば、間に合ったのに、自転車に乗ったから遅れてしまった。",
+        "romaji": "kuruma de ikeba, ma ni atta noni, jitensha ni notta kara okurete shimatta.",
+        "english": "如果开车去就能赶上了，但因为骑自行车所以迟到了。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%ef%bd%9e%e3%81%ae%e3%81%ab-ba-noni-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7-bakari-de-meaning",
+    "title": "JLPT N3 Grammarばかりで(bakari de)",
+    "titleRomaji": "JLPT N3 Grammar bakaride (bakari de )",
+    "explanation": "只是；净是（消极描述）",
+    "examples": [
+      {
+        "japanese": "夏は暑いばかりで楽しくないですよ。",
+        "romaji": "natsu wa atsui bakari de tanoshikunai desu yo.",
+        "english": "夏天只是热，一点都不好玩。"
+      },
+      {
+        "japanese": "うちの子は毎日遊んでいるばかりで勉強をしない。",
+        "romaji": "uchi no ko wa mainichi asondeiru bakari de benkyou o shinai.",
+        "english": "我家孩子每天只是玩，不学习。"
+      },
+      {
+        "japanese": "あの人は背が高いばかりで、あまり力はない。",
+        "romaji": "ano hito wa se ga takai bakari de, amari chikara wa nai.",
+        "english": "那个人只是个子高，其实没什么力气。"
+      },
+      {
+        "japanese": "この仕事は忙しいばかりで、意味がない。",
+        "romaji": "kono shigoto wa isogashii bakari de, imi ga nai.",
+        "english": "这份工作只是忙，没什么意义。"
+      },
+      {
+        "japanese": "主人は小説を読んでいるばかりで、家事を全然手伝ってくれない。",
+        "romaji": "shujin wa shousetsu o yonde iru bakari de, kaji o zenzen tetsudatte kurenai.",
+        "english": "我丈夫只是看小说，完全不帮忙做家务。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7-bakari-de-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7%e3%81%aa%e3%81%8f-bakari-denaku-meaning",
+    "title": "JLPT N3 Grammarばかりでなく(bakari denaku)",
+    "titleRomaji": "JLPT N3 Grammar bakaridenaku (bakari denaku )",
+    "explanation": "不仅...而且；也",
+    "examples": [
+      {
+        "japanese": "このマンションは狭いばかりでなく、暗いです。",
+        "romaji": "kono manshon wa semai bakari denaku, kurai desu.",
+        "english": "这间公寓不仅很小，而且很暗。"
+      },
+      {
+        "japanese": "彼は歌ばかりでなくダンスも上手です。",
+        "romaji": "kare wa uta bakari denaku dansu mo jouzu desu.",
+        "english": "他不仅唱歌好，跳舞也很好。"
+      },
+      {
+        "japanese": "うちの子は6歳なのに日本語ばかりでなく英語まで喋れるよ。",
+        "romaji": "uchi no ko wa 6 sai nano ni nihongo bakari denaku eigo made shabereru yo!",
+        "english": "我家孩子虽然只有6岁，但不仅会说日语，还会说英语！"
+      },
+      {
+        "japanese": "このレストランは、味が悪いばかりでなく、店員の態度もひどい。",
+        "romaji": "kono resutoran wa, aji ga warui bakari denaku, tenin no taido mo hidoi.",
+        "english": "这家餐厅不仅菜难吃，服务态度也很差。"
+      },
+      {
+        "japanese": "台風が来ている。雨ばかりでなく、風も強くなってきた。",
+        "romaji": "taifuu ga kiteiru. ame bakari denaku, kaze mo tsuyoku natte kita.",
+        "english": "台风来了。不仅雨大，风也变强了。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7%e3%81%aa%e3%81%8f-bakari-denaku-meaning/"
+  },
+  {
+    "id": "%e3%81%b9%e3%81%8d%e3%81%a0-beki-da-meaning",
+    "title": "JLPT N3 Grammarべきだ(beki da)",
+    "titleRomaji": "JLPT N3 Grammar bekida (beki da )",
+    "explanation": "应该；必须",
+    "examples": [
+      {
+        "japanese": "私はそれについてもっと知るべきだ。",
+        "romaji": "watashi wa sore ni tsuite motto shiru beki da.",
+        "english": "我应该对那个了解得更多。"
+      },
+      {
+        "japanese": "約束は守るべきだ。",
+        "romaji": "yakusoku wa mamoru beki da.",
+        "english": "应该遵守约定。"
+      },
+      {
+        "japanese": "もっと勉強するべきだ。",
+        "romaji": "motto benkyou suru beki da.",
+        "english": "应该更加努力学习。"
+      },
+      {
+        "japanese": "学生は真面目に勉強するべきだ。",
+        "romaji": "gakusei wa majime ni benkyou suru beki da.",
+        "english": "学生应该认真学习。"
+      },
+      {
+        "japanese": "あなたは彼に謝るべきです。",
+        "romaji": "anata wa kare ni ayamaru beki desu.",
+        "english": "你应该向他道歉。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b9%e3%81%8d%e3%81%a0-beki-da-meaning/"
+  },
+  {
+    "id": "%e3%81%82%e3%81%92%e3%81%8f-ageku-meaning",
+    "title": "JLPT N2 Grammarあげく(ageku)",
+    "titleRomaji": "JLPT N2 Grammar ageku (ageku )",
+    "explanation": "最后；结果（通常是不好的结果）",
+    "examples": [
+      {
+        "japanese": "2時間も待たされたあげく、結局に試合は延期になった。",
+        "romaji": "2 jikan mo matasareta ageku, keekyoku ni shiai wa enki ni natta.",
+        "english": "等了2小时之后，比赛最终还是延期了。"
+      },
+      {
+        "japanese": "毎日の残業のあげく、彼女は倒れて入院することになりました。",
+        "romaji": "mainichi no zangyou no ageku, kanojo wa taorete nyuuin shita koto ni nari mashita.",
+        "english": "每天加班的结果，她倒下住院了。"
+      },
+      {
+        "japanese": "人気のラーメン店に２時間も並んだあげく、売り切れで食べられなかった。",
+        "romaji": "ninki no raamen mise ni 2 jikan mo naranda ageku, urikire de taberarena katta.",
+        "english": "在人气拉面店排了2小时队之后，结果卖完了吃不到。"
+      },
+      {
+        "japanese": "どの大学に入ろうかと、さんざん悩んだあげく、京都大学に決めた。",
+        "romaji": "dono daigaku ni hairou ka to, sanzan nayanda ageku, kyouto daigaku ni kimeta.",
+        "english": "纠结了好久该上哪所大学，最后决定了京都大学。"
+      },
+      {
+        "japanese": "彼らは夫婦げんかを繰り返したあげく、とうとう離婚した。",
+        "romaji": "karera wa fuufu genka o kurikaeshita ageku, toutou rikon shita.",
+        "english": "反复吵架之后，他们最终离婚了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%81%92%e3%81%8f-ageku-meaning/"
+  },
+  {
+    "id": "%e3%81%82%e3%82%8b%e3%81%84%e3%81%af-aruiwa-meaning",
+    "title": "JLPT N2 Grammarあるいは(aruiwa)",
+    "titleRomaji": "JLPT N2 Grammar aruiha (aruiwa )",
+    "explanation": "或者；也许；可能",
+    "examples": [
+      {
+        "japanese": "今日中にファックス、あるいは、メールで送ってください。",
+        "romaji": "kyoujuu ni fakkusu, aruiwa meeru de okutte kudasai.",
+        "english": "请在今天之内用传真或者邮件发送。"
+      },
+      {
+        "japanese": "ご注文は電話か、あるいはインターネットでお願いします。",
+        "romaji": "gochuumon wa, aruiwa intaanetto de onegai shimasu.",
+        "english": "请通过电话或者网络订购。"
+      },
+      {
+        "japanese": "来週の火曜日の午後はどうですか。あるいは水曜日の午前でも構いませんが．．．",
+        "romaji": "raishuu no kayoubi no gogo wa dou desuka. aruiwa suiyoubi no gozen demo kamai masen ga…",
+        "english": "下周二下午怎么样？或者周三上午也可以..."
+      },
+      {
+        "japanese": "進学するか、あるいは就職するか私は迷っています。",
+        "romaji": "shingaku suru ka, aruiwa shuushoku suru ka watashi wa mayotte imaus.",
+        "english": "我在犹豫是继续升学还是就业。"
+      },
+      {
+        "japanese": "あるいはそれは本当かもしれない。",
+        "romaji": "aruiwa sore wa hontou kamoshirenai.",
+        "english": "那也许是真的。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%82%e3%82%8b%e3%81%84%e3%81%af-aruiwa-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%8b-bakari-ka-meaning",
+    "title": "JLPT N2 Grammarばかりか(bakari ka)",
+    "titleRomaji": "JLPT N2 Grammar bakarika (bakari ka )",
+    "explanation": "不仅...而且；也",
+    "examples": [
+      {
+        "japanese": "このマンションは狭いばかりか、暗いです。",
+        "romaji": "kono manshon wa semai bakari ka, kurai desu.",
+        "english": "这间公寓不仅很小，而且很暗。"
+      },
+      {
+        "japanese": "私は、漢字ばかりか、ひらがなもカタカナも書けません。",
+        "romaji": "watashi wa, kanji bakarika, hiragana mo katakana mo kakemasen.",
+        "english": "我不仅不会写汉字，连平假名和片假名也不会写。"
+      },
+      {
+        "japanese": "このレストランは、味が悪いばかりか、店員の態度も悪い。",
+        "romaji": "kono resutoran wa, aji ga warui bakari ka, tenin no taido mo warui.",
+        "english": "这家餐厅不仅菜难吃，服务态度也很差。"
+      },
+      {
+        "japanese": "花子さんはスポーツが上手なばかりか、成績も優秀である。",
+        "romaji": "hanako san wa supootsu ga jouzu na bakari ka, seiseki mo yuushuu de aru.",
+        "english": "花子不仅擅长运动，成绩也很优秀。"
+      },
+      {
+        "japanese": "うちの子は7歳なのに日本語ばかりか英語まで喋れるよ。",
+        "romaji": "uchi no ko wa 7 sai nano ni nihongo bakari ka eigo made shabereru yo!",
+        "english": "我家孩子虽然只有7岁，但不仅会说日语，还会说英语！"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%8b-bakari-ka-meaning/"
+  },
+  {
+    "id": "%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%ab-bakari-ni-meaning",
+    "title": "JLPT N2 Grammarばかりに(bakari ni)",
+    "titleRomaji": "JLPT N2 Grammar bakarini (bakari ni )",
+    "explanation": "只因为；由于（导致不好的结果）",
+    "examples": [
+      {
+        "japanese": "お金がないばかりに、今度の旅行に行けなかった。",
+        "romaji": "okane ga nai bakari ni, kondo no ryokou ni ikenakatta.",
+        "english": "只因为没钱，这次旅行去不成了。"
+      },
+      {
+        "japanese": "ホラー映画を見たばかりに、怖くてなかなか寝られない。",
+        "romaji": "horaa eiga o mita bakari ni, kowakute nakanaka nerarenai.",
+        "english": "就因为看了恐怖片，吓得睡不着觉。"
+      },
+      {
+        "japanese": "先輩のアドバイスを聞き入れなかったばかりに大きな失敗をしてしまった。",
+        "romaji": "senpai no adobaisu o kiki irenakatta bakari ni ooki na shippai o shite shimatta.",
+        "english": "就因为没听前辈的建议，结果犯了大错。"
+      },
+      {
+        "japanese": "彼の一言を信じたばかりにひどい目にあった。",
+        "romaji": "kare no hitokoto o shinjita bakari ni hidoime ni atta.",
+        "english": "就因为相信了他的一句话，结果吃了大亏。"
+      },
+      {
+        "japanese": "経験がないばかりに苦労した。",
+        "romaji": "keiken ga nai bakari ni kurou shita.",
+        "english": "就因为没有经验吃了很多苦。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%ab-bakari-ni-meaning/"
+  },
+  {
+    "id": "%e3%81%a1%e3%81%aa%e3%81%bf%e3%81%ab-chinamini-meaning",
+    "title": "JLPT N2 Grammarちなみに(chinamini)",
+    "titleRomaji": "JLPT N2 Grammar chinamini (chinamini )",
+    "explanation": "顺便说一下；附带说明（连词）",
+    "examples": [
+      {
+        "japanese": "これ、お土産だよ。ちなみにベトナムで買ったんだよ。",
+        "romaji": "kore, omiyage da yo. chinamini betonamu de katta nda yo.",
+        "english": "这是礼物。顺便说一下，是在越南买的。"
+      },
+      {
+        "japanese": "ちなみに、私のことを覚えていますか？",
+        "romaji": "chinamini, watashi no koto o oboete imasu ka?",
+        "english": "顺便问一下，你还记得我吗？"
+      },
+      {
+        "japanese": "ちなみに、私は刺身と寿司は好きではない。",
+        "romaji": "chinamini, watashi wa sashimi to sushi wa suki dewa nai.",
+        "english": "顺便说一下，我不喜欢生鱼片和寿司。"
+      },
+      {
+        "japanese": "N2に合格したよ！ちなみに満点だったよ！",
+        "romaji": "N2 ni goukaku shita yo! chinamini manten datta yo!",
+        "english": "我通过N2了！顺便说一下，是满分！"
+      },
+      {
+        "japanese": "ちなみに、私の日本語が間違ってたら遠慮なく言ってください。",
+        "romaji": "chinamini, watashi no nihongo ga machigatte tarae enryo naku itte kudasai.",
+        "english": "顺便说一下，如果我的日语有错请不要客气告诉我。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%81%aa%e3%81%bf%e3%81%ab-chinamini-meaning/"
+  },
+  {
+    "id": "%e3%81%a1%e3%81%a3%e3%81%a8%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-chitto-monai-meaning",
+    "title": "JLPT N2 Grammarちっとも～ない(chitto mo~nai)",
+    "titleRomaji": "JLPT N2 Grammar chittomo ~ nai (chitto mo~nai )",
+    "explanation": "一点也不；完全不",
+    "examples": [
+      {
+        "japanese": "彼は酒はちっとも飲まない。",
+        "romaji": "kare wa sake wa chitto mo nomanai.",
+        "english": "他一点酒也不喝。"
+      },
+      {
+        "japanese": "この商品はちっとも売れない。",
+        "romaji": "kono shouhin wa chitto mo urenai.",
+        "english": "这个产品一点也卖不出去。"
+      },
+      {
+        "japanese": "俺の妻は英語をちっとも知らない。彼女は日本語しか話せない。",
+        "romaji": "ore no tsuma wa eigo o chitto mo shiranai. kanojo wa nihongo shika hanasenai.",
+        "english": "我妻子一点也不懂英语。她只会说日语。"
+      },
+      {
+        "japanese": "彼は父親の言うことをちっとも聞かない。",
+        "romaji": "kare wa chichioya no iukoto o chitto mo kikanai.",
+        "english": "他完全不听父亲的话。"
+      },
+      {
+        "japanese": "彼は女の子の気持なんかちっともわからない。",
+        "romaji": "kare wa onna no ko no kimochi nanka chitto mo wakarai.",
+        "english": "他一点也不懂女孩的心情。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%81%a3%e3%81%a8%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-chitto-monai-meaning/"
+  },
+  {
+    "id": "%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6-dake-atte-meaning",
+    "title": "JLPT N2 Grammarだけあって(dake atte)",
+    "titleRomaji": "JLPT N2 Grammar dakeatte (dake atte )",
+    "explanation": "正因为；不愧是；正如所料",
+    "examples": [
+      {
+        "japanese": "このアパートは駅に近いだけあって、やっぱり家賃も高い。",
+        "romaji": "kono apaato wa eki ni chikai dake atte, yappari yachin ga takai.",
+        "english": "这间公寓正因为离车站近，所以房租果然很贵。"
+      },
+      {
+        "japanese": "さすが大都会だけあって何かしら仕事がある。",
+        "romaji": "sasuga daitokai dake atte nanika shira shigoto ga aru.",
+        "english": "不愧是大城市，总有工作可做。"
+      },
+      {
+        "japanese": "料理教室に通っているだけあって、彼女の作る料理はとても美味しい。",
+        "romaji": "ryouri kyoushitsu ni kayotte iru dake atte, kanojo no tsukuru ryouri wa totemo oishii.",
+        "english": "正因为上了烹饪课，她做的菜非常好吃。"
+      },
+      {
+        "japanese": "このバッグは安いだけあってすぐに壊れてしまった。",
+        "romaji": "kono baggu wa yasui dake atte sugu ni kowarete shimatta.",
+        "english": "这个包正因为便宜，很快就坏了。"
+      },
+      {
+        "japanese": "この場所は有名なだけあって、たくさんの観光客がいる。",
+        "romaji": "kono basho wa yuumei na dake atte, takusan no kankoukyaku ga iru.",
+        "english": "这个地方不愧是有名，有很多游客。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6-dake-atte-meaning/"
+  },
+  {
+    "id": "%e3%81%a0%e3%81%91%e3%81%ab-dake-ni-meaning",
+    "title": "JLPT N2 Grammarだけに(dake ni)",
+    "titleRomaji": "JLPT N2 Grammar dakeni (dake ni )",
+    "explanation": "正因为；不愧是；正如人们所期望的",
+    "examples": [
+      {
+        "japanese": "駅が近いだけに家賃も高い。",
+        "romaji": "eki ga chikai dake ni yachin mo takai.",
+        "english": "正因为离车站近，所以房租也贵。"
+      },
+      {
+        "japanese": "このホテルは５つ星ホテルなだけに、サービスが充実している。",
+        "romaji": "kono hoteru wa itsutsu boshi hoteru na dake ni, saabisu ga juujitsu shite iru.",
+        "english": "不愧是五星级酒店，服务很完善。"
+      },
+      {
+        "japanese": "彼女は日本語を20年教えているだけに、教え方がとても上手だ。",
+        "romaji": "kanojo wa nihongo o 20 nen oshiete iru dake ni, oshiekata ga totemo jouzu da.",
+        "english": "不愧是教了20年日语，教学方法非常好。"
+      },
+      {
+        "japanese": "田中さんは小学校の時にアメリカで生活していただけに、英語の発音はネイティブのようだ。",
+        "romaji": "tanaka san wa shougakkou no toki ni amerika de seikatsu shiteita dake ni, eigo no hatsuon wa neitibu no you da.",
+        "english": "田中先生小学时在美国生活过，不愧如此，英语发音就像母语者一样。"
+      },
+      {
+        "japanese": "試験のために一生懸命勉強しただけに、不合格のショックは大きかった。",
+        "romaji": "shiken no tame ni isshoukenmei benkyou shita dake ni, fugoukaku no shokku wa ookikatta.",
+        "english": "正因为为了考试拼命学习，所以不合格的打击很大。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91%e3%81%ab-dake-ni-meaning/"
+  },
+  {
+    "id": "%e3%81%a0%e3%81%a3%e3%81%a6-datte-meaning",
+    "title": "JLPT N2 Grammarだって(datte)",
+    "titleRomaji": "JLPT N2 Grammar datte (datte )",
+    "explanation": "因为；但是；毕竟；即使；也",
+    "examples": [
+      {
+        "japanese": "彼だって人間だ。",
+        "romaji": "kare datte ningen da.",
+        "english": "他毕竟也是人。"
+      },
+      {
+        "japanese": "私だってあなたに会いたい。",
+        "romaji": "watashi datte anata ni aitai.",
+        "english": "我也想见你。"
+      },
+      {
+        "japanese": "誰だってそんなことは知っているさ。",
+        "romaji": "dare datte sonna koto wa shitteiru sa.",
+        "english": "谁都知道那种事。"
+      },
+      {
+        "japanese": "私だって本くらい読むよ。",
+        "romaji": "watashi datte hon kurai yomu yo.",
+        "english": "我也会读书的。"
+      },
+      {
+        "japanese": "「何を怒ってるの？」「だって、約束を破ったじゃん。』",
+        "romaji": "「nani o okotteru no?」「datte, yakusoku o yabutta jan.」",
+        "english": "「你在生什么气？」「因为你违背了约定嘛。」"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%a3%e3%81%a6-datte-meaning/"
+  },
+  {
+    "id": "%e3%81%a9%e3%81%93%e3%82%8d%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dokoro-dewa-nai-meaning",
+    "title": "JLPT N2 Grammarどころではない(dokoro dewa nai)",
+    "titleRomaji": "JLPT N2 Grammar dokorodehanai (dokoro dewa nai )",
+    "explanation": "哪有时间；哪有余地；远非；根本不是",
+    "examples": [
+      {
+        "japanese": "彼はよく間違いをするが、バカどころではない。",
+        "romaji": "kare wa yoku machigai o suru ga, baka dokoro dewa nai.",
+        "english": "他虽然经常犯错，但绝不是笨蛋。"
+      },
+      {
+        "japanese": "宿題がたくさんあってテレビを見るどころではない。",
+        "romaji": "shukudai ga takusan atte terebi o miru dokoro dewa nai.",
+        "english": "有很多作业，哪有时间看电视。"
+      },
+      {
+        "japanese": "風邪がひどくて、遊びに行くどころじゃない。",
+        "romaji": "kaze ga hidokute, asobi ni iku doroko janai.",
+        "english": "感冒很严重，根本没法出去玩。"
+      },
+      {
+        "japanese": "彼女はケーキ屋で働いているから、毎年クリスマスは彼氏とデートどころではない。",
+        "romaji": "kanojo wa keekiya de hataraite iru kara, maitoshi kurisumasu wa kanojo to deeto dokoro dewa nai.",
+        "english": "她在蛋糕店工作，所以每年圣诞节根本没时间和男朋友约会。"
+      },
+      {
+        "japanese": "他人の仕事を手伝うどころではありません。自分の仕事も間に合わないんです。",
+        "romaji": "tanin no shigoto o tetsudau dokoro dewa arimasen. jibun no shigoto mo mani awanain desu.",
+        "english": "哪有时间帮别人的工作。自己的工作都来不及做。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%93%e3%82%8d%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dokoro-dewa-nai-meaning/"
+  },
+  {
+    "id": "%e3%81%a9%e3%81%93%e3%82%8d%e3%81%8b-dokoro-ka-meaning",
+    "title": "JLPT N2 Grammarどころか(dokoro ka)",
+    "titleRomaji": "JLPT N2 Grammar dokoroka (dokoro ka )",
+    "explanation": "远非；别说；更不用说；根本不是",
+    "examples": [
+      {
+        "japanese": "もっと勉強しないと、N2どころかN3も無理だ。",
+        "romaji": "motto benkyou shinaito, N2 dokoro ka N3 mo muri da.",
+        "english": "不好好学习的话，别说N2了，N3都不行。"
+      },
+      {
+        "japanese": "そんな食べ物、健康になるどころか、病気になっちゃうよ。",
+        "romaji": "sonna tabemono, kenkou ni naru dokoro ka, byouki ni nacchau yo.",
+        "english": "那种食物不会让你健康，反而会生病。"
+      },
+      {
+        "japanese": "「夏休みは取れそう？」「忙しくて夏休みどころか日曜日も休めない。」",
+        "romaji": "「natsu yasumi wa toresou？」「isogashikute natsu yasumi dokoro ka nichiyoubi mo yasumeni.」",
+        "english": "「能休暑假吗？」「太忙了，别说暑假，连周日都休不了。」"
+      },
+      {
+        "japanese": "医者に出された薬を飲んでいるのに、よくなるどころか、症状はひどくなる一方だよ。",
+        "romaji": "isha ni dasareta kusuri o nondeiru noni, yoku naru dokoro ka, shoujou ga hidoku naru ippou da yo.",
+        "english": "虽然在吃医生开的药，但不见好转，症状反而越来越严重。"
+      },
+      {
+        "japanese": "私は彼に役に立つどころか、迷惑もかけた。",
+        "romaji": "watashi wa kare ni yaku ni tatsu dokoro ka, meiwaku mo kaketa.",
+        "english": "我不仅没帮上他的忙，反而给他添了麻烦。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%93%e3%82%8d%e3%81%8b-dokoro-ka-meaning/"
+  },
+  {
+    "id": "%e3%81%a9%e3%81%86%e3%82%84%e3%82%89-dou-yara-meaning",
+    "title": "JLPT N2 Grammarどうやら(dou yara)",
+    "titleRomaji": "JLPT N2 Grammar douyara (dou yara )",
+    "explanation": "好像；似乎；勉强",
+    "examples": [
+      {
+        "japanese": "どうやら明日は雨になりそうだ。",
+        "romaji": "dou yara ashita wa ame ni nari sou da.",
+        "english": "明天好像会下雨。"
+      },
+      {
+        "japanese": "どうやら、彼は知らないらしい。",
+        "romaji": "dou yara, kare wa shiranai rashii.",
+        "english": "他好像不知道。"
+      },
+      {
+        "japanese": "どうやら誤解があるようだ。",
+        "romaji": "dou yara gokai ga aru you da.",
+        "english": "好像有误会。"
+      },
+      {
+        "japanese": "今晩はどうやら雪が降りそうだ。",
+        "romaji": "konban wa dou yara yuki ga furi sou da.",
+        "english": "今晚好像会下雪。"
+      },
+      {
+        "japanese": "どうやら日本の生活になれてきた。",
+        "romaji": "dou yara nihon no seikatsu ni narete kita.",
+        "english": "总算习惯了日本的生活。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%82%84%e3%82%89-dou-yara-meaning/"
+  },
+  {
+    "id": "%e3%81%a9%e3%81%86%e3%81%9b-douse-meaning",
+    "title": "JLPT N2 Grammarどうせ(douse)",
+    "titleRomaji": "JLPT N2 Grammar douse (douse )",
+    "explanation": "反正；无论如何；总之；毕竟",
+    "examples": [
+      {
+        "japanese": "どうせやるなら上手にやれ。",
+        "romaji": "douse yaru nara jouzu ni yare.",
+        "english": "反正要做的话就好好做！"
+      },
+      {
+        "japanese": "どうせ行くんでしょ。",
+        "romaji": "douse iku n desho.",
+        "english": "反正你会去的吧。"
+      },
+      {
+        "japanese": "どうせ参加しないのなら、早めに伝えたほうがいい。",
+        "romaji": "douse sanka shinai no nara, hayame ni tsutaeta houga ii.",
+        "english": "如果反正不参加的话，最好早点说。"
+      },
+      {
+        "japanese": "どうせ、試合の前にまだ一週間があるのでもっと練習しょう。",
+        "romaji": "douse, shiai no mae ni mada isshukan ga aru node motto renshuu shiyou.",
+        "english": "反正比赛前还有一周，再多练习一下吧。"
+      },
+      {
+        "japanese": "今から行ってもどうせ遅刻だから、行かないことにする。",
+        "romaji": "ima kara itte mo douse chikoku dakara, ikanai koto ni suru.",
+        "english": "现在去也会迟到，所以决定不去了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%81%9b-douse-meaning/"
+  },
+  {
+    "id": "%e5%be%97%e3%81%aa%e3%81%84-%e3%81%88%e3%81%aa%e3%81%84-enai-meaning",
+    "title": "JLPT N2 Grammar得ない(enai)",
+    "titleRomaji": "JLPT N2 Grammar ena i (enai )",
+    "explanation": "不能；无法；不可能",
+    "examples": [
+      {
+        "japanese": "あの人が結婚したって本当！？え～！あり得ないよ！",
+        "romaji": "ano hito ga kekkon shitatte hontou! ? e~! ari enai yo!",
+        "english": "那个人结婚了真的吗！？不可能！"
+      },
+      {
+        "japanese": "あの真面目な彼が犯人？そんなことはあり得ない。",
+        "romaji": "ano majime na kare ga hannin? sonna koto wa ari enai.",
+        "english": "那么认真的他是犯人？那是不可能的。"
+      },
+      {
+        "japanese": "地震がいつ来るかなんて、予測し得ないことだ。",
+        "romaji": "jishin ga itsu kuru ka nante, yosoku shi enai kotoda.",
+        "english": "地震什么时候来，是无法预测的。"
+      },
+      {
+        "japanese": "無から有は生じ得ない。",
+        "romaji": "mu kara yuu wa shouji enai.",
+        "english": "无中不能生有。"
+      },
+      {
+        "japanese": "機械は完全には人力に代わり得ない。",
+        "romaji": "kikai wa kanzen ni wa jinriki ni kawari enai.",
+        "english": "机器无法完全取代人力。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%be%97%e3%81%aa%e3%81%84-%e3%81%88%e3%81%aa%e3%81%84-enai-meaning/"
+  },
+  {
+    "id": "%e5%be%97%e3%82%8b-%e3%81%88%e3%82%8b-%e3%81%86%e3%82%8b-eru-uru-meaning",
+    "title": "JLPT N2 Grammar得る(eru / uru)",
+    "titleRomaji": "JLPT N2 Grammar eru (eru / uru )",
+    "explanation": "能够；可能",
+    "examples": [
+      {
+        "japanese": "君の話を信じるよ。だってこの世界ではどんなことでも起こり得るから。",
+        "romaji": "kimi no hanashi o shinjiru yo. datte kono sekaide wa donna koto demo okori eru kara.",
+        "english": "我相信你的话。因为这个世界什么事都可能发生。"
+      },
+      {
+        "japanese": "事故はいつでも起こり得るので、気をつけてください。",
+        "romaji": "jiko wa itsu demo okori eru node, ki o tsukete kudasai.",
+        "english": "事故随时都可能发生，请小心！"
+      },
+      {
+        "japanese": "タバコを吸いすぎや、お酒を飲み過ぎは病気の原因になり得ます。",
+        "romaji": "tabako o sui sugi ya, o sake o nomi sugi wa byouki no genin ni nari emasu.",
+        "english": "吸烟过多或喝酒过多可能导致疾病。"
+      },
+      {
+        "japanese": "運動不足は病気の原因になり得るので、できるだけ体を動かすようにしてください。",
+        "romaji": "undou fusoku wa byouki no genin ni nari eru node, dekiru dake karada o ugokasu youni shite kudasai.",
+        "english": "缺乏运动可能导致疾病，所以请尽量活动身体。"
+      },
+      {
+        "japanese": "この不況では大手企業の倒産もあり得る。",
+        "romaji": "kono fukyou dewa ootekigyou no tousan mo ariuru.",
+        "english": "在这次经济不景气中，大企业破产也是可能的。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%be%97%e3%82%8b-%e3%81%88%e3%82%8b-%e3%81%86%e3%82%8b-eru-uru-meaning/"
+  },
+  {
+    "id": "%e5%86%8d%e3%81%b3-%e3%81%b5%e3%81%9f%e3%81%9f%e3%81%b3-futatabi-meaning",
+    "title": "JLPT N2 Grammar再び(futatabi)",
+    "titleRomaji": "JLPT N2 Grammar futatabi (futatabi )",
+    "explanation": "再次；又一次",
+    "examples": [
+      {
+        "japanese": "来週の月曜日からレッスンを再び開始したいですか？",
+        "romaji": "raishuu no getsuyoubi kara ressun o futatabi kaishi shitai desu ka?",
+        "english": "你想从下周一再次开始课程吗？"
+      },
+      {
+        "japanese": "今年の旅行は楽しかった。来年の冬再びここに来たい。",
+        "romaji": "kotoshi no ryokou wa tanoshikatta. rainen no fuyu futatabi koko ni kitai.",
+        "english": "今年的旅行很开心。明年冬天想再来这里。"
+      },
+      {
+        "japanese": "10年後にようやく彼は、再び故郷の町を見た。",
+        "romaji": "10 nengo ni youyaku kare wa, futatabi kokyou no machi o mita.",
+        "english": "10年后他终于再次见到了故乡的城市。"
+      },
+      {
+        "japanese": "昨日私は、図書館で１ヶ月前に出会った少女と再び会った。",
+        "romaji": "kinou watashi wa, toshokan de ikkagetsu mae ni deatta shoujo to futatabi atta.",
+        "english": "昨天我在图书馆再次遇见了一个月前见过的女孩。"
+      },
+      {
+        "japanese": "本当に最悪の男だ。二度と再びあの男とは会いたくない。",
+        "romaji": "hontou ni saiaku no otoko da. nido to futatabi ano otoko to wa aitakunai.",
+        "english": "真是最差劲的男人。再也不想见到那个男人了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%86%8d%e3%81%b3-%e3%81%b5%e3%81%9f%e3%81%9f%e3%81%b3-futatabi-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%a7-ga-kikkake-de-%e3%82%92%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%ab-o-kikkake-ni-meaning",
+    "title": "JLPT N2 Grammarがきっかけで / をきっかけに(ga kikkake de / o kikkake ni)",
+    "titleRomaji": "JLPT N2 Grammar gakikkakede  /  wokikkakeni (ga kikkake de / o kikkake ni )",
+    "explanation": "以...为契机；由于...的缘故；趁机",
+    "examples": [
+      {
+        "japanese": "彼女は病気をきっかけにそのつまらない仕事を辞めた。",
+        "romaji": "kanojo wa byouki o kikkake ni sono tsumaranai shigoto o yameta.",
+        "english": "她以生病为契机辞掉了那份无聊的工作。"
+      },
+      {
+        "japanese": "昨年の事故をきっかけとして、安全対策が強化された。",
+        "romaji": "sakunen no jiko o kikkake toshite, anzentaisaku ga kyouka sareta.",
+        "english": "以去年的事故为契机，安全措施得到了加强。"
+      },
+      {
+        "japanese": "子供が生まれたのをきっかけとして、タバコを辞めた。",
+        "romaji": "kodomo ga umareta no o kikkake to shite, tabako o yameta.",
+        "english": "以孩子出生为契机，我戒了烟。"
+      },
+      {
+        "japanese": "パソコンを買ってもらったことがきっかけで、プログラミングの勉強を始めました。",
+        "romaji": "pasokon o katte moratta koto ga kikkake de, puroguramingu no benkyou o hajime mashita.",
+        "english": "以收到电脑为契机，我开始学习编程。"
+      },
+      {
+        "japanese": "失恋をきっかけに、海外に出て仕事をしようと決心した。",
+        "romaji": "shitsuren o kikkake ni, kaigai ni dete shigoto o shiyou to kesshin shita.",
+        "english": "以失恋为契机，我决心到国外工作。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%a7-ga-kikkake-de-%e3%82%92%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%ab-o-kikkake-ni-meaning/"
+  },
+  {
+    "id": "%e3%81%92-ge-meaning",
+    "title": "JLPT N2 Grammarげ(ge)",
+    "titleRomaji": "JLPT N2 Grammar ge (ge )",
+    "explanation": "看起来；似乎；表现出",
+    "examples": [
+      {
+        "japanese": "何か、言いたげだね。",
+        "romaji": "nanika, iita ge da ne.",
+        "english": "看起来有话想说。"
+      },
+      {
+        "japanese": "あの人は寂しげな目をしている。",
+        "romaji": "ano hito wa sabishige na me o shiteiru.",
+        "english": "那个人眼神看起来很寂寞。"
+      },
+      {
+        "japanese": "彼は眠たげな声でおはようと言った。",
+        "romaji": "kare wa nemuta ge na koe de ohayou to itta.",
+        "english": "他用困倦的声音说早安。"
+      },
+      {
+        "japanese": "ずいぶん、自信ありげだね。",
+        "romaji": "zuibun, jishin ari ge da ne.",
+        "english": "看起来很有自信啊。"
+      },
+      {
+        "japanese": "一人暮らしのために家を出る日、母は少し寂しげだった。",
+        "romaji": "hitori gurashi no tame ni ie o deru hi, haha wa sukoshi sabishi ge datta.",
+        "english": "我为了独居离家那天，母亲看起来有点寂寞。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%92-ge-meaning/"
+  },
+  {
+    "id": "%e9%80%86%e3%81%ab-gyaku-ni-meaning",
+    "title": "JLPT N2 Grammar逆に(gyaku ni)",
+    "titleRomaji": "JLPT N2 Grammar gyakuni (gyaku ni )",
+    "explanation": "相反；反而",
+    "examples": [
+      {
+        "japanese": "娘はスポーツが好きだが、逆に息子はスポーツが嫌いだ。",
+        "romaji": "musume wa supootsu ga suki da ga, gyaku ni musuko wa supootsu ga kirai da.",
+        "english": "女儿喜欢运动，相反儿子讨厌运动。"
+      },
+      {
+        "japanese": "天気予報と逆に、雨が降り続いている。",
+        "romaji": "tenki yohou to gyaku ni, ame ga furitsuzuite iru.",
+        "english": "和天气预报相反，一直在下雨。"
+      },
+      {
+        "japanese": "彼はゲームが大好きだが、逆に弟さんは嫌いだ。",
+        "romaji": "kare wa geemu ga daisuki daga, gyaku ni otouto san wa kirai da.",
+        "english": "他很喜欢游戏，相反他弟弟讨厌游戏。"
+      },
+      {
+        "japanese": "逆に、嫌いな日本の料理はなんですか？",
+        "romaji": "gyaku ni, kirai na nihon no ryouri wa nan desu ka?",
+        "english": "相反，你不喜欢的日本料理是什么？"
+      },
+      {
+        "japanese": "私達の期待とは逆に、今年の売り上げは増えなかった。",
+        "romaji": "watashitachi no kitai to wa gyaku ni, kotoshi no uriage wa fuenakatta.",
+        "english": "和我们的期待相反，今年的销售额没有增长。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e9%80%86%e3%81%ab-gyaku-ni-meaning/"
+  },
+  {
+    "id": "%e5%8f%8d%e9%9d%a2-%e3%81%af%e3%82%93%e3%82%81%e3%82%93-hanmen-meaning",
+    "title": "JLPT N2 Grammar反面(hanmen)",
+    "titleRomaji": "JLPT N2 Grammar hanmen (hanmen )",
+    "explanation": "虽然；另一方面",
+    "examples": [
+      {
+        "japanese": "この部屋は日当たりがいい反面、夏はかなり暑いです。",
+        "romaji": "kono heya wa hiatari ga ii hanmen, natsu wa kanari atsui desu.",
+        "english": "这个房间采光好，但另一方面夏天很热。"
+      },
+      {
+        "japanese": "子供の成長は嬉しい反面、どこか寂しい。",
+        "romaji": "kodomo no seichou wa ureshii hanmen, dokoka sabishii.",
+        "english": "看到孩子成长很高兴，但另一方面也有点寂寞。"
+      },
+      {
+        "japanese": "彼氏ができたら、楽しい反面、一人の時間がすくなくなりました。",
+        "romaji": "kareshi ga dekitara, tanoshii hanmen, hitori no jikan ga sukunaku narimashita.",
+        "english": "有了男朋友很开心，但另一方面自己的时间减少了。"
+      },
+      {
+        "japanese": "一人暮らしは楽しい反面、一緒に話す相手がいないので寂しいこともあります。",
+        "romaji": "hitori gurashi wa tanoshii hanmen, issho ni hanasu aite ga inai node sabishii koto mo arimasu.",
+        "english": "独居很愉快，但另一方面因为没有人说话有时也很寂寞。"
+      },
+      {
+        "japanese": "子供にとって、インターネットは便利な反面、悪い影響を与えることもあります。",
+        "romaji": "kodomo ni totte, intaanetto wa benri na hanmen, warui eikyou o ataeru koto mo arimasu.",
+        "english": "对孩子来说，网络虽然方便，但另一方面也有不好的影响。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e5%8f%8d%e9%9d%a2-%e3%81%af%e3%82%93%e3%82%81%e3%82%93-hanmen-meaning/"
+  },
+  {
+    "id": "%e4%b8%80%e5%bf%9c-ichiou-meaning",
+    "title": "JLPT N2 Grammar一応(ichiou)",
+    "titleRomaji": "JLPT N2 Grammar ichiou (ichiou )",
+    "explanation": "大致；暂且；姑且",
+    "examples": [
+      {
+        "japanese": "一応やりました。",
+        "romaji": "ichiou yarimashita.",
+        "english": "姑且做了（但可能还需要完善）。"
+      },
+      {
+        "japanese": "一応やってみます。",
+        "romaji": "ichiou yatte miru.",
+        "english": "（虽然可能做不好，但）我会试试看的。"
+      },
+      {
+        "japanese": "一応、付き合っている人がいるんだ。",
+        "romaji": "ichiou, tsukiatteiru hito ga iru nda.",
+        "english": "算是有在交往的人。"
+      },
+      {
+        "japanese": "彼はもう寝たかもしれないけど、一応電話してみようかな。",
+        "romaji": "kare wa mou neta kamoshirenai kedo, ichiou denwa shite miyou kana.",
+        "english": "他可能已经睡了，但姑且打个电话试试吧。"
+      },
+      {
+        "japanese": "一応、明日までに返事をくれる？",
+        "romaji": "ichiou, ashita made ni henji o kureru.",
+        "english": "至少明天之前能给我答复吗？"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e5%bf%9c-ichiou-meaning/"
+  },
+  {
+    "id": "%e4%bb%a5%e5%a4%96%e3%81%ae-igai-no-meaning",
+    "title": "JLPT N2 Grammar以外(igai)",
+    "titleRomaji": "JLPT N2 Grammar igai (igai )",
+    "explanation": "除了...之外",
+    "examples": [
+      {
+        "japanese": "食事以外には何ができる？",
+        "romaji": "shokuji igai ni wa nani ga dekiru?",
+        "english": "除了吃饭还能做什么？"
+      },
+      {
+        "japanese": "彼女以外誰もいない。",
+        "romaji": "kanojo igai dare mo inai.",
+        "english": "除了她没有别人。"
+      },
+      {
+        "japanese": "水以外何も見えない。",
+        "romaji": "mizu igai nanimo mienai.",
+        "english": "除了水什么也看不见。"
+      },
+      {
+        "japanese": "彼は英語以外の言語は全く知らない。",
+        "romaji": "kare wa eigo igai no gengo wa mattaku shiranai.",
+        "english": "他除了英语完全不懂其他语言。"
+      },
+      {
+        "japanese": "私は彼女以外はみんな好きだ。",
+        "romaji": "watashi wa kanojo igai wa minna suki da.",
+        "english": "除了她我都喜欢。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e4%bb%a5%e5%a4%96%e3%81%ae-igai-no-meaning/"
+  },
+  {
+    "id": "%e4%bb%a5%e4%b8%8a%e3%81%af-ijou-wa-meaning",
+    "title": "JLPT N2 Grammar以上は(ijou wa)",
+    "titleRomaji": "JLPT N2 Grammar ijou ha (ijou wa )",
+    "explanation": "既然；因为；鉴于",
+    "examples": [
+      {
+        "japanese": "約束した以上、きちんと守ってくださいね。",
+        "romaji": "yakusoku shita ijou, kichinto mamotte kudasai ne.",
+        "english": "既然答应了，就一定要遵守！"
+      },
+      {
+        "japanese": "学生である以上、アルバイトではなく勉強が大事ですよ。",
+        "romaji": "gakusei de aru ijou, arubaito dewa naku benkyou ga daiji desu yo.",
+        "english": "既然是学生，学习比打工更重要。"
+      },
+      {
+        "japanese": "給料がこんなに安い以上は、転職を考える人がいるのも当然だ。",
+        "romaji": "kyuuryou ga konna ni yasui ijou wa, tenshoku o kangaeru hito ga iru no mo touzen da.",
+        "english": "工资这么低，有人考虑跳槽也是理所当然的。"
+      },
+      {
+        "japanese": "お金を払って勉強する以上は、しっかり身につけたい。",
+        "romaji": "okane o haratte benkyou suru ijou wa, shikkari mi ni tsuketai.",
+        "english": "既然花钱学习，就要好好掌握。"
+      },
+      {
+        "japanese": "一度やると決めた以上は、最後まで責任を持ってやらないと。",
+        "romaji": "ichido yaru to kimeta ijou wa, saigo made sekinin o motte yaranai to.",
+        "english": "既然决定做了，就要负责任做到最后。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e4%bb%a5%e4%b8%8a%e3%81%af-ijou-wa-meaning/"
+  },
+  {
+    "id": "%e3%81%84%e3%81%8d%e3%81%aa%e3%82%8a-ikinari-meaning",
+    "title": "JLPT N2 Grammarいきなり(ikinari)",
+    "titleRomaji": "JLPT N2 Grammar ikinari (ikinari )",
+    "explanation": "突然；猛然；毫无预警地",
+    "examples": [
+      {
+        "japanese": "いきなり男の人に道を聞かれた。",
+        "romaji": "ikinari otoko no hito ni michi o kikareta.",
+        "english": "突然被一个男人问路。"
+      },
+      {
+        "japanese": "いきなりあなたにメールを送ってしまい申し訳ありません。",
+        "romaji": "ikinari anata ni meeru o okutte shimai moushiwake arimasen.",
+        "english": "突然给你发邮件真是抱歉。"
+      },
+      {
+        "japanese": "彼は彼女の手からいきなりハンドバッグを取った。",
+        "romaji": "kare wa kanojo no te kara ikinari hando baggu o totta.",
+        "english": "他突然从她手里抢了手提包。"
+      },
+      {
+        "japanese": "彼女の兄弟は、いきなり結婚式に現れた。",
+        "romaji": "kanojo no kyoudai wa, ikinari kekkonshiki ni arawareta.",
+        "english": "她的兄弟姐妹突然出现在婚礼上。"
+      },
+      {
+        "japanese": "今日は会社に来るとき、私の前でタクシーがいきなり止まってびっくりした。",
+        "romaji": "kyou wa kaisha ni kuru toki, watashi no mae de takushii ga ikinari tomatte bikkuri shita.",
+        "english": "今天来公司时，出租车突然在我面前停下，吓了我一跳。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%8d%e3%81%aa%e3%82%8a-ikinari-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af-ni-shite-wa-meaning",
+    "title": "JLPT N3 Grammarにしては(ni shite wa)",
+    "titleRomaji": "JLPT N3 Grammar nishiteha (ni shite wa )",
+    "explanation": "考虑到...；对于...来说",
+    "examples": [
+      {
+        "japanese": "このレストランは値段にしては、料理があまり美味しくない。",
+        "romaji": "kono resutoran wa nedan ni shite wa, ryouri ga amari oishiku nai.",
+        "english": "这家餐厅考虑到价格来说，菜品不太好吃。"
+      },
+      {
+        "japanese": "この小説は中学生が書いたにしては、よくできている。",
+        "romaji": "kono shousetsu wa chuugakusei ga kaita ni shite wa, yoku dekiteiru.",
+        "english": "这部小说对于中学生写的来说，完成得很好。"
+      },
+      {
+        "japanese": "彼女は大学生にしては、礼儀正しい。",
+        "romaji": "kanojo wa daigakusei ni shite wa, reigi tadashii.",
+        "english": "她对于大学生来说很有礼貌。"
+      },
+      {
+        "japanese": "彼は病人にしては、元気そうだ。",
+        "romaji": "kare wa byounin ni shite wa, genki sou da.",
+        "english": "他对于病人来说看起来很精神。"
+      },
+      {
+        "japanese": "このカバンは高級ブランドにしては、安い。",
+        "romaji": "kono kaban wa koukyuu burando ni shite wa, yasui.",
+        "english": "这个包对于高档品牌来说很便宜。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af-ni-shite-wa-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6-ni-totte-meaning",
+    "title": "JLPT N3 Grammarにとって(ni totte)",
+    "titleRomaji": "JLPT N3 Grammar nitotte (ni totte )",
+    "explanation": "对...来说；从...的角度来看",
+    "examples": [
+      {
+        "japanese": "この問題は私にとって、とても難しい。",
+        "romaji": "kono mondai wa watashi ni totte, totemo muzukashii.",
+        "english": "这个问题对我来说很难。"
+      },
+      {
+        "japanese": "A: 明日までに５０ページのレポートを書いてきて。B: 明日までに？それは私にとって不可能です。",
+        "romaji": "A: ashita made ni 50 peeji no repooto wo kaite kite. B: ashita made ni? sore wa watashi ni totte fukanou desu.",
+        "english": "A：明天之前写出50页的报告。B：明天之前？那对我来说是不可能的。"
+      },
+      {
+        "japanese": "その記事は私にとって、とても興味深いものでした。",
+        "romaji": "sono kiji wa watashi ni totte, totemo kyoumibukai mono deshita.",
+        "english": "那篇文章对我来说非常有趣。"
+      },
+      {
+        "japanese": "彼にとって、家族は何よりも大切だ。",
+        "romaji": "kare ni totte, kazoku wa nani yori mo taisetsu da.",
+        "english": "对他来说，家人比什么都重要。"
+      },
+      {
+        "japanese": "日本語を勉強することは僕にとって、とても楽しいことだ。",
+        "romaji": "nihongo wo benkyou suru koto wa boku ni totte, totemo tanoshii koto da.",
+        "english": "学习日语对我来说是一件非常快乐的事。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6-ni-totte-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e5%8f%8d%e3%81%97%e3%81%a6-ni-hanshite-meaning",
+    "title": "JLPT N3 Grammarに反して(ni hanshite)",
+    "titleRomaji": "JLPT N3 Grammar nihanshite (ni hanshite )",
+    "explanation": "违反；与...相反",
+    "examples": [
+      {
+        "japanese": "彼は親の期待に反して、大学に進学しなかった。",
+        "romaji": "kare wa oya no kitai ni hanshite, daigaku ni shingaku shinakatta.",
+        "english": "他违反了父母的期待，没有升入大学。"
+      },
+      {
+        "japanese": "予想に反して、その映画はとても面白かった。",
+        "romaji": "yosou ni hanshite, sono eiga wa totemo omoshirokatta.",
+        "english": "与预期相反，那部电影非常有趣。"
+      },
+      {
+        "japanese": "私の意見に反して、会議は続けられた。",
+        "romaji": "watashi no iken ni hanshite, kaigi wa tsuzuke rareta.",
+        "english": "违反了我的意见，会议继续进行了。"
+      },
+      {
+        "japanese": "期待に反して、試合は負けてしまった。",
+        "romaji": "kitai ni hanshite, shiai wa makete shimatta.",
+        "english": "与期待相反，比赛输了。"
+      },
+      {
+        "japanese": "常識に反して、彼女は一人で旅に出た。",
+        "romaji": "joushiki ni hanshite, kanojo wa hitori de tabi ni deta.",
+        "english": "违反常识，她一个人去旅行了。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%8f%8d%e3%81%97%e3%81%a6-ni-hanshite-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e9%96%a2%e3%81%97%e3%81%a6-ni-kanshite-meaning",
+    "title": "JLPT N3 Grammarに関して(ni kanshite)",
+    "titleRomaji": "JLPT N3 Grammar nikanshite (ni kanshite )",
+    "explanation": "关于；有关",
+    "examples": [
+      {
+        "japanese": "その事件に関して、何か知っていることはありますか？",
+        "romaji": "sono jiken ni kanshite, nanika shitteiru koto wa arimasu ka?",
+        "english": "关于那个事件，你知道什么吗？"
+      },
+      {
+        "japanese": "日本の歴史に関して、興味があります。",
+        "romaji": "nihon no rekishi ni kanshite, kyoumi ga arimasu.",
+        "english": "我对日本历史很感兴趣。"
+      },
+      {
+        "japanese": "このプロジェクトに関して、質問はありますか？",
+        "romaji": "kono purojekuto ni kanshite, shitsumon wa arimasu ka?",
+        "english": "关于这个项目，有什么问题吗？"
+      },
+      {
+        "japanese": "環境問題に関して、私たちは真剣に考えなければならない。",
+        "romaji": "kankyou mondai ni kanshite, watashitachi wa shinken ni kangae nakereba naranai.",
+        "english": "关于环境问题，我们必须认真思考。"
+      },
+      {
+        "japanese": "その件に関しては、後で詳しく説明します。",
+        "romaji": "sono ken ni kanshite wa, ato de kuwashiku setsumei shimasu.",
+        "english": "关于那件事，之后会详细说明。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%96%a2%e3%81%97%e3%81%a6-ni-kanshite-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e5%af%be%e3%81%97%e3%81%a6-ni-taishite-meaning",
+    "title": "JLPT N3 Grammarに対して(ni taishite)",
+    "titleRomaji": "JLPT N3 Grammar nitaishite (ni taishite )",
+    "explanation": "对于；针对；与...相对",
+    "examples": [
+      {
+        "japanese": "先生は学生に対して、とても優しい。",
+        "romaji": "sensei wa gakusei ni taishite, totemo yasashii.",
+        "english": "老师对学生非常温和。"
+      },
+      {
+        "japanese": "彼の失礼な態度に対して、私は怒った。",
+        "romaji": "kare no shitsurei na taido ni taishite, watashi wa okotta.",
+        "english": "对于他无礼的态度，我很生气。"
+      },
+      {
+        "japanese": "この問題に対して、どう思いますか？",
+        "romaji": "kono mondai ni taishite, dou omoimasu ka?",
+        "english": "对于这个问题，你怎么看？"
+      },
+      {
+        "japanese": "子供に対して、親は責任を持つべきだ。",
+        "romaji": "kodomo ni taishite, oya wa sekinin wo motsu beki da.",
+        "english": "对于孩子，父母应该负责任。"
+      },
+      {
+        "japanese": "彼女は私に対して、冷たい態度を取った。",
+        "romaji": "kanojo wa watashi ni taishite, tsumetai taido wo totta.",
+        "english": "她对我采取了冷淡的态度。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%af%be%e3%81%97%e3%81%a6-ni-taishite-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-ni-tsuite-meaning",
+    "title": "JLPT N3 Grammarについて(ni tsuite)",
+    "titleRomaji": "JLPT N3 Grammar nitsuite (ni tsuite )",
+    "explanation": "关于；有关",
+    "examples": [
+      {
+        "japanese": "日本の文化について、もっと学びたい。",
+        "romaji": "nihon no bunka ni tsuite, motto manabitai.",
+        "english": "我想更多地了解日本文化。"
+      },
+      {
+        "japanese": "この本は環境問題について書かれている。",
+        "romaji": "kono hon wa kankyou mondai ni tsuite kaka reteiru.",
+        "english": "这本书是关于环境问题的。"
+      },
+      {
+        "japanese": "あなたについて、もっと知りたいです。",
+        "romaji": "anata ni tsuite, motto shiritai desu.",
+        "english": "我想更多地了解你。"
+      },
+      {
+        "japanese": "明日の会議について、何か質問はありますか？",
+        "romaji": "ashita no kaigi ni tsuite, nanika shitsumon wa arimasu ka?",
+        "english": "关于明天的会议，有什么问题吗？"
+      },
+      {
+        "japanese": "その事件について、詳しく説明してください。",
+        "romaji": "sono jiken ni tsuite, kuwashiku setsumei shite kudasai.",
+        "english": "请详细说明那个事件。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-ni-tsuite-meaning/"
+  },
+  {
+    "id": "%e3%82%82%e3%81%ae%e3%81%8b-mono-ka-meaning",
+    "title": "JLPT N3 Grammarものか(mono ka)",
+    "titleRomaji": "JLPT N3 Grammar monoka (mono ka )",
+    "explanation": "绝不；才不会；怎么可能",
+    "examples": [
+      {
+        "japanese": "あんな人と結婚するものか。",
+        "romaji": "anna hito to kekkon suru mono ka.",
+        "english": "我才不会和那种人结婚。"
+      },
+      {
+        "japanese": "あの店の料理は高いだけで、美味しくもなんともない。二度と行くものか。",
+        "romaji": "ano mise no ryouri wa takai dake de, oishiku mo nan to mo nai. nido to iku mono ka.",
+        "english": "那家店的菜只是贵而已，一点都不好吃。我才不会再去第二次。"
+      },
+      {
+        "japanese": "彼に謝るものか。悪いのは彼の方だ。",
+        "romaji": "kare ni ayamaru mono ka. warui no wa kare no hou da.",
+        "english": "我才不会向他道歉。错的是他。"
+      },
+      {
+        "japanese": "こんな難しい問題、誰が解けるものか。",
+        "romaji": "konna muzukashii mondai, dare ga tokeru mono ka.",
+        "english": "这么难的问题，谁能解决啊。"
+      },
+      {
+        "japanese": "あんなにうるさい音楽、聞けるものか。",
+        "romaji": "anna ni urusai ongaku, kikeru mono ka.",
+        "english": "那么吵的音乐，怎么能听啊。"
+      }
+    ],
+    "jlptLevel": "N3",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%ae%e3%81%8b-mono-ka-meaning/"
+  },
+  {
+    "id": "%e3%81%a0%e3%82%89%e3%81%91-darake-meaning",
+    "title": "JLPT N2 Grammarだらけ(darake)",
+    "titleRomaji": "JLPT N2 Grammar darake (darake )",
+    "explanation": "满是；全是（带有负面含义）",
+    "examples": [
+      {
+        "japanese": "この部屋はほこりだらけだ。",
+        "romaji": "kono heya wa hokori darake da.",
+        "english": "这个房间满是灰尘。"
+      },
+      {
+        "japanese": "彼のレポートは間違いだらけだった。",
+        "romaji": "kare no repooto wa machigai darake datta.",
+        "english": "他的报告错误百出。"
+      },
+      {
+        "japanese": "その古い本はシミだらけだ。",
+        "romaji": "sono furui hon wa shimi darake da.",
+        "english": "那本旧书满是污渍。"
+      },
+      {
+        "japanese": "子供が泥だらけになって帰ってきた。",
+        "romaji": "kodomo ga doro darake ni natte kaette kita.",
+        "english": "孩子浑身是泥地回来了。"
+      },
+      {
+        "japanese": "この文章は誤字だらけで、読みにくい。",
+        "romaji": "kono bunshou wa goji darake de, yominikui.",
+        "english": "这篇文章错别字很多，难以阅读。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%82%89%e3%81%91-darake-meaning/"
+  },
+  {
+    "id": "%e3%81%a3%e3%81%bd%e3%81%84-ppoi-meaning",
+    "title": "JLPT N2 Grammarっぽい(ppoi)",
+    "titleRomaji": "JLPT N2 Grammar ppoi (ppoi )",
+    "explanation": "像...；有...倾向；容易...",
+    "examples": [
+      {
+        "japanese": "彼は子供っぽい性格だ。",
+        "romaji": "kare wa kodomo ppoi seikaku da.",
+        "english": "他性格像孩子。"
+      },
+      {
+        "japanese": "この服は安っぽく見える。",
+        "romaji": "kono fuku wa yasu ppoku mieru.",
+        "english": "这件衣服看起来很便宜。"
+      },
+      {
+        "japanese": "彼女は忘れっぽくて、いつも物をなくす。",
+        "romaji": "kanojo wa wasure ppokute, itsumo mono wo nakusu.",
+        "english": "她很健忘，总是丢东西。"
+      },
+      {
+        "japanese": "今日は春っぽい天気だね。",
+        "romaji": "kyou wa haru ppoi tenki da ne.",
+        "english": "今天的天气很像春天呢。"
+      },
+      {
+        "japanese": "彼の話は嘘っぽい。",
+        "romaji": "kare no hanashi wa uso ppoi.",
+        "english": "他的话听起来像是谎言。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a3%e3%81%bd%e3%81%84-ppoi-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e3%81%a1-gachi-meaning",
+    "title": "JLPT N2 Grammarがち(gachi)",
+    "titleRomaji": "JLPT N2 Grammar gachi (gachi )",
+    "explanation": "容易；往往；倾向于",
+    "examples": [
+      {
+        "japanese": "彼は病気がちで、よく学校を休む。",
+        "romaji": "kare wa byouki gachi de, yoku gakkou wo yasumu.",
+        "english": "他经常生病，常常请假不去学校。"
+      },
+      {
+        "japanese": "冬は風邪をひきがちだ。",
+        "romaji": "fuyu wa kaze wo hiki gachi da.",
+        "english": "冬天容易感冒。"
+      },
+      {
+        "japanese": "彼女は遅刻しがちだ。",
+        "romaji": "kanojo wa chikoku shi gachi da.",
+        "english": "她经常迟到。"
+      },
+      {
+        "japanese": "最近、運動不足になりがちだ。",
+        "romaji": "saikin, undou busoku ni nari gachi da.",
+        "english": "最近容易运动不足。"
+      },
+      {
+        "japanese": "忙しいと、食事を抜きがちになる。",
+        "romaji": "isogashii to, shokuji wo nuki gachi ni naru.",
+        "english": "一忙起来，就容易不吃饭。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%a1-gachi-meaning/"
+  },
+  {
+    "id": "%e3%81%8c%e3%81%9f%e3%81%84-gatai-meaning",
+    "title": "JLPT N2 Grammarがたい(gatai)",
+    "titleRomaji": "JLPT N2 Grammar gatai (gatai )",
+    "explanation": "难以；不容易",
+    "examples": [
+      {
+        "japanese": "彼の行動は理解しがたい。",
+        "romaji": "kare no koudou wa rikai shi gatai.",
+        "english": "他的行为难以理解。"
+      },
+      {
+        "japanese": "その話は信じがたい。",
+        "romaji": "sono hanashi wa shinji gatai.",
+        "english": "那个说法难以置信。"
+      },
+      {
+        "japanese": "この問題は解決しがたい。",
+        "romaji": "kono mondai wa kaiketsu shi gatai.",
+        "english": "这个问题难以解决。"
+      },
+      {
+        "japanese": "彼女の態度は許しがたい。",
+        "romaji": "kanojo no taido wa yurushi gatai.",
+        "english": "她的态度令人难以原谅。"
+      },
+      {
+        "japanese": "この字は読みがたい。",
+        "romaji": "kono ji wa yomi gatai.",
+        "english": "这个字难以辨认。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%9f%e3%81%84-gatai-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%81%ad%e3%82%8b-kaneru-meaning",
+    "title": "JLPT N2 Grammarかねる(kaneru)",
+    "titleRomaji": "JLPT N2 Grammar kaneru (kaneru )",
+    "explanation": "难以；不能；不便",
+    "examples": [
+      {
+        "japanese": "その質問にはお答えしかねます。",
+        "romaji": "sono shitsumon ni wa okotae shi kanemasu.",
+        "english": "那个问题恕难回答。"
+      },
+      {
+        "japanese": "このような状況では、判断しかねる。",
+        "romaji": "kono you na joukyou de wa, handan shi kaneru.",
+        "english": "在这种情况下，难以判断。"
+      },
+      {
+        "japanese": "申し訳ございませんが、その件については承りかねます。",
+        "romaji": "moushiwake gozaimasen ga, sono ken ni tsuite wa uketamawari kanemasu.",
+        "english": "非常抱歉，那件事恕难承办。"
+      },
+      {
+        "japanese": "そのような要求には応じかねます。",
+        "romaji": "sono you na youkyuu ni wa ouji kanemasu.",
+        "english": "那样的要求恕难答应。"
+      },
+      {
+        "japanese": "詳しい内容については、お話しかねます。",
+        "romaji": "kuwashii naiyou ni tsuite wa, ohanashi kanemasu.",
+        "english": "关于详细内容，恕难告知。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%ad%e3%82%8b-kaneru-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%81%91%e3%82%8b-kakeru-meaning",
+    "title": "JLPT N2 Grammarかける(kakeru)",
+    "titleRomaji": "JLPT N2 Grammar kakeru (kakeru )",
+    "explanation": "正在...；即将...；差点...",
+    "examples": [
+      {
+        "japanese": "食べかけのパンがテーブルの上にある。",
+        "romaji": "tabe kakeru no pan ga teeburu no ue ni aru.",
+        "english": "桌子上有吃了一半的面包。"
+      },
+      {
+        "japanese": "読みかけの本を机に置いた。",
+        "romaji": "yomi kakeru no hon wo tsukue ni oita.",
+        "english": "把读了一半的书放在桌上。"
+      },
+      {
+        "japanese": "死にかけている。",
+        "romaji": "shini kaketeiru.",
+        "english": "快要死了。"
+      },
+      {
+        "japanese": "彼は今にも泣きかけている。",
+        "romaji": "kare wa ima ni mo naki kaketeiru.",
+        "english": "他现在快要哭出来了。"
+      },
+      {
+        "japanese": "書きかけの手紙を机の引き出しに入れた。",
+        "romaji": "kaki kakeru no tegami wo tsukue no hikidashi ni ireta.",
+        "english": "把写了一半的信放进了桌子的抽屉里。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%91%e3%82%8b-kakeru-meaning/"
+  },
+  {
+    "id": "%e3%81%8d%e3%82%8a-kiri-meaning",
+    "title": "JLPT N2 Grammarきり(kiri)",
+    "titleRomaji": "JLPT N2 Grammar kiri (kiri )",
+    "explanation": "只；仅；自从...之后就（再也没有）",
+    "examples": [
+      {
+        "japanese": "財布には千円きりない。",
+        "romaji": "saifu ni wa sen en kiri nai.",
+        "english": "钱包里只有一千日元。"
+      },
+      {
+        "japanese": "彼とは一度会ったきりだ。",
+        "romaji": "kare to wa ichido atta kiri da.",
+        "english": "和他只见过一次面。"
+      },
+      {
+        "japanese": "あの日以来、彼女に会っていないきりだ。",
+        "romaji": "ano hi irai, kanojo ni attenai kiri da.",
+        "english": "自从那天以后，就再也没见过她。"
+      },
+      {
+        "japanese": "そのレストランには一回行ったきりだ。",
+        "romaji": "sono resutoran ni wa ikkai itta kiri da.",
+        "english": "那家餐厅只去过一次。"
+      },
+      {
+        "japanese": "彼は出かけたきり、帰ってこない。",
+        "romaji": "kare wa dekaketa kiri, kaette konai.",
+        "english": "他出去之后就再也没回来。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8d%e3%82%8a-kiri-meaning/"
+  },
+  {
+    "id": "%e3%82%8f%e3%81%91%e3%81%a0-wake-da-meaning",
+    "title": "JLPT N2 Grammarわけだ(wake da)",
+    "titleRomaji": "JLPT N2 Grammar wakeda (wake da )",
+    "explanation": "所以；那么说；难怪",
+    "examples": [
+      {
+        "japanese": "彼は毎日10時間勉強している。合格するわけだ。",
+        "romaji": "kare wa mainichi 10 jikan benkyou shiteiru. goukaku suru wake da.",
+        "english": "他每天学习10个小时。难怪会合格。"
+      },
+      {
+        "japanese": "彼女は日本に5年住んでいた。日本語が上手なわけだ。",
+        "romaji": "kanojo wa nihon ni 5 nen sundeita. nihongo ga jouzu na wake da.",
+        "english": "她在日本住了5年。难怪日语那么好。"
+      },
+      {
+        "japanese": "A: 田中さん、今日休みだね。B: ああ、昨日熱があったから、今日休むわけだ。",
+        "romaji": "A: tanaka san, kyou yasumi da ne. B: aa, kinou netsu ga atta kara, kyou yasumu wake da.",
+        "english": "A：田中今天休息呢。B：啊，昨天发烧了，所以今天休息。"
+      },
+      {
+        "japanese": "彼は朝から何も食べていない。お腹が空いているわけだ。",
+        "romaji": "kare wa asa kara nani mo tabeteinai. onaka ga suiteiru wake da.",
+        "english": "他从早上开始什么都没吃。难怪肚子饿了。"
+      },
+      {
+        "japanese": "このレストランは安くて美味しい。人気があるわけだ。",
+        "romaji": "kono resutoran wa yasukute oishii. ninki ga aru wake da.",
+        "english": "这家餐厅又便宜又好吃。难怪这么受欢迎。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%91%e3%81%a0-wake-da-meaning/"
+  },
+  {
+    "id": "%e3%82%8f%e3%81%91%e3%81%8c%e3%81%aa%e3%81%84-wake-ga-nai-meaning",
+    "title": "JLPT N2 Grammarわけがない(wake ga nai)",
+    "titleRomaji": "JLPT N2 Grammar wakeganai (wake ga nai )",
+    "explanation": "不可能；不会",
+    "examples": [
+      {
+        "japanese": "そんな難しい問題が解けるわけがない。",
+        "romaji": "sonna muzukashii mondai ga tokeru wake ga nai.",
+        "english": "那么难的问题不可能解得出来。"
+      },
+      {
+        "japanese": "彼が嘘をつくわけがない。",
+        "romaji": "kare ga uso wo tsuku wake ga nai.",
+        "english": "他不可能说谎。"
+      },
+      {
+        "japanese": "一日で終わるわけがない。",
+        "romaji": "ichinichi de owaru wake ga nai.",
+        "english": "不可能一天就结束。"
+      },
+      {
+        "japanese": "そんなことを知っているわけがない。",
+        "romaji": "sonna koto wo shitteiru wake ga nai.",
+        "english": "不可能知道那种事。"
+      },
+      {
+        "japanese": "彼女が来るわけがない。もう遅いから。",
+        "romaji": "kanojo ga kuru wake ga nai. mou osoi kara.",
+        "english": "她不可能来了。因为已经很晚了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%91%e3%81%8c%e3%81%aa%e3%81%84-wake-ga-nai-meaning/"
+  },
+  {
+    "id": "%e3%82%8f%e3%81%91%e3%81%ab%e3%81%af%e3%81%84%e3%81%8b%e3%81%aa%e3%81%84-wake-ni-wa-ikanai-meaning",
+    "title": "JLPT N2 Grammarわけにはいかない(wake ni wa ikanai)",
+    "titleRomaji": "JLPT N2 Grammar wakenihaikana (wake ni wa ikanai )",
+    "explanation": "不能；不可以；不好意思",
+    "examples": [
+      {
+        "japanese": "明日は大事な試験があるから、遊びに行くわけにはいかない。",
+        "romaji": "ashita wa daiji na shiken ga aru kara, asobi ni iku wake ni wa ikanai.",
+        "english": "明天有重要的考试，所以不能去玩。"
+      },
+      {
+        "japanese": "人前で泣くわけにはいかない。",
+        "romaji": "hitomae de naku wake ni wa ikanai.",
+        "english": "在人前不能哭。"
+      },
+      {
+        "japanese": "体の調子が悪いが、仕事を休むわけにはいかない。",
+        "romaji": "karada no choushi ga warui ga, shigoto wo yasumu wake ni wa ikanai.",
+        "english": "身体不舒服，但不能请假。"
+      },
+      {
+        "japanese": "約束したから、行かないわけにはいかない。",
+        "romaji": "yakusoku shita kara, ikanai wake ni wa ikanai.",
+        "english": "因为约好了，所以不能不去。"
+      },
+      {
+        "japanese": "お金がないから、高いものを買うわけにはいかない。",
+        "romaji": "okane ga nai kara, takai mono wo kau wake ni wa ikanai.",
+        "english": "因为没钱，所以不能买贵的东西。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%82%8f%e3%81%91%e3%81%ab%e3%81%af%e3%81%84%e3%81%8b%e3%81%aa%e3%81%84-wake-ni-wa-ikanai-meaning/"
+  },
+  {
+    "id": "%e3%81%a8%e3%81%93%e3%82%8d%e3%81%8c-tokoro-ga-meaning",
+    "title": "JLPT N2 Grammarところが(tokoro ga)",
+    "titleRomaji": "JLPT N2 Grammar tokoroga (tokoro ga )",
+    "explanation": "但是；可是；然而",
+    "examples": [
+      {
+        "japanese": "昨日は天気予報では雨だった。ところが、一日中晴れていた。",
+        "romaji": "kinou wa tenki yohou de wa ame datta. tokoro ga, ichinichijuu hareteita.",
+        "english": "昨天天气预报说下雨。可是，一整天都是晴天。"
+      },
+      {
+        "japanese": "彼は真面目そうに見える。ところが、実際はとてもいい加減だ。",
+        "romaji": "kare wa majime sou ni mieru. tokoro ga, jissai wa totemo iikagen da.",
+        "english": "他看起来很认真。但是，实际上很马虎。"
+      },
+      {
+        "japanese": "試験は簡単だと思っていた。ところが、とても難しかった。",
+        "romaji": "shiken wa kantan da to omotteita. tokoro ga, totemo muzukashikatta.",
+        "english": "我以为考试很简单。可是，非常难。"
+      },
+      {
+        "japanese": "彼女に電話した。ところが、出なかった。",
+        "romaji": "kanojo ni denwa shita. tokoro ga, denakatta.",
+        "english": "我给她打了电话。但是，她没接。"
+      },
+      {
+        "japanese": "駅に着いた。ところが、電車はもう出てしまっていた。",
+        "romaji": "eki ni tsuita. tokoro ga, densha wa mou dete shimatte ita.",
+        "english": "到了车站。可是，电车已经开走了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d%e3%81%8c-tokoro-ga-meaning/"
+  },
+  {
+    "id": "%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7-tokoro-de-meaning",
+    "title": "JLPT N2 Grammarところで(tokoro de)",
+    "titleRomaji": "JLPT N2 Grammar tokorode (tokoro de )",
+    "explanation": "即使；就算；话说回来",
+    "examples": [
+      {
+        "japanese": "今から出かけたところで、間に合わない。",
+        "romaji": "ima kara dekaketa tokoro de, maniawanai.",
+        "english": "即使现在出发，也赶不上。"
+      },
+      {
+        "japanese": "謝ったところで、許してもらえないだろう。",
+        "romaji": "ayamatta tokoro de, yurushite moraenai darou.",
+        "english": "就算道歉了，也不会被原谅吧。"
+      },
+      {
+        "japanese": "今更後悔したところで、どうにもならない。",
+        "romaji": "imasara koukai shita tokoro de, dou ni mo naranai.",
+        "english": "现在后悔也于事无补。"
+      },
+      {
+        "japanese": "いくら頑張ったところで、無理だと思う。",
+        "romaji": "ikura ganbatta tokoro de, muri da to omou.",
+        "english": "再怎么努力也是不可能的。"
+      },
+      {
+        "japanese": "彼に言ったところで、聞いてくれないだろう。",
+        "romaji": "kare ni itta tokoro de, kiite kurenai darou.",
+        "english": "就算告诉他，他也不会听的吧。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7-tokoro-de-meaning/"
+  },
+  {
+    "id": "%e3%81%aa%e3%81%8c%e3%82%89-nagara-meaning",
+    "title": "JLPT N2 Grammarながら(nagara)",
+    "titleRomaji": "JLPT N2 Grammar nagara (nagara )",
+    "explanation": "一边...一边...；虽然...但是...",
+    "examples": [
+      {
+        "japanese": "音楽を聞きながら、勉強している。",
+        "romaji": "ongaku wo kiki nagara, benkyou shiteiru.",
+        "english": "一边听音乐一边学习。"
+      },
+      {
+        "japanese": "テレビを見ながら、ご飯を食べる。",
+        "romaji": "terebi wo mi nagara, gohan wo taberu.",
+        "english": "一边看电视一边吃饭。"
+      },
+      {
+        "japanese": "残念ながら、今回は参加できません。",
+        "romaji": "zannen nagara, konkai wa sanka dekimasen.",
+        "english": "很遗憾，这次不能参加。"
+      },
+      {
+        "japanese": "彼は学生でありながら、会社を経営している。",
+        "romaji": "kare wa gakusei de ari nagara, kaisha wo keiei shiteiru.",
+        "english": "他虽然是学生，但在经营公司。"
+      },
+      {
+        "japanese": "知りながら、何も言わなかった。",
+        "romaji": "shiri nagara, nani mo iwanakatta.",
+        "english": "明知道却什么都没说。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8c%e3%82%89-nagara-meaning/"
+  },
+  {
+    "id": "%e3%81%aa%e3%81%8c%e3%82%89%e3%82%82-nagara-mo-meaning",
+    "title": "JLPT N2 Grammarながらも(nagara mo)",
+    "titleRomaji": "JLPT N2 Grammar nagaramo (nagara mo )",
+    "explanation": "虽然...但是...；尽管...还是...",
+    "examples": [
+      {
+        "japanese": "忙しいながらも、毎日運動している。",
+        "romaji": "isogashii nagara mo, mainichi undou shiteiru.",
+        "english": "虽然很忙，但每天都运动。"
+      },
+      {
+        "japanese": "小さいながらも、立派な家だ。",
+        "romaji": "chiisai nagara mo, rippa na ie da.",
+        "english": "虽然小，但是很棒的房子。"
+      },
+      {
+        "japanese": "疲れているながらも、最後まで頑張った。",
+        "romaji": "tsukareteiru nagara mo, saigo made ganbatta.",
+        "english": "虽然很累，但坚持到了最后。"
+      },
+      {
+        "japanese": "彼は若いながらも、経験豊富だ。",
+        "romaji": "kare wa wakai nagara mo, keiken houfu da.",
+        "english": "他虽然年轻，但经验丰富。"
+      },
+      {
+        "japanese": "貧しいながらも、幸せに暮らしている。",
+        "romaji": "mazushii nagara mo, shiawase ni kurashiteiru.",
+        "english": "虽然贫穷，但生活得很幸福。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8c%e3%82%89%e3%82%82-nagara-mo-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84-ni-chigai-nai-meaning",
+    "title": "JLPT N2 Grammarに違いない(ni chigai nai)",
+    "titleRomaji": "JLPT N2 Grammar nichigainai (ni chigai nai )",
+    "explanation": "一定；肯定；必定",
+    "examples": [
+      {
+        "japanese": "彼は合格したに違いない。",
+        "romaji": "kare wa goukaku shita ni chigai nai.",
+        "english": "他一定合格了。"
+      },
+      {
+        "japanese": "あの人は有名人に違いない。",
+        "romaji": "ano hito wa yuumeijin ni chigai nai.",
+        "english": "那个人一定是名人。"
+      },
+      {
+        "japanese": "彼女は怒っているに違いない。",
+        "romaji": "kanojo wa okotteiru ni chigai nai.",
+        "english": "她一定在生气。"
+      },
+      {
+        "japanese": "この話は本当に違いない。",
+        "romaji": "kono hanashi wa hontou ni chigai nai.",
+        "english": "这个故事一定是真的。"
+      },
+      {
+        "japanese": "明日は雨が降るに違いない。",
+        "romaji": "ashita wa ame ga furu ni chigai nai.",
+        "english": "明天一定会下雨。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84-ni-chigai-nai-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e3%81%97%e3%81%a6%e3%82%82-ni-shite-mo-meaning",
+    "title": "JLPT N2 Grammarにしても(ni shite mo)",
+    "titleRomaji": "JLPT N2 Grammar nishitemo (ni shite mo )",
+    "explanation": "即使；就算；无论",
+    "examples": [
+      {
+        "japanese": "いくら忙しいにしても、連絡くらいはできるだろう。",
+        "romaji": "ikura isogashii ni shite mo, renraku kurai wa dekiru darou.",
+        "english": "无论多忙，至少可以联系一下吧。"
+      },
+      {
+        "japanese": "どんなに難しいにしても、諦めない。",
+        "romaji": "donna ni muzukashii ni shite mo, akiramenai.",
+        "english": "无论多难，都不放弃。"
+      },
+      {
+        "japanese": "遅くなるにしても、必ず来てください。",
+        "romaji": "osoku naru ni shite mo, kanarazu kite kudasai.",
+        "english": "即使会迟到，也请一定要来。"
+      },
+      {
+        "japanese": "雨が降るにしても、出かける。",
+        "romaji": "ame ga furu ni shite mo, dekakeru.",
+        "english": "即使下雨，也要出门。"
+      },
+      {
+        "japanese": "彼が正しいにしても、言い方が悪い。",
+        "romaji": "kare ga tadashii ni shite mo, iikata ga warui.",
+        "english": "即使他是对的，说话方式也不好。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%97%e3%81%a6%e3%82%82-ni-shite-mo-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e3%81%a4%e3%81%91%e3%81%a6-ni-tsukete-meaning",
+    "title": "JLPT N2 Grammarにつけて(ni tsukete)",
+    "titleRomaji": "JLPT N2 Grammar nitsukete (ni tsukete )",
+    "explanation": "每当；一...就...",
+    "examples": [
+      {
+        "japanese": "この歌を聞くにつけて、昔を思い出す。",
+        "romaji": "kono uta wo kiku ni tsukete, mukashi wo omoidasu.",
+        "english": "每当听到这首歌，就会想起过去。"
+      },
+      {
+        "japanese": "彼の顔を見るにつけて、悲しくなる。",
+        "romaji": "kare no kao wo miru ni tsukete, kanashiku naru.",
+        "english": "每当看到他的脸，就会感到悲伤。"
+      },
+      {
+        "japanese": "この写真を見るにつけて、あの日のことを思い出す。",
+        "romaji": "kono shashin wo miru ni tsukete, ano hi no koto wo omoidasu.",
+        "english": "每当看到这张照片，就会想起那天的事。"
+      },
+      {
+        "japanese": "彼女の優しさに触れるにつけて、感謝の気持ちが湧いてくる。",
+        "romaji": "kanojo no yasashisa ni fureru ni tsukete, kansha no kimochi ga waite kuru.",
+        "english": "每当感受到她的温柔，就会涌起感激之情。"
+      },
+      {
+        "japanese": "この料理を食べるにつけて、母を思い出す。",
+        "romaji": "kono ryouri wo taberu ni tsukete, haha wo omoidasu.",
+        "english": "每当吃这道菜，就会想起母亲。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a4%e3%81%91%e3%81%a6-ni-tsukete-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e3%81%a4%e3%82%8c%e3%81%a6-ni-tsurete-meaning",
+    "title": "JLPT N2 Grammarにつれて(ni tsurete)",
+    "titleRomaji": "JLPT N2 Grammar nitsurete (ni tsurete )",
+    "explanation": "随着；伴随着",
+    "examples": [
+      {
+        "japanese": "年を取るにつれて、体力が落ちてきた。",
+        "romaji": "toshi wo toru ni tsurete, tairyoku ga ochite kita.",
+        "english": "随着年龄增长，体力下降了。"
+      },
+      {
+        "japanese": "時間が経つにつれて、悲しみは薄れていった。",
+        "romaji": "jikan ga tatsu ni tsurete, kanashimi wa usureteita.",
+        "english": "随着时间流逝，悲伤逐渐淡去。"
+      },
+      {
+        "japanese": "練習を重ねるにつれて、上手になった。",
+        "romaji": "renshuu wo kasaneru ni tsurete, jouzu ni natta.",
+        "english": "随着不断练习，变得熟练了。"
+      },
+      {
+        "japanese": "日本語を勉強するにつれて、日本文化に興味が湧いてきた。",
+        "romaji": "nihongo wo benkyou suru ni tsurete, nihon bunka ni kyoumi ga waite kita.",
+        "english": "随着学习日语，对日本文化产生了兴趣。"
+      },
+      {
+        "japanese": "夜が更けるにつれて、寒くなってきた。",
+        "romaji": "yoru ga fukeru ni tsurete, samuku natte kita.",
+        "english": "随着夜深，天气变冷了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%a4%e3%82%8c%e3%81%a6-ni-tsurete-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e5%8f%8d%e3%81%97-ni-hanshi-meaning",
+    "title": "JLPT N2 Grammarに反し(ni hanshi)",
+    "titleRomaji": "JLPT N2 Grammar nihanshi (ni hanshi )",
+    "explanation": "与...相反；违反",
+    "examples": [
+      {
+        "japanese": "予想に反し、試験は簡単だった。",
+        "romaji": "yosou ni hanshi, shiken wa kantan datta.",
+        "english": "与预期相反，考试很简单。"
+      },
+      {
+        "japanese": "期待に反し、結果は良くなかった。",
+        "romaji": "kitai ni hanshi, kekka wa yoku nakatta.",
+        "english": "与期待相反，结果不好。"
+      },
+      {
+        "japanese": "彼の言葉に反し、行動は違っていた。",
+        "romaji": "kare no kotoba ni hanshi, koudou wa chigatteita.",
+        "english": "与他的话相反，行动不一样。"
+      },
+      {
+        "japanese": "常識に反し、彼女は一人で海外に行った。",
+        "romaji": "joushiki ni hanshi, kanojo wa hitori de kaigai ni itta.",
+        "english": "违反常识，她一个人去了海外。"
+      },
+      {
+        "japanese": "親の希望に反し、彼は芸術家になった。",
+        "romaji": "oya no kibou ni hanshi, kare wa geijutsuka ni natta.",
+        "english": "违反父母的希望，他成为了艺术家。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%8f%8d%e3%81%97-ni-hanshi-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6-ni-kurabete-meaning",
+    "title": "JLPT N2 Grammarに比べて(ni kurabete)",
+    "titleRomaji": "JLPT N2 Grammar nikurabete (ni kurabete )",
+    "explanation": "与...相比；比起...",
+    "examples": [
+      {
+        "japanese": "去年に比べて、今年は暖かい。",
+        "romaji": "kyonen ni kurabete, kotoshi wa atatakai.",
+        "english": "与去年相比，今年很暖和。"
+      },
+      {
+        "japanese": "兄に比べて、弟は背が高い。",
+        "romaji": "ani ni kurabete, otouto wa se ga takai.",
+        "english": "与哥哥相比，弟弟个子高。"
+      },
+      {
+        "japanese": "日本に比べて、アメリカは広い。",
+        "romaji": "nihon ni kurabete, amerika wa hiroi.",
+        "english": "与日本相比，美国很大。"
+      },
+      {
+        "japanese": "前に比べて、日本語が上手になった。",
+        "romaji": "mae ni kurabete, nihongo ga jouzu ni natta.",
+        "english": "与以前相比，日语进步了。"
+      },
+      {
+        "japanese": "東京に比べて、この町は静かだ。",
+        "romaji": "toukyou ni kurabete, kono machi wa shizuka da.",
+        "english": "与东京相比，这个城市很安静。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6-ni-kurabete-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%a6-ni-oujite-meaning",
+    "title": "JLPT N2 Grammarに応じて(ni oujite)",
+    "titleRomaji": "JLPT N2 Grammar nioujite (ni oujite )",
+    "explanation": "根据；按照；依照",
+    "examples": [
+      {
+        "japanese": "能力に応じて、仕事を割り当てる。",
+        "romaji": "nouryoku ni oujite, shigoto wo wariate ru.",
+        "english": "根据能力分配工作。"
+      },
+      {
+        "japanese": "季節に応じて、服装を変える。",
+        "romaji": "kisetsu ni oujite, fukusou wo kaeru.",
+        "english": "根据季节改变服装。"
+      },
+      {
+        "japanese": "状況に応じて、対応を変える必要がある。",
+        "romaji": "joukyou ni oujite, taiou wo kaeru hitsuyou ga aru.",
+        "english": "需要根据情况改变应对方式。"
+      },
+      {
+        "japanese": "年齢に応じて、料金が異なる。",
+        "romaji": "nenrei ni oujite, ryoukin ga kotonaru.",
+        "english": "根据年龄，费用不同。"
+      },
+      {
+        "japanese": "予算に応じて、計画を立てる。",
+        "romaji": "yosan ni oujite, keikaku wo tateru.",
+        "english": "根据预算制定计划。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%a6-ni-oujite-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e3%82%82%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%89%e3%81%9a-ni-mo-kakawarazu-meaning",
+    "title": "JLPT N2 Grammarにもかかわらず(ni mo kakawarazu)",
+    "titleRomaji": "JLPT N2 Grammar nimokakawarazu (ni mo kakawarazu )",
+    "explanation": "尽管；虽然；不顾",
+    "examples": [
+      {
+        "japanese": "雨にもかかわらず、試合は行われた。",
+        "romaji": "ame ni mo kakawarazu, shiai wa okonawa reta.",
+        "english": "尽管下雨，比赛还是举行了。"
+      },
+      {
+        "japanese": "努力したにもかかわらず、失敗した。",
+        "romaji": "doryoku shita ni mo kakawarazu, shippai shita.",
+        "english": "尽管努力了，还是失败了。"
+      },
+      {
+        "japanese": "反対にもかかわらず、彼は計画を実行した。",
+        "romaji": "hantai ni mo kakawarazu, kare wa keikaku wo jikkou shita.",
+        "english": "尽管反对，他还是执行了计划。"
+      },
+      {
+        "japanese": "忙しいにもかかわらず、彼女は手伝ってくれた。",
+        "romaji": "isogashii ni mo kakawarazu, kanojo wa tetsudatte kureta.",
+        "english": "尽管很忙，她还是帮忙了。"
+      },
+      {
+        "japanese": "病気にもかかわらず、彼は出勤した。",
+        "romaji": "byouki ni mo kakawarazu, kare wa shukkin shita.",
+        "english": "尽管生病了，他还是上班了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%82%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%89%e3%81%9a-ni-mo-kakawarazu-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e3%82%82%e3%81%a8%e3%81%a5%e3%81%8f-ni-moto-zuku-meaning",
+    "title": "JLPT N2 Grammarに基づく(ni motozuku)",
+    "titleRomaji": "JLPT N2 Grammar nimotozuku (ni moto zuku )",
+    "explanation": "基于；根据；依据",
+    "examples": [
+      {
+        "japanese": "事実に基づいて、報告する。",
+        "romaji": "jijitsu ni motozuite, houkoku suru.",
+        "english": "根据事实报告。"
+      },
+      {
+        "japanese": "この小説は実話に基づいている。",
+        "romaji": "kono shousetsu wa jitsuwa ni motozuiteiru.",
+        "english": "这部小说是基于真实故事的。"
+      },
+      {
+        "japanese": "法律に基づいて、判断する。",
+        "romaji": "houritsu ni motozuite, handan suru.",
+        "english": "依据法律进行判断。"
+      },
+      {
+        "japanese": "データに基づいた分析が必要だ。",
+        "romaji": "deeta ni motozuita bunseki ga hitsuyou da.",
+        "english": "需要基于数据的分析。"
+      },
+      {
+        "japanese": "経験に基づいて、アドバイスをする。",
+        "romaji": "keiken ni motozuite, adobaisu wo suru.",
+        "english": "根据经验提出建议。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%82%82%e3%81%a8%e3%81%a5%e3%81%8f-ni-moto-zuku-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e9%96%a2%e3%81%97-ni-kanshi-meaning",
+    "title": "JLPT N2 Grammarに関し(ni kanshi)",
+    "titleRomaji": "JLPT N2 Grammar nikanshi (ni kanshi )",
+    "explanation": "关于；有关",
+    "examples": [
+      {
+        "japanese": "この件に関し、詳しく説明します。",
+        "romaji": "kono ken ni kanshi, kuwashiku setsumei shimasu.",
+        "english": "关于这件事，我会详细说明。"
+      },
+      {
+        "japanese": "環境問題に関し、会議が開かれた。",
+        "romaji": "kankyou mondai ni kanshi, kaigi ga hiraka reta.",
+        "english": "关于环境问题，召开了会议。"
+      },
+      {
+        "japanese": "プロジェクトに関し、質問はありますか？",
+        "romaji": "purojekuto ni kanshi, shitsumon wa arimasu ka?",
+        "english": "关于项目，有什么问题吗？"
+      },
+      {
+        "japanese": "料金に関しては、後ほどご連絡いたします。",
+        "romaji": "ryoukin ni kanshi te wa, nochihodo gorenraku itashimasu.",
+        "english": "关于费用，稍后会联系您。"
+      },
+      {
+        "japanese": "その事故に関し、調査が進められている。",
+        "romaji": "sono jiko ni kanshi, chousa ga susume rareteiru.",
+        "english": "关于那起事故，正在进行调查。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e9%96%a2%e3%81%97-ni-kanshi-meaning/"
+  },
+  {
+    "id": "%e3%81%ab%e5%af%be%e3%81%97-ni-taishi-meaning",
+    "title": "JLPT N2 Grammarに対し(ni taishi)",
+    "titleRomaji": "JLPT N2 Grammar nitaishi (ni taishi )",
+    "explanation": "对于；针对；相对",
+    "examples": [
+      {
+        "japanese": "お客様に対し、丁寧な対応が必要だ。",
+        "romaji": "okyakusama ni taishi, teinei na taiou ga hitsuyou da.",
+        "english": "对于客人，需要礼貌的应对。"
+      },
+      {
+        "japanese": "この問題に対し、どう対応しますか？",
+        "romaji": "kono mondai ni taishi, dou taiou shimasu ka?",
+        "english": "对于这个问题，你会怎么应对？"
+      },
+      {
+        "japanese": "彼の提案に対し、反対意見が出た。",
+        "romaji": "kare no teian ni taishi, hantai iken ga deta.",
+        "english": "对于他的提案，出现了反对意见。"
+      },
+      {
+        "japanese": "日本は輸出に対し、輸入が多い。",
+        "romaji": "nihon wa yushutsu ni taishi, yunyuu ga ooi.",
+        "english": "日本相对出口，进口更多。"
+      },
+      {
+        "japanese": "その要求に対し、会社は拒否した。",
+        "romaji": "sono youkyuu ni taishi, kaisha wa kyohi shita.",
+        "english": "对于那个要求，公司拒绝了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e5%af%be%e3%81%97-ni-taishi-meaning/"
+  },
+  {
+    "id": "%e3%81%8b%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%9f%e3%82%89-ka-to-omottara-meaning",
+    "title": "JLPT N2 Grammarかと思ったら(ka to omottara)",
+    "titleRomaji": "JLPT N2 Grammar katoomottara (ka to omottara )",
+    "explanation": "刚...就...；刚一...就...",
+    "examples": [
+      {
+        "japanese": "晴れたかと思ったら、また雨が降ってきた。",
+        "romaji": "hareta ka to omottara, mata ame ga futte kita.",
+        "english": "刚晴天，又下起雨来了。"
+      },
+      {
+        "japanese": "彼は来たかと思ったら、すぐに帰ってしまった。",
+        "romaji": "kare wa kita ka to omottara, sugu ni kaette shimatta.",
+        "english": "他刚来，就马上回去了。"
+      },
+      {
+        "japanese": "静かになったかと思ったら、また騒ぎ始めた。",
+        "romaji": "shizuka ni natta ka to omottara, mata sawagi hajimeta.",
+        "english": "刚安静下来，又开始吵闹了。"
+      },
+      {
+        "japanese": "泣いているかと思ったら、笑い出した。",
+        "romaji": "naiteiru ka to omottara, warai dashita.",
+        "english": "还以为在哭，突然笑了起来。"
+      },
+      {
+        "japanese": "寝たかと思ったら、もう起きている。",
+        "romaji": "neta ka to omottara, mou okiteiru.",
+        "english": "刚睡着，又醒了。"
+      }
+    ],
+    "jlptLevel": "N2",
+    "source": "JLPT Sensei",
+    "url": "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%9f%e3%82%89-ka-to-omottara-meaning/"
   }
 ]

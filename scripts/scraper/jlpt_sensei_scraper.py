@@ -105,37 +105,57 @@ class JLPTSenseiScraper:
             # Extract examples
             examples = []
 
-            # Look for example sections - common patterns:
-            # - <div class="example"> or similar
-            # - Japanese text followed by English translation
-            example_containers = soup.find_all(['div', 'li'], class_=lambda x: x and 'example' in x.lower() if x else False)
-
-            if not example_containers:
-                # Fallback: look for <p> tags with Japanese characters
-                example_containers = soup.find_all('p')
+            # JLPT Sensei uses <div class="example-cont"> for each example
+            # Each contains:
+            # - Japanese: <div class="example-main"><p class="m-0 jp">
+            # - Romaji: <div class="example_romaji"><div class="alert alert-info">
+            # - English: <div class="example_en"><div class="alert alert-primary">
+            example_containers = soup.find_all('div', class_='example-cont')
 
             for container in example_containers:
-                text = container.get_text('\n', strip=True)
-                lines = [line.strip() for line in text.split('\n') if line.strip()]
+                # Extract Japanese sentence
+                japanese_elem = container.find('div', class_='example-main')
+                if japanese_elem:
+                    japanese_p = japanese_elem.find('p', class_='jp')
+                    if japanese_p:
+                        japanese = japanese_p.get_text(strip=True)
+                    else:
+                        continue
+                else:
+                    continue
 
-                # Heuristic: Japanese line followed by English line
-                for i in range(len(lines) - 1):
-                    japanese_line = lines[i]
-                    english_line = lines[i + 1]
+                # Extract romaji
+                romaji_elem = container.find('div', class_='example_romaji')
+                if romaji_elem:
+                    romaji_alert = romaji_elem.find('div', class_='alert')
+                    if romaji_alert:
+                        romaji = romaji_alert.get_text(strip=True)
+                    else:
+                        romaji = generate_romaji(japanese)
+                else:
+                    romaji = generate_romaji(japanese)
 
-                    # Check if first line has Japanese characters
-                    if any('\u3040' <= c <= '\u309F' or '\u30A0' <= c <= '\u30FF' or '\u4E00' <= c <= '\u9FFF' for c in japanese_line):
-                        examples.append({
-                            'japanese': japanese_line,
-                            'romaji': generate_romaji(japanese_line),
-                            'englishTranslation': english_line
-                        })
+                # Extract English translation
+                english_elem = container.find('div', class_='example_en')
+                if english_elem:
+                    english_alert = english_elem.find('div', class_='alert')
+                    if english_alert:
+                        english = english_alert.get_text(strip=True)
+                    else:
+                        continue
+                else:
+                    continue
 
-                        if len(examples) >= 5:  # Limit to 5 examples
-                            break
+                # Add example if we have all three components
+                if japanese and romaji and english:
+                    examples.append({
+                        'japanese': japanese,
+                        'romaji': romaji,
+                        'englishTranslation': english
+                    })
 
-                if len(examples) >= 5:
-                    break
+                    if len(examples) >= 5:  # Limit to 5 examples
+                        break
 
             # Validate minimum examples
             if len(examples) < 2:
