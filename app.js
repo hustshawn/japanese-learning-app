@@ -158,6 +158,56 @@ class GrammarApp {
         // Update progress
         this.updateProgress();
     }
+
+    toggleMastery(grammarId) {
+        if (this.masteredGrammar.has(grammarId)) {
+            this.masteredGrammar.delete(grammarId);
+        } else {
+            this.masteredGrammar.add(grammarId);
+        }
+
+        // Save to localStorage
+        this.saveMasteredToStorage();
+
+        // Update UI
+        if (this.currentView === 'card' && this.currentGrammarId === grammarId) {
+            // Update button in card view
+            const card = this.mainContent.querySelector('.grammar-card');
+            const btn = this.mainContent.querySelector('.mastery-btn');
+            const isMastered = this.masteredGrammar.has(grammarId);
+
+            if (isMastered) {
+                card.classList.add('mastered');
+                btn.textContent = '✓ Mastered';
+                btn.classList.add('btn-success');
+            } else {
+                card.classList.remove('mastered');
+                btn.textContent = 'Mark as Mastered';
+                btn.classList.remove('btn-success');
+            }
+        } else if (this.currentView === 'list') {
+            // Refresh list view
+            this.showAllGrammar();
+        }
+
+        // Update progress
+        this.updateProgress();
+    }
+
+    updateProgress() {
+        const total = this.grammarData.length;
+        const mastered = this.masteredGrammar.size;
+        const percentage = total > 0 ? Math.round((mastered / total) * 100) : 0;
+
+        this.progressFooter.innerHTML = `
+            <div class="progress-text">
+                Progress: ${mastered} / ${total} mastered (${percentage}%)
+            </div>
+            <div class="progress-bar-container">
+                <div class="progress-bar" style="width: ${percentage}%"></div>
+            </div>
+        `;
+    }
 }
 
 // Initialize app when DOM is ready
