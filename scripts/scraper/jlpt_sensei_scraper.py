@@ -193,25 +193,71 @@ class JLPTSenseiScraper:
         logger.info(f"Total grammar points scraped: {len(all_grammar)}")
         return all_grammar
 
+    def save_to_json(self, grammar_points: List[Dict], output_path: str) -> None:
+        """Save grammar points to JSON file with validation."""
+        import json
+        from .models import GrammarPoint, Example
+
+        # Validate all grammar points
+        validated = []
+        for data in grammar_points:
+            try:
+                # Convert examples to Pydantic models
+                examples = [Example(**ex) for ex in data['examples']]
+
+                # Create GrammarPoint model
+                grammar = GrammarPoint(
+                    id=data['id'],
+                    title=data['title'],
+                    titleRomaji=data['titleRomaji'],
+                    explanationEN=data['explanationEN'],
+                    examples=examples,
+                    jlptLevel=data['jlptLevel'],
+                    source=data.get('source', 'JLPT Sensei'),
+                    url=data['url']
+                )
+
+                validated.append(grammar.model_dump(mode='json'))
+
+            except Exception as e:
+                logger.error(f"Validation failed for {data.get('id', 'unknown')}: {e}")
+
+        logger.info(f"Validated {len(validated)}/{len(grammar_points)} grammar points")
+
+        # Save to JSON
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(validated, f, ensure_ascii=False, indent=2)
+
+        logger.info(f"Saved to {output_path}")
+
 
 if __name__ == '__main__':
-    import sys
+    import json
+    import tempfile
 
-    scraper = JLPTSenseiScraper(delay=1.0)  # Faster for testing
+    scraper = JLPTSenseiScraper(delay=1.0)
 
-    # Test scrape just N5
-    print("Testing full N5 scrape (first 3 items only)...")
-
-    links = scraper.fetch_grammar_links('N5')
-    test_links = links[:3] if len(links) > 3 else links
+    # Test with 2 items
+    links = scraper.fetch_grammar_links('N5')[:2]
 
     results = []
-    for link_info in test_links:
+    for link_info in links:
         detail = scraper.parse_grammar_detail(link_info['url'], 'N5')
         if detail:
             results.append(detail)
 
-    print(f"\n✓ Successfully scraped {len(results)}/3 test items")
+    # Test save
+    with tempfile.NamedTemporaryFile(mode='w', suffix='.json', delete=False) as f:
+        temp_path = f.name
 
-    for item in results:
-        print(f"  - {item['id']}: {len(item['examples'])} examples")
+    scraper.save_to_json(results, temp_path)
+
+    # Verify saved file
+    with open(temp_path, 'r', encoding='utf-8') as f:
+        saved_data = json.load(f)
+
+    print(f"✓ Saved {len(saved_data)} items to JSON")
+    print(f"✓ First item ID: {saved_data[0]['id']}")
+
+    import os
+    os.unlink(temp_path)
