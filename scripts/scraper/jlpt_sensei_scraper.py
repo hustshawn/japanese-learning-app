@@ -32,6 +32,7 @@ class JLPTSenseiScraper:
 
         soup = BeautifulSoup(html, 'html.parser')
         grammar_links = []
+        seen_urls = set()  # For O(1) deduplication
 
         # Find grammar links - they typically contain "/learn-japanese-grammar/"
         links = soup.find_all('a', href=True)
@@ -39,19 +40,20 @@ class JLPTSenseiScraper:
         for link in links:
             href = link['href']
             if '/learn-japanese-grammar/' in href:
-                # Get full URL
+                # Get full URL with proper path joining
                 if not href.startswith('http'):
-                    href = self.BASE_URL + href
+                    href = self.BASE_URL.rstrip('/') + '/' + href.lstrip('/')
 
                 # Extract title from link text
                 title = link.get_text(strip=True)
 
-                if title and href not in [g['url'] for g in grammar_links]:
+                if title and href not in seen_urls:
                     grammar_links.append({
                         'title': title,
                         'url': href,
                         'level': level
                     })
+                    seen_urls.add(href)
 
         logger.info(f"Found {len(grammar_links)} grammar points for {level}")
         return grammar_links
