@@ -128,3 +128,113 @@ header h1 {
 .btn span {
     font-size: 1.2rem;
 }
+
+/* Main content */
+main {
+    padding: 2rem;
+    min-height: 400px;
+}
+
+/* Grammar card */
+.grammar-card {
+    background: white;
+    border: 2px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: 2rem;
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.grammar-title {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.grammar-romaji {
+    font-size: 1.2rem;
+    color: var(--text-light);
+    margin-bottom: 1.5rem;
+}
+
+.grammar-explanation {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-radius: 8px;
+    border-left: 4px solid var(--primary-color);
+}
+
+/* Examples section */
+.examples-section {
+    margin-top: 2rem;
+}
+
+.examples-title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+}
+
+.example {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-radius: 8px;
+    border-left: 3px solid var(--success-color);
+}
+
+.example-japanese {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--text-primary);
+    margin-bottom: 0.3rem;
+}
+
+.example-romaji {
+    font-size: 1rem;
+    color: var(--text-light);
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
+.example-english {
+    font-size: 1rem;
+    color: var(--text-secondary);
+}
+
+/* Mastery button */
+.mastery-section {
+    margin-top: 2rem;
+    text-align: center;
+    padding-top: 1.5rem;
+    border-top: 2px solid var(--border-color);
+}
+
+.mastery-btn {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+}
+
+.mastered .mastery-btn {
+    background: var(--success-color);
+}
+
+.mastered .mastery-btn:hover {
+    background: var(--success-hover);
+}
