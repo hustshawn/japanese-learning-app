@@ -238,3 +238,117 @@ main {
 .mastered .mastery-btn:hover {
     background: var(--success-hover);
 }
+
+/* Grammar list view */
+.grammar-list {
+    display: grid;
+    gap: 1rem;
+}
+
+.grammar-list-item {
+    background: white;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    padding: 1.25rem;
+    cursor: pointer;
+    transition: var(--transition);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.grammar-list-item:hover {
+    border-color: var(--primary-color);
+    transform: translateX(5px);
+    box-shadow: var(--shadow-md);
+}
+
+.grammar-list-item.mastered {
+    border-color: var(--success-color);
+    background: rgba(16, 185, 129, 0.05);
+}
+
+.list-item-content h3 {
+    font-size: 1.3rem;
+    color: var(--text-primary);
+    margin-bottom: 0.25rem;
+}
+
+.list-item-romaji {
+    font-size: 0.9rem;
+    color: var(--text-light);
+}
+
+.list-item-status {
+    font-size: 1.5rem;
+}
+
+/* Footer */
+footer {
+    padding: 1.5rem;
+    background: var(--bg-secondary);
+    border-top: 2px solid var(--border-color);
+    text-align: center;
+}
+
+.progress-text {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    font-weight: 600;
+}
+
+.progress-bar-container {
+    margin-top: 0.75rem;
+    height: 10px;
+    background: var(--border-color);
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--success-color), var(--primary-color));
+    transition: width 0.5s ease;
+    border-radius: 5px;
+}
+
+/* Responsive design */
+@media (max-width: 640px) {
+    body {
+        padding: 10px;
+    }
+
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    .controls {
+        flex-direction: column;
+    }
+
+    .btn {
+        width: 100%;
+        justify-content: center;
+    }
+
+    main {
+        padding: 1rem;
+    }
+
+    .grammar-title {
+        font-size: 1.5rem;
+    }
+
+    .example-japanese {
+        font-size: 1.2rem;
+    }
+}
+
+/* Utility classes */
+.hidden {
+    display: none;
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease;
+}
