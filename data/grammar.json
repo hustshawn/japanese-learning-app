@@ -26,7 +26,7 @@
     "id": "wa-particle",
     "title": "は (wa) - Topic Marker",
     "titleRomaji": "wa",
-    "explanation": "标记句子的主题（你正在谈论的内容）。注意：写作は但用作助词时发音为"wa"。",
+    "explanation": "标记句子的主题（你正在谈论的内容）。注意：写作は但用作助词时发音为'wa'。",
     "examples": [
       {
         "japanese": "私は学生です。",
@@ -49,7 +49,7 @@
     "id": "wo-particle",
     "title": "を (wo) - Object Marker",
     "titleRomaji": "wo/o",
-    "explanation": "标记动作的直接宾语。在现代日语中通常发音为"o"而不是"wo"。",
+    "explanation": "标记动作的直接宾语。在现代日语中通常发音为'o'而不是'wo'。",
     "examples": [
       {
         "japanese": "りんごを食べます。",
@@ -118,7 +118,7 @@
     "id": "desu-copula",
     "title": "です (desu) - Copula",
     "titleRomaji": "desu",
-    "explanation": "系动词，意思是"是"（用于非动作）。使句子礼貌并表示存在状态或等同关系。",
+    "explanation": "系动词，意思是'是'（用于非动作）。使句子礼貌并表示存在状态或等同关系。",
     "examples": [
       {
         "japanese": "これは机です。",
