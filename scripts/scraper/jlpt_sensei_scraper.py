@@ -160,28 +160,58 @@ class JLPTSenseiScraper:
             logger.error(f"Error parsing {url}: {e}")
             return None
 
+    def scrape_all(self, levels: List[str] = None) -> List[Dict]:
+        """Scrape all grammar points for specified levels."""
+        if levels is None:
+            levels = ['N5', 'N4', 'N3', 'N2']
+
+        all_grammar = []
+
+        for level in levels:
+            logger.info(f"Starting {level} level...")
+
+            # Fetch list page
+            links = self.fetch_grammar_links(level)
+            if not links:
+                logger.warning(f"No links found for {level}")
+                continue
+
+            # Parse each detail page
+            for i, link_info in enumerate(links, 1):
+                logger.info(f"Processing {level} {i}/{len(links)}: {link_info['title']}")
+
+                detail = self.parse_grammar_detail(link_info['url'], level)
+
+                if detail and len(detail.get('examples', [])) >= 2:
+                    all_grammar.append(detail)
+                    logger.info(f"  ✓ Added: {detail['id']}")
+                else:
+                    logger.warning(f"  ✗ Skipped (insufficient data): {link_info['url']}")
+
+            logger.info(f"Completed {level}: {len([g for g in all_grammar if g['jlptLevel'] == level])} grammar points")
+
+        logger.info(f"Total grammar points scraped: {len(all_grammar)}")
+        return all_grammar
+
 
 if __name__ == '__main__':
-    scraper = JLPTSenseiScraper()
+    import sys
 
-    # Test with N5 list
-    print("Testing N5 grammar list fetch...")
+    scraper = JLPTSenseiScraper(delay=1.0)  # Faster for testing
+
+    # Test scrape just N5
+    print("Testing full N5 scrape (first 3 items only)...")
+
     links = scraper.fetch_grammar_links('N5')
+    test_links = links[:3] if len(links) > 3 else links
 
-    if links:
-        print(f"✓ Found {len(links)} grammar points")
-
-        # Test detail page parsing with first item
-        print(f"\nTesting detail page parse: {links[0]['url']}")
-        detail = scraper.parse_grammar_detail(links[0]['url'], 'N5')
-
+    results = []
+    for link_info in test_links:
+        detail = scraper.parse_grammar_detail(link_info['url'], 'N5')
         if detail:
-            print(f"✓ Parsed successfully")
-            print(f"  Title: {detail['title']}")
-            print(f"  Romaji: {detail['titleRomaji']}")
-            print(f"  Explanation: {detail['explanationEN'][:100]}...")
-            print(f"  Examples: {len(detail['examples'])}")
-        else:
-            print("✗ Failed to parse detail page")
-    else:
-        print("✗ No links found")
+            results.append(detail)
+
+    print(f"\n✓ Successfully scraped {len(results)}/3 test items")
+
+    for item in results:
+        print(f"  - {item['id']}: {len(item['examples'])} examples")
