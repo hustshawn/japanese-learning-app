@@ -2,6 +2,12 @@ import logging
 import time
 from functools import wraps
 from typing import Callable, Any
+import requests
+from typing import Optional
+
+# Rate limiting
+LAST_REQUEST_TIME = 0
+MIN_REQUEST_INTERVAL = 1.5  # seconds
 
 # Configure logging
 logging.basicConfig(
@@ -68,6 +74,33 @@ def generate_romaji(japanese_text: str) -> str:
         return japanese_text  # Fallback to original
 
 
+@retry(max_attempts=3, delay=2.0, backoff=2.0)
+def fetch_url(url: str, delay: float = MIN_REQUEST_INTERVAL) -> Optional[str]:
+    """Fetch URL content with rate limiting and retry logic."""
+    global LAST_REQUEST_TIME
+
+    # Rate limiting
+    elapsed = time.time() - LAST_REQUEST_TIME
+    if elapsed < delay:
+        sleep_time = delay - elapsed
+        logger.debug(f"Rate limiting: sleeping {sleep_time:.2f}s")
+        time.sleep(sleep_time)
+
+    logger.info(f"Fetching: {url}")
+
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+
+    response = requests.get(url, headers=headers, timeout=30)
+    response.raise_for_status()
+    response.encoding = 'utf-8'
+
+    LAST_REQUEST_TIME = time.time()
+
+    return response.text
+
+
 # Test utilities
 if __name__ == '__main__':
     # Test slugify
@@ -97,5 +130,11 @@ if __name__ == '__main__':
     romaji = generate_romaji("これは本です。")
     print(f"✓ romaji generation works: {romaji}")
     assert "kore" in romaji.lower()
+
+    # Test fetch_url (manual check - commented out for CI)
+    # html = fetch_url("https://jlptsensei.com")
+    # assert html is not None
+    # print("✓ fetch_url works")
+    print("✓ fetch_url defined (manual test required)")
 
     print("All utility tests passed!")
