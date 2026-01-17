@@ -54,6 +54,20 @@ def slugify(text: str) -> str:
     return text.lower()
 
 
+def generate_romaji(japanese_text: str) -> str:
+    """Convert Japanese text to romaji using pykakasi."""
+    try:
+        import pykakasi
+        kks = pykakasi.kakasi()
+        result = kks.convert(japanese_text)
+        # Join all converted parts with spaces
+        romaji_parts = [item['hepburn'] for item in result]
+        return ' '.join(romaji_parts)
+    except Exception as e:
+        logger.error(f"Failed to generate romaji for '{japanese_text}': {e}")
+        return japanese_text  # Fallback to original
+
+
 # Test utilities
 if __name__ == '__main__':
     # Test slugify
@@ -78,5 +92,10 @@ if __name__ == '__main__':
         print("✓ retry decorator works")
 
     test_retry()
+
+    # Test romaji generation
+    romaji = generate_romaji("これは本です。")
+    print(f"✓ romaji generation works: {romaji}")
+    assert "kore" in romaji.lower()
 
     print("All utility tests passed!")
