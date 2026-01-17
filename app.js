@@ -92,6 +92,72 @@ class GrammarApp {
             </div>
         `;
     }
+
+    showRandomGrammar() {
+        if (this.grammarData.length === 0) {
+            this.showError('No grammar data available');
+            return;
+        }
+
+        // Smart randomization: 70% chance for non-mastered, 30% for any
+        const nonMastered = this.grammarData.filter(g => !this.masteredGrammar.has(g.id));
+
+        let grammar;
+        if (nonMastered.length > 0 && Math.random() < 0.7) {
+            // Pick from non-mastered
+            grammar = nonMastered[Math.floor(Math.random() * nonMastered.length)];
+        } else {
+            // Pick from all
+            grammar = this.grammarData[Math.floor(Math.random() * this.grammarData.length)];
+        }
+
+        this.showGrammarCard(grammar);
+    }
+
+    showGrammarCard(grammar) {
+        this.currentView = 'card';
+        this.currentGrammarId = grammar.id;
+        const isMastered = this.masteredGrammar.has(grammar.id);
+
+        // Build examples HTML
+        const examplesHTML = grammar.examples.map(ex => `
+            <div class="example">
+                <div class="example-japanese">${ex.japanese}</div>
+                <div class="example-romaji">${ex.romaji}</div>
+                <div class="example-english">${ex.english}</div>
+            </div>
+        `).join('');
+
+        // Build card HTML
+        this.mainContent.innerHTML = `
+            <div class="grammar-card ${isMastered ? 'mastered' : ''}">
+                <div class="grammar-title">${grammar.title}</div>
+                <div class="grammar-romaji">(${grammar.titleRomaji})</div>
+                <div class="grammar-explanation">${grammar.explanation}</div>
+
+                <div class="examples-section">
+                    <div class="examples-title">📝 Examples</div>
+                    ${examplesHTML}
+                </div>
+
+                <div class="mastery-section">
+                    <button class="btn mastery-btn" data-grammar-id="${grammar.id}">
+                        ${isMastered ? '✓ Mastered' : 'Mark as Mastered'}
+                    </button>
+                </div>
+            </div>
+        `;
+
+        // Add mastery toggle event listener
+        const masteryBtn = this.mainContent.querySelector('.mastery-btn');
+        masteryBtn.addEventListener('click', () => this.toggleMastery(grammar.id));
+
+        // Update button text
+        this.viewAllBtn.innerHTML = '<span>📋</span> View All';
+
+        // Update progress
+        this.updateProgress();
+    }
 }
 
 // Initialize app when DOM is ready
