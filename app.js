@@ -32,6 +32,9 @@ class GrammarApp {
 
         // Update progress
         this.updateProgress();
+
+        // Update navigation buttons
+        this.updateNavigationButtons();
     }
 
     loadMasteredFromStorage() {
@@ -81,6 +84,18 @@ class GrammarApp {
                 this.toggleMastery(this.currentGrammarId);
             }
         });
+    }
+
+    updateNavigationButtons() {
+        if (this.currentView === 'card') {
+            // 卡片视图：显示两个按钮
+            this.randomBtn.style.display = 'inline-flex';
+            this.viewAllBtn.innerHTML = '<span>📋</span> 查看全部';
+        } else {
+            // 列表视图：隐藏随机按钮，修改查看全部按钮为返回
+            this.randomBtn.style.display = 'none';
+            this.viewAllBtn.innerHTML = '<span>◀️</span> 返回';
+        }
     }
 
     showError(message) {
@@ -152,8 +167,8 @@ class GrammarApp {
         const masteryBtn = this.mainContent.querySelector('.mastery-btn');
         masteryBtn.addEventListener('click', () => this.toggleMastery(grammar.id));
 
-        // Update button text
-        this.viewAllBtn.innerHTML = '<span>📋</span> 查看全部';
+        // Update navigation buttons
+        this.updateNavigationButtons();
 
         // Update progress
         this.updateProgress();
@@ -264,8 +279,8 @@ class GrammarApp {
             });
         });
 
-        // Update button text
-        this.viewAllBtn.innerHTML = '<span>🎲</span> 随机语法';
+        // Update navigation buttons
+        this.updateNavigationButtons();
     }
 }
 
