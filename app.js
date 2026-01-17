@@ -232,12 +232,21 @@ class GrammarApp {
         }
     }
 
-    showAllGrammar() {
+    showAllGrammar(filter = 'all') {
         this.currentView = 'list';
         this.currentGrammarId = null;
+        this.currentFilter = filter;
+
+        // Filter grammar based on tab selection
+        let filteredData = [...this.grammarData];
+        if (filter === 'unmastered') {
+            filteredData = filteredData.filter(g => !this.masteredGrammar.has(g.id));
+        } else if (filter === 'mastered') {
+            filteredData = filteredData.filter(g => this.masteredGrammar.has(g.id));
+        }
 
         // Sort: non-mastered first, then by title
-        const sorted = [...this.grammarData].sort((a, b) => {
+        const sorted = filteredData.sort((a, b) => {
             const aMastered = this.masteredGrammar.has(a.id);
             const bMastered = this.masteredGrammar.has(b.id);
 
@@ -246,6 +255,11 @@ class GrammarApp {
             }
             return aMastered ? 1 : -1;
         });
+
+        // Count statistics
+        const totalCount = this.grammarData.length;
+        const masteredCount = this.masteredGrammar.size;
+        const unmasteredCount = totalCount - masteredCount;
 
         const listHTML = sorted.map(grammar => {
             const isMastered = this.masteredGrammar.has(grammar.id);
@@ -263,10 +277,29 @@ class GrammarApp {
         }).join('');
 
         this.mainContent.innerHTML = `
+            <div class="list-tabs">
+                <button class="tab-btn ${filter === 'all' ? 'active' : ''}" data-filter="all">
+                    全部 (${totalCount})
+                </button>
+                <button class="tab-btn ${filter === 'unmastered' ? 'active' : ''}" data-filter="unmastered">
+                    未掌握 (${unmasteredCount})
+                </button>
+                <button class="tab-btn ${filter === 'mastered' ? 'active' : ''}" data-filter="mastered">
+                    已掌握 (${masteredCount})
+                </button>
+            </div>
             <div class="grammar-list">
-                ${listHTML}
+                ${listHTML || '<div class="empty-message">暂无内容</div>'}
             </div>
         `;
+
+        // Add tab click listeners
+        this.mainContent.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const newFilter = e.currentTarget.dataset.filter;
+                this.showAllGrammar(newFilter);
+            });
+        });
 
         // Add click listeners to list items
         this.mainContent.querySelectorAll('.grammar-list-item').forEach(item => {
