@@ -62,7 +62,7 @@ class GrammarApp {
             console.log(`Loaded ${this.grammarData.length} grammar points`);
         } catch (error) {
             console.error('Error loading grammar data:', error);
-            this.showError('Failed to load grammar data. Please refresh the page.');
+            this.showError('加载语法数据失败，请刷新页面。');
         }
     }
 
@@ -95,7 +95,7 @@ class GrammarApp {
 
     showRandomGrammar() {
         if (this.grammarData.length === 0) {
-            this.showError('No grammar data available');
+            this.showError('没有可用的语法数据');
             return;
         }
 
@@ -136,13 +136,13 @@ class GrammarApp {
                 <div class="grammar-explanation">${grammar.explanation}</div>
 
                 <div class="examples-section">
-                    <div class="examples-title">📝 Examples</div>
+                    <div class="examples-title">📝 例句</div>
                     ${examplesHTML}
                 </div>
 
                 <div class="mastery-section">
                     <button class="btn mastery-btn" data-grammar-id="${grammar.id}">
-                        ${isMastered ? '✓ Mastered' : 'Mark as Mastered'}
+                        ${isMastered ? '✓ 已掌握' : '标记为已掌握'}
                     </button>
                 </div>
             </div>
@@ -153,7 +153,7 @@ class GrammarApp {
         masteryBtn.addEventListener('click', () => this.toggleMastery(grammar.id));
 
         // Update button text
-        this.viewAllBtn.innerHTML = '<span>📋</span> View All';
+        this.viewAllBtn.innerHTML = '<span>📋</span> 查看全部';
 
         // Update progress
         this.updateProgress();
@@ -178,11 +178,11 @@ class GrammarApp {
 
             if (isMastered) {
                 card.classList.add('mastered');
-                btn.textContent = '✓ Mastered';
+                btn.textContent = '✓ 已掌握';
                 btn.classList.add('btn-success');
             } else {
                 card.classList.remove('mastered');
-                btn.textContent = 'Mark as Mastered';
+                btn.textContent = '标记为已掌握';
                 btn.classList.remove('btn-success');
             }
         } else if (this.currentView === 'list') {
@@ -201,7 +201,7 @@ class GrammarApp {
 
         this.progressFooter.innerHTML = `
             <div class="progress-text">
-                Progress: ${mastered} / ${total} mastered (${percentage}%)
+                进度: ${mastered} / ${total} 已掌握 (${percentage}%)
             </div>
             <div class="progress-bar-container">
                 <div class="progress-bar" style="width: ${percentage}%"></div>
@@ -265,7 +265,7 @@ class GrammarApp {
         });
 
         // Update button text
-        this.viewAllBtn.innerHTML = '<span>🎲</span> Show Random';
+        this.viewAllBtn.innerHTML = '<span>🎲</span> 随机语法';
     }
 }
 
