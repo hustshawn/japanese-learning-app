@@ -208,6 +208,65 @@ class GrammarApp {
             </div>
         `;
     }
+
+    toggleView() {
+        if (this.currentView === 'card') {
+            this.showAllGrammar();
+        } else {
+            this.showRandomGrammar();
+        }
+    }
+
+    showAllGrammar() {
+        this.currentView = 'list';
+        this.currentGrammarId = null;
+
+        // Sort: non-mastered first, then by title
+        const sorted = [...this.grammarData].sort((a, b) => {
+            const aMastered = this.masteredGrammar.has(a.id);
+            const bMastered = this.masteredGrammar.has(b.id);
+
+            if (aMastered === bMastered) {
+                return a.title.localeCompare(b.title);
+            }
+            return aMastered ? 1 : -1;
+        });
+
+        const listHTML = sorted.map(grammar => {
+            const isMastered = this.masteredGrammar.has(grammar.id);
+            return `
+                <div class="grammar-list-item ${isMastered ? 'mastered' : ''}" data-grammar-id="${grammar.id}">
+                    <div class="list-item-content">
+                        <h3>${grammar.title}</h3>
+                        <div class="list-item-romaji">${grammar.titleRomaji}</div>
+                    </div>
+                    <div class="list-item-status">
+                        ${isMastered ? '✓' : '○'}
+                    </div>
+                </div>
+            `;
+        }).join('');
+
+        this.mainContent.innerHTML = `
+            <div class="grammar-list">
+                ${listHTML}
+            </div>
+        `;
+
+        // Add click listeners to list items
+        this.mainContent.querySelectorAll('.grammar-list-item').forEach(item => {
+            item.addEventListener('click', (e) => {
+                const grammarId = e.currentTarget.dataset.grammarId;
+                const grammar = this.grammarData.find(g => g.id === grammarId);
+                if (grammar) {
+                    this.showGrammarCard(grammar);
+                }
+            });
+        });
+
+        // Update button text
+        this.viewAllBtn.innerHTML = '<span>🎲</span> Show Random';
+    }
 }
 
 // Initialize app when DOM is ready
