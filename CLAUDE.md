@@ -99,7 +99,7 @@ scripts/
 ```json
 {
   "id": "grammar-point-slug",
-  "title": "Japanese grammar title",
+  "title": "日本語(romaji) - JLPT N#",
   "titleRomaji": "romaji",
   "explanationEN": "English explanation",
   "examples": [
@@ -119,7 +119,7 @@ scripts/
 ```json
 {
   "id": "unique-id",
-  "title": "Japanese Title",
+  "title": "日本語(romaji) - JLPT N#",
   "titleRomaji": "romaji",
   "explanation": "Chinese explanation",
   "examples": [

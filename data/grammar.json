@@ -1,7 +1,7 @@
 [
   {
     "id": "%e3%81%a1%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-%e3%81%98%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-cha-ikenai-ja-dame",
-    "title": "JLPT N5 Grammarちゃいけない・じゃいけない(cha ikenai / ja ikenai)",
+    "title": "ちゃいけない・じゃいけない(cha ikenai / ja ikenai) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar chaikenai ・ jaikenai (cha ikenai / ja ikenai )",
     "explanation": "不能做；不可以做（口语日语）",
     "examples": [
@@ -37,7 +37,7 @@
   },
   {
     "id": "%e3%81%a0-da-%e3%81%a7%e3%81%99-desu-meaning",
-    "title": "JLPT N5 Grammarだ / です(da / desu)",
+    "title": "だ / です(da / desu) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar da  /  desu (da / desu )",
     "explanation": "是（am, is, are, were, used to）",
     "examples": [
@@ -68,7 +68,7 @@
   },
   {
     "id": "%e3%81%a0%e3%81%91-dake-meaning",
-    "title": "JLPT N5 Grammarだけ(dake)",
+    "title": "だけ(dake) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar dake (dake )",
     "explanation": "只；仅仅；尽可能～",
     "examples": [
@@ -104,7 +104,7 @@
   },
   {
     "id": "%e3%81%a0%e3%82%8d%e3%81%86-darou-meaning",
-    "title": "JLPT N5 Grammarだろう(darou)",
+    "title": "だろう(darou) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar darou (darou )",
     "explanation": "我想；好像；大概；对吧？",
     "examples": [
@@ -140,7 +140,7 @@
   },
   {
     "id": "%e3%81%a7-de-particle-meaning",
-    "title": "JLPT N5 Grammarで(de)",
+    "title": "で(de) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar de (de )",
     "explanation": "在；用；通过～",
     "examples": [
@@ -176,7 +176,7 @@
   },
   {
     "id": "%e3%81%a7%e3%81%97%e3%82%87%e3%81%86-deshou-meaning",
-    "title": "JLPT N5 Grammarでしょう(deshou)",
+    "title": "でしょう(deshou) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar deshou (deshou )",
     "explanation": "我想；好像；大概；对吧？",
     "examples": [
@@ -212,7 +212,7 @@
   },
   {
     "id": "%e3%81%a9%e3%82%93%e3%81%aa-donna-meaning",
-    "title": "JLPT N5 Grammarどんな(donna)",
+    "title": "どんな(donna) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar donna (donna )",
     "explanation": "什么样的；什么种类的",
     "examples": [
@@ -248,7 +248,7 @@
   },
   {
     "id": "%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6-doushite-meaning",
-    "title": "JLPT N5 Grammarどうして(doushite)",
+    "title": "どうして(doushite) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar doushite (doushite )",
     "explanation": "为什么；什么原因；怎么",
     "examples": [
@@ -284,7 +284,7 @@
   },
   {
     "id": "%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6-douyatte-meaning",
-    "title": "JLPT N5 Grammarどうやって(douyatte)",
+    "title": "どうやって(douyatte) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar douyatte (douyatte )",
     "explanation": "怎么；用什么方法；通过什么方式",
     "examples": [
@@ -320,7 +320,7 @@
   },
   {
     "id": "%e3%81%8c-ga-subject-marker-particle",
-    "title": "JLPT N5 Grammarが(ga)",
+    "title": "が(ga) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar ga (ga )",
     "explanation": "主语标记；但是；可是～",
     "examples": [
@@ -356,7 +356,7 @@
   },
   {
     "id": "%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99-ga-arimasu-%e3%81%8c%e3%81%82%e3%82%8b-ga-aru-meaning",
-    "title": "JLPT N5 Grammarがあります(ga arimasu)",
+    "title": "があります(ga arimasu) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar gaarimasu (ga arimasu )",
     "explanation": "有；存在（非生物）",
     "examples": [
@@ -392,7 +392,7 @@
   },
   {
     "id": "%e3%81%8c%e3%81%bb%e3%81%97%e3%81%84-ga-hoshii-%e3%81%8c%e6%ac%b2%e3%81%97%e3%81%84-meaning",
-    "title": "JLPT N5 Grammarがほしい(ga hoshii)",
+    "title": "がほしい(ga hoshii) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar gahoshii (ga hoshii )",
     "explanation": "想要某物",
     "examples": [
@@ -428,7 +428,7 @@
   },
   {
     "id": "%e3%81%8c%e3%81%84%e3%81%be%e3%81%99-ga-imasu-%e3%81%8c%e3%81%84%e3%82%8b-ga-iru-meaning",
-    "title": "JLPT N5 Grammarがいます(ga imasu)",
+    "title": "がいます(ga imasu) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar gaimasu (ga imasu )",
     "explanation": "有；在；存在（生物）",
     "examples": [
@@ -464,7 +464,7 @@
   },
   {
     "id": "%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84-%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84-hou-ga-ii-meaning",
-    "title": "JLPT N5 Grammarほうがいい(hou ga ii)",
+    "title": "ほうがいい(hou ga ii) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar hougaii (hou ga ii )",
     "explanation": "最好；应该～",
     "examples": [
@@ -500,7 +500,7 @@
   },
   {
     "id": "%e4%b8%80%e7%95%aa-%e3%81%84%e3%81%a1%e3%81%b0%e3%82%93-ichiban-meaning",
-    "title": "JLPT N5 Grammar一番(ichiban)",
+    "title": "一番(ichiban) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar ichiban (ichiban )",
     "explanation": "最；最好",
     "examples": [
@@ -536,7 +536,7 @@
   },
   {
     "id": "%e4%b8%80%e7%b7%92%e3%81%ab-%e3%81%84%e3%81%a3%e3%81%97%e3%82%87%e3%81%ab-issho-ni-meaning",
-    "title": "JLPT N5 Grammar一緒に(issho ni)",
+    "title": "一緒に(issho ni) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar isshoni (issho ni )",
     "explanation": "一起",
     "examples": [
@@ -572,7 +572,7 @@
   },
   {
     "id": "%e3%81%84%e3%81%a4%e3%82%82-itsumo-meaning",
-    "title": "JLPT N5 Grammarいつも(itsumo)",
+    "title": "いつも(itsumo) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar itsumo (itsumo )",
     "explanation": "总是；通常；习惯性地",
     "examples": [
@@ -608,7 +608,7 @@
   },
   {
     "id": "%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-janai-%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dewa-nai-meaning",
-    "title": "JLPT N5 Grammarじゃない・ではない(janai / dewa nai)",
+    "title": "じゃない・ではない(janai / dewa nai) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar janai ・ dehanai (janai / dewa nai )",
     "explanation": "不是（am not; is not; are not）",
     "examples": [
@@ -644,7 +644,7 @@
   },
   {
     "id": "%e3%81%8b-ka-question-particle-meaning",
-    "title": "JLPT N5 Grammarか(ka)",
+    "title": "か(ka) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar ka (ka )",
     "explanation": "疑问助词",
     "examples": [
@@ -680,7 +680,7 @@
   },
   {
     "id": "%e3%81%8b%ef%bd%9e%e3%81%8b-ka-ka-or-meaning",
-    "title": "JLPT N5 Grammarか～か(ka~ka)",
+    "title": "か～か(ka~ka) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar ka ~ ka (ka~ka )",
     "explanation": "或者",
     "examples": [
@@ -716,7 +716,7 @@
   },
   {
     "id": "%e3%81%8b%e3%82%89-kara-meaning",
-    "title": "JLPT N5 Grammarから(kara)",
+    "title": "から(kara) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar kara (kara )",
     "explanation": "因为；从",
     "examples": [
@@ -752,7 +752,7 @@
   },
   {
     "id": "%e6%96%b9-%e3%81%8b%e3%81%9f-kata-meaning",
-    "title": "JLPT N5 Grammar方(kata)",
+    "title": "方(kata) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar hou (kata )",
     "explanation": "做某事的方法；如何做～",
     "examples": [
@@ -788,7 +788,7 @@
   },
   {
     "id": "%e3%81%91%e3%81%a9-kedo-meaning",
-    "title": "JLPT N5 Grammarけど(kedo)",
+    "title": "けど(kedo) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar kedo (kedo )",
     "explanation": "但是；可是；虽然～",
     "examples": [
@@ -824,7 +824,7 @@
   },
   {
     "id": "%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82-keredo-mo-meaning",
-    "title": "JLPT N5 Grammarけれども(keredo mo)",
+    "title": "けれども(keredo mo) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar keredomo (keredo mo )",
     "explanation": "但是；可是；虽然～",
     "examples": [
@@ -860,7 +860,7 @@
   },
   {
     "id": "%e3%81%be%e3%81%a0-mada-meaning",
-    "title": "JLPT N5 Grammarまだ(mada)",
+    "title": "まだ(mada) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar mada (mada )",
     "explanation": "还；还没",
     "examples": [
@@ -896,7 +896,7 @@
   },
   {
     "id": "%e3%81%be%e3%81%a0%ef%bd%9e%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93-mada-te-imasen-meaning",
-    "title": "JLPT N5 Grammarまだ～ていません(mada ~te imasen)",
+    "title": "まだ～ていません(mada ~te imasen) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar mada ~ teimasen (mada ~te imasen )",
     "explanation": "还没～",
     "examples": [
@@ -932,7 +932,7 @@
   },
   {
     "id": "%e3%81%be%e3%81%a7-made-meaning",
-    "title": "JLPT N5 Grammarまで(made)",
+    "title": "まで(made) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar made (made )",
     "explanation": "直到；到；甚至～",
     "examples": [
@@ -968,7 +968,7 @@
   },
   {
     "id": "%e5%89%8d%e3%81%ab-%e3%81%be%e3%81%88%e3%81%ab-mae-ni-meaning",
-    "title": "JLPT N5 Grammar前に(mae ni)",
+    "title": "前に(mae ni) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar mae ni (mae ni )",
     "explanation": "在...之前；在...前面～",
     "examples": [
@@ -1004,7 +1004,7 @@
   },
   {
     "id": "%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b-masen-ka-meaning",
-    "title": "JLPT N5 Grammarませんか(masen ka)",
+    "title": "ませんか(masen ka) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar masenka (masen ka )",
     "explanation": "要不要；想不想；一起...吧～",
     "examples": [
@@ -1040,7 +1040,7 @@
   },
   {
     "id": "%e3%81%be%e3%81%97%e3%82%87%e3%81%86-mashou-meaning",
-    "title": "JLPT N5 Grammarましょう(mashou)",
+    "title": "ましょう(mashou) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar mashou (mashou )",
     "explanation": "我们...吧；一起...吧～",
     "examples": [
@@ -1076,7 +1076,7 @@
   },
   {
     "id": "%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%81%8b-mashouka-meaning",
-    "title": "JLPT N5 Grammarましょうか(mashouka)",
+    "title": "ましょうか(mashouka) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar mashouka (mashouka )",
     "explanation": "我来...吧；用于向对方提供帮助",
     "examples": [
@@ -1112,7 +1112,7 @@
   },
   {
     "id": "%e3%82%82%e3%81%86-mou-meaning",
-    "title": "JLPT N5 Grammarもう(mou)",
+    "title": "もう(mou) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar mou (mou )",
     "explanation": "已经；再；又；其他",
     "examples": [
@@ -1148,7 +1148,7 @@
   },
   {
     "id": "%e3%81%aa%e3%81%82-naa-sentence-ending-particle-meaning",
-    "title": "JLPT N5 Grammarなあ(naa)",
+    "title": "なあ(naa) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar naa (naa )",
     "explanation": "句尾助词；表示确认、感叹等",
     "examples": [
@@ -1184,7 +1184,7 @@
   },
   {
     "id": "%e3%81%aa%e3%81%84%e3%81%a7-naide-meaning",
-    "title": "JLPT N5 Grammarないで(naide)",
+    "title": "ないで(naide) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar naide (naide )",
     "explanation": "不做...；不...就做[B]",
     "examples": [
@@ -1220,7 +1220,7 @@
   },
   {
     "id": "%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-naide-kudasai-meaning",
-    "title": "JLPT N5 Grammarないでください(naide kudasai)",
+    "title": "ないでください(naide kudasai) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar naidekudasai (naide kudasai )",
     "explanation": "请不要～",
     "examples": [
@@ -1256,7 +1256,7 @@
   },
   {
     "id": "%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-naito-ikenai-meaning",
-    "title": "JLPT N5 Grammarないといけない(naito ikenai)",
+    "title": "ないといけない(naito ikenai) - JLPT N5",
     "titleRomaji": "JLPT N5 Grammar naitoikenai (naito ikenai )",
     "explanation": "必须做；有义务做～",
     "examples": [
@@ -1292,7 +1292,7 @@
   },
   {
     "id": "%e9%96%93-aida-meaning",
-    "title": "JLPT N4 Grammar間(aida)",
+    "title": "間(aida) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kan (aida )",
     "explanation": "在...期间；在...之间～",
     "examples": [
@@ -1328,7 +1328,7 @@
   },
   {
     "id": "%e9%96%93%e3%81%ab-aida-ni-meaning",
-    "title": "JLPT N4 Grammar間に(aida ni)",
+    "title": "間に(aida ni) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar mani (aida ni )",
     "explanation": "在...期间；在...时候发生了某事",
     "examples": [
@@ -1364,7 +1364,7 @@
   },
   {
     "id": "%e5%be%8c%e3%81%a7-%e3%81%82%e3%81%a8%e3%81%a7-ato-de-meaning",
-    "title": "JLPT N4 Grammar後で(ato de)",
+    "title": "後で(ato de) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar atode (ato de )",
     "explanation": "在...之后；之后",
     "examples": [
@@ -1400,7 +1400,7 @@
   },
   {
     "id": "%e3%81%b0-ba-conditional-form-meaning",
-    "title": "JLPT N4 Grammarば(ba)",
+    "title": "ば(ba) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar ba (ba )",
     "explanation": "条件形；如果[A]那么[B]",
     "examples": [
@@ -1436,7 +1436,7 @@
   },
   {
     "id": "%e5%a0%b4%e5%90%88%e3%81%af-baai-wa-meaning",
-    "title": "JLPT N4 Grammar場合は(baai wa)",
+    "title": "場合は(baai wa) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar baai ha (baai wa )",
     "explanation": "在...的情况下；如果...的话～",
     "examples": [
@@ -1472,7 +1472,7 @@
   },
   {
     "id": "%e3%81%b0%e3%81%8b%e3%82%8a-bakari-meaning",
-    "title": "JLPT N4 Grammarばかり(bakari)",
+    "title": "ばかり(bakari) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar bakari (bakari )",
     "explanation": "只；净是～",
     "examples": [
@@ -1508,7 +1508,7 @@
   },
   {
     "id": "%e3%81%a0%e3%81%91%e3%81%a7-dake-de-meaning",
-    "title": "JLPT N4 Grammarだけで(dake de)",
+    "title": "だけで(dake de) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar dakede (dake de )",
     "explanation": "仅凭；只要...就",
     "examples": [
@@ -1544,7 +1544,7 @@
   },
   {
     "id": "%e5%87%ba%e3%81%99-dasu-meaning",
-    "title": "JLPT N4 Grammar出す(dasu)",
+    "title": "出す(dasu) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar dasu (dasu )",
     "explanation": "开始；突然...起来；...出来（表示动作的开始或向外）",
     "examples": [
@@ -1580,7 +1580,7 @@
   },
   {
     "id": "%e3%81%a7%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-de-gozaimasu-meaning",
-    "title": "JLPT N4 Grammarでございます(de gozaimasu)",
+    "title": "でございます(de gozaimasu) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar degozaimasu (de gozaimasu )",
     "explanation": "是（敬语）",
     "examples": [
@@ -1616,7 +1616,7 @@
   },
   {
     "id": "%e3%81%a7%e3%82%82-demo-meaning-something",
-    "title": "JLPT N4 Grammarでも(demo)",
+    "title": "でも(demo) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar demo (demo )",
     "explanation": "...或什么的；来点...怎么样",
     "examples": [
@@ -1652,7 +1652,7 @@
   },
   {
     "id": "%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e3%81%8b-dewa-nai-ka-meaning",
-    "title": "JLPT N4 Grammarではないか(dewa nai ka)",
+    "title": "ではないか(dewa nai ka) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar dehanaika (dewa nai ka )",
     "explanation": "对吧？不是吗？",
     "examples": [
@@ -1688,7 +1688,7 @@
   },
   {
     "id": "%e3%81%8c%e5%bf%85%e8%a6%81-ga-hitsuyou-meaning",
-    "title": "JLPT N4 Grammarが必要(ga hitsuyou)",
+    "title": "が必要(ga hitsuyou) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar ga hitsuyou (ga hitsuyou )",
     "explanation": "需要；必要",
     "examples": [
@@ -1724,7 +1724,7 @@
   },
   {
     "id": "%e3%81%8c%e3%81%99%e3%82%8b-ga-suru-meaning",
-    "title": "JLPT N4 Grammarがする(ga suru)",
+    "title": "がする(ga suru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar gasuru (ga suru )",
     "explanation": "有...的味道；听到...的声音；闻到...的气味",
     "examples": [
@@ -1760,7 +1760,7 @@
   },
   {
     "id": "%e3%81%8c%e3%82%8a-gari-meaning",
-    "title": "JLPT N4 Grammarがり(gari)",
+    "title": "がり(gari) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar gari (gari )",
     "explanation": "性格（表示倾向、易...的性格）",
     "examples": [
@@ -1796,7 +1796,7 @@
   },
   {
     "id": "%e3%81%8c%e3%82%8b-garu-%e3%81%8c%e3%81%a3%e3%81%a6%e3%81%84%e3%82%8b-gatteiru-meaning",
-    "title": "JLPT N4 Grammarがる / がっている(garu / gatteiru)",
+    "title": "がる / がっている(garu / gatteiru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar garu  /  gatteiru (garu / gatteiru )",
     "explanation": "显示出...的迹象；表现出；感到；认为",
     "examples": [
@@ -1832,7 +1832,7 @@
   },
   {
     "id": "%e3%81%94%e3%81%96%e3%81%84%e3%81%be%e3%81%99-gozaimasu-meaning",
-    "title": "JLPT N4 Grammarございます(gozaimasu)",
+    "title": "ございます(gozaimasu) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar gozaimasu (gozaimasu )",
     "explanation": "有；在（いる/ある的敬语形式）",
     "examples": [
@@ -1868,7 +1868,7 @@
   },
   {
     "id": "%e5%a7%8b%e3%82%81%e3%82%8b-hajimeru-%e5%a7%8b%e3%82%81%e3%81%9f-meaning",
-    "title": "JLPT N4 Grammar始める(hajimeru)",
+    "title": "始める(hajimeru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar hajime ru (hajimeru )",
     "explanation": "开始；开始做",
     "examples": [
@@ -1904,7 +1904,7 @@
   },
   {
     "id": "%e3%81%af%e3%81%9a%e3%81%a0-hazu-da-meaning",
-    "title": "JLPT N4 Grammarはずだ(hazu da)",
+    "title": "はずだ(hazu da) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar hazuda (hazu da )",
     "explanation": "一定；应该（表示期待）",
     "examples": [
@@ -1940,7 +1940,7 @@
   },
   {
     "id": "%e3%81%af%e3%81%9a%e3%81%8c%e3%81%aa%e3%81%84-hazu-ga-nai-meaning",
-    "title": "JLPT N4 Grammarはずがない(hazu ga nai)",
+    "title": "はずがない(hazu ga nai) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar hazuganai (hazu ga nai )",
     "explanation": "不可能（表示不可能性）",
     "examples": [
@@ -1976,7 +1976,7 @@
   },
   {
     "id": "%e5%bf%85%e8%a6%81%e3%81%8c%e3%81%82%e3%82%8b-hitsuyou-ga-aru-meaning",
-    "title": "JLPT N4 Grammar必要がある(hitsuyou ga aru)",
+    "title": "必要がある(hitsuyou ga aru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar hitsuyou gaaru (hitsuyou ga aru )",
     "explanation": "需要；有必要",
     "examples": [
@@ -2012,7 +2012,7 @@
   },
   {
     "id": "%e6%84%8f%e5%90%91%e5%bd%a2-ikou-kei-volitional-form-meaning",
-    "title": "JLPT N4 Grammar意向形(ikou kei - volitional form)",
+    "title": "意向形(ikou kei - volitional form) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar ikou katachi (ikou kei - volitional form )",
     "explanation": "意向形；让我们做...",
     "examples": [
@@ -2048,7 +2048,7 @@
   },
   {
     "id": "%e3%81%84%e3%82%89%e3%81%a3%e3%81%97%e3%82%83%e3%82%8b-irassharu-meaning",
-    "title": "JLPT N4 Grammarいらっしゃる(irassharu)",
+    "title": "いらっしゃる(irassharu) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar irassharu (irassharu )",
     "explanation": "在；来；去（敬语）",
     "examples": [
@@ -2084,7 +2084,7 @@
   },
   {
     "id": "%e3%81%84%e3%81%9f%e3%81%97%e3%81%be%e3%81%99-itashimasu-meaning",
-    "title": "JLPT N4 Grammarいたします(itashimasu)",
+    "title": "いたします(itashimasu) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar itashimasu (itashimasu )",
     "explanation": "做（する的敬语形式）",
     "examples": [
@@ -2120,7 +2120,7 @@
   },
   {
     "id": "%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%8b-janai-ka-meaning",
-    "title": "JLPT N4 Grammarじゃないか(janai ka)",
+    "title": "じゃないか(janai ka) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar janaika (janai ka )",
     "explanation": "对吧？不是吗？让我们...（表示确认）",
     "examples": [
@@ -2156,7 +2156,7 @@
   },
   {
     "id": "%e3%81%8b%e3%81%a9%e3%81%86%e3%81%8b-ka-dou-ka-meaning",
-    "title": "JLPT N4 Grammarかどうか(ka dou ka)",
+    "title": "かどうか(ka dou ka) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kadouka (ka dou ka )",
     "explanation": "是否；是不是",
     "examples": [
@@ -2192,7 +2192,7 @@
   },
   {
     "id": "%e3%81%8b%e3%81%97%e3%82%89-ka-shira-meaning",
-    "title": "JLPT N4 Grammarかしら(ka shira)",
+    "title": "かしら(ka shira) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kashira (ka shira )",
     "explanation": "我想知道（女性用语）",
     "examples": [
@@ -2228,7 +2228,7 @@
   },
   {
     "id": "%e3%81%8b%e3%82%82%e3%81%97%e3%82%8c%e3%81%aa%e3%81%84-kamo-shirenai-meaning",
-    "title": "JLPT N4 Grammarかもしれない(kamo shirenai)",
+    "title": "かもしれない(kamo shirenai) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kamoshirenai (kamo shirenai )",
     "explanation": "可能；也许（表示可能性）",
     "examples": [
@@ -2264,7 +2264,7 @@
   },
   {
     "id": "%e3%81%8b%e3%81%aa-kana-meaning",
-    "title": "JLPT N4 Grammarかな(kana)",
+    "title": "かな(kana) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kana (kana )",
     "explanation": "我想知道；可以吗？",
     "examples": [
@@ -2300,7 +2300,7 @@
   },
   {
     "id": "%e3%81%8b%e3%82%89%e4%bd%9c%e3%82%8b-%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%82%8b-kara-tsukuru-meaning",
-    "title": "JLPT N4 Grammarから作る(kara tsukuru)",
+    "title": "から作る(kara tsukuru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kara tsukuru (kara tsukuru )",
     "explanation": "由...制成；用...制作",
     "examples": [
@@ -2336,7 +2336,7 @@
   },
   {
     "id": "%e9%a0%83-%e3%81%93%e3%82%8d-%e3%81%94%e3%82%8d-meaning",
-    "title": "JLPT N4 Grammar頃(koro / goro)",
+    "title": "頃(koro / goro) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar goro (koro / goro )",
     "explanation": "大约；...的时候",
     "examples": [
@@ -2372,7 +2372,7 @@
   },
   {
     "id": "%e3%81%93%e3%81%a8-koto-meaning",
-    "title": "JLPT N4 Grammarこと(koto)",
+    "title": "こと(koto) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar koto (koto )",
     "explanation": "动词名词化",
     "examples": [
@@ -2408,7 +2408,7 @@
   },
   {
     "id": "%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b-koto-ga-aru-meaning",
-    "title": "JLPT N4 Grammarことがある(koto ga aru)",
+    "title": "ことがある(koto ga aru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kotogaaru (koto ga aru )",
     "explanation": "有时候；偶尔",
     "examples": [
@@ -2444,7 +2444,7 @@
   },
   {
     "id": "%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%82%8b-koto-ga-dekiru-%e3%81%93%e3%81%a8%e3%81%8c%e3%81%a7%e3%81%8d%e3%81%be%e3%81%99%e3%81%8b-meaning",
-    "title": "JLPT N4 Grammarことができる(koto ga dekiru)",
+    "title": "ことができる(koto ga dekiru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kotogadekiru (koto ga dekiru )",
     "explanation": "能够；可以",
     "examples": [
@@ -2480,7 +2480,7 @@
   },
   {
     "id": "%e3%81%93%e3%81%a8%e3%81%ab%e3%81%aa%e3%82%8b-koto-ni-naru-meaning",
-    "title": "JLPT N4 Grammarことになる(koto ni naru)",
+    "title": "ことになる(koto ni naru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kotoninaru (koto ni naru )",
     "explanation": "已经决定...；结果是...",
     "examples": [
@@ -2516,7 +2516,7 @@
   },
   {
     "id": "%e3%81%93%e3%81%a8%e3%81%ab%e3%81%99%e3%82%8b-koto-ni-suru-meaning",
-    "title": "JLPT N4 Grammarことにする(koto ni suru)",
+    "title": "ことにする(koto ni suru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kotonisuru (koto ni suru )",
     "explanation": "决定",
     "examples": [
@@ -2552,7 +2552,7 @@
   },
   {
     "id": "%e3%81%84-adjective-%e3%81%8f%e3%81%99%e3%82%8b-ku-suru-meaning",
-    "title": "JLPT N4 Grammarくする(ku suru)",
+    "title": "くする(ku suru) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kusuru (ku suru )",
     "explanation": "使...变得；使某物...",
     "examples": [
@@ -2588,7 +2588,7 @@
   },
   {
     "id": "%e6%80%a5%e3%81%ab-kyuu-ni-meaning",
-    "title": "JLPT N4 Grammar急に(kyuu ni)",
+    "title": "急に(kyuu ni) - JLPT N4",
     "titleRomaji": "JLPT N4 Grammar kyuuni (kyuu ni )",
     "explanation": "突然；急忙；意外地",
     "examples": [
@@ -2624,7 +2624,7 @@
   },
   {
     "id": "%e4%b8%8a%e3%81%92%e3%82%8b-ageru-meaning",
-    "title": "JLPT N3 Grammar上げる(ageru)",
+    "title": "上げる(ageru) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar age ru (ageru )",
     "explanation": "完成；完全...完",
     "examples": [
@@ -2660,7 +2660,7 @@
   },
   {
     "id": "%e3%81%82%e3%81%be%e3%82%8a-amari-meaning",
-    "title": "JLPT N3 Grammarあまり(amari)",
+    "title": "あまり(amari) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar amari (amari )",
     "explanation": "太...以致；因为太...",
     "examples": [
@@ -2696,7 +2696,7 @@
   },
   {
     "id": "%e3%81%82%e3%81%be%e3%82%8a%e3%81%ab%e3%82%82-amari-ni-mo-meaning",
-    "title": "JLPT N3 Grammarあまりにも(amari ni mo)",
+    "title": "あまりにも(amari ni mo) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar amarinimo (amari ni mo )",
     "explanation": "太...；非常...；过分地",
     "examples": [
@@ -2732,7 +2732,7 @@
   },
   {
     "id": "%e5%90%88%e3%81%86-%e3%81%82%e3%81%86-au-meaning",
-    "title": "JLPT N3 Grammar合う(au)",
+    "title": "合う(au) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar au (au )",
     "explanation": "一起做某事；互相",
     "examples": [
@@ -2768,7 +2768,7 @@
   },
   {
     "id": "%e3%81%b0%e3%81%84%e3%81%84-ba-ii-meaning",
-    "title": "JLPT N3 Grammarばいい(ba ii)",
+    "title": "ばいい(ba ii) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar baii (ba ii )",
     "explanation": "应该；可以；...就好了",
     "examples": [
@@ -2804,7 +2804,7 @@
   },
   {
     "id": "%e3%81%b0%e3%82%88%e3%81%8b%e3%81%a3%e3%81%9f-ba-yokatta-meaning",
-    "title": "JLPT N3 Grammarばよかった(ba yokatta)",
+    "title": "ばよかった(ba yokatta) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar bayokatta (ba yokatta )",
     "explanation": "早该...就好了；应该...的",
     "examples": [
@@ -2840,7 +2840,7 @@
   },
   {
     "id": "%e3%81%b0%ef%bd%9e%e3%81%bb%e3%81%a9-ba-hodo-meaning",
-    "title": "JLPT N3 Grammarば～ほど(ba~hodo)",
+    "title": "ば～ほど(ba~hodo) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar ba ~ hodo (ba~hodo )",
     "explanation": "越...越...",
     "examples": [
@@ -2876,7 +2876,7 @@
   },
   {
     "id": "%e3%81%b0%ef%bd%9e%e3%81%ae%e3%81%ab-ba-noni-meaning",
-    "title": "JLPT N3 Grammarば～のに(ba~noni)",
+    "title": "ば～のに(ba~noni) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar ba ~ noni (ba~noni )",
     "explanation": "本来会...的；要是...就好了",
     "examples": [
@@ -2912,7 +2912,7 @@
   },
   {
     "id": "%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7-bakari-de-meaning",
-    "title": "JLPT N3 Grammarばかりで(bakari de)",
+    "title": "ばかりで(bakari de) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar bakaride (bakari de )",
     "explanation": "只是；净是（消极描述）",
     "examples": [
@@ -2948,7 +2948,7 @@
   },
   {
     "id": "%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%a7%e3%81%aa%e3%81%8f-bakari-denaku-meaning",
-    "title": "JLPT N3 Grammarばかりでなく(bakari denaku)",
+    "title": "ばかりでなく(bakari denaku) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar bakaridenaku (bakari denaku )",
     "explanation": "不仅...而且；也",
     "examples": [
@@ -2984,7 +2984,7 @@
   },
   {
     "id": "%e3%81%b9%e3%81%8d%e3%81%a0-beki-da-meaning",
-    "title": "JLPT N3 Grammarべきだ(beki da)",
+    "title": "べきだ(beki da) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar bekida (beki da )",
     "explanation": "应该；必须",
     "examples": [
@@ -3020,7 +3020,7 @@
   },
   {
     "id": "%e3%81%82%e3%81%92%e3%81%8f-ageku-meaning",
-    "title": "JLPT N2 Grammarあげく(ageku)",
+    "title": "あげく(ageku) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar ageku (ageku )",
     "explanation": "最后；结果（通常是不好的结果）",
     "examples": [
@@ -3056,7 +3056,7 @@
   },
   {
     "id": "%e3%81%82%e3%82%8b%e3%81%84%e3%81%af-aruiwa-meaning",
-    "title": "JLPT N2 Grammarあるいは(aruiwa)",
+    "title": "あるいは(aruiwa) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar aruiha (aruiwa )",
     "explanation": "或者；也许；可能",
     "examples": [
@@ -3092,7 +3092,7 @@
   },
   {
     "id": "%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%8b-bakari-ka-meaning",
-    "title": "JLPT N2 Grammarばかりか(bakari ka)",
+    "title": "ばかりか(bakari ka) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar bakarika (bakari ka )",
     "explanation": "不仅...而且；也",
     "examples": [
@@ -3128,7 +3128,7 @@
   },
   {
     "id": "%e3%81%b0%e3%81%8b%e3%82%8a%e3%81%ab-bakari-ni-meaning",
-    "title": "JLPT N2 Grammarばかりに(bakari ni)",
+    "title": "ばかりに(bakari ni) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar bakarini (bakari ni )",
     "explanation": "只因为；由于（导致不好的结果）",
     "examples": [
@@ -3164,7 +3164,7 @@
   },
   {
     "id": "%e3%81%a1%e3%81%aa%e3%81%bf%e3%81%ab-chinamini-meaning",
-    "title": "JLPT N2 Grammarちなみに(chinamini)",
+    "title": "ちなみに(chinamini) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar chinamini (chinamini )",
     "explanation": "顺便说一下；附带说明（连词）",
     "examples": [
@@ -3200,7 +3200,7 @@
   },
   {
     "id": "%e3%81%a1%e3%81%a3%e3%81%a8%e3%82%82%ef%bd%9e%e3%81%aa%e3%81%84-chitto-monai-meaning",
-    "title": "JLPT N2 Grammarちっとも～ない(chitto mo~nai)",
+    "title": "ちっとも～ない(chitto mo~nai) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar chittomo ~ nai (chitto mo~nai )",
     "explanation": "一点也不；完全不",
     "examples": [
@@ -3236,7 +3236,7 @@
   },
   {
     "id": "%e3%81%a0%e3%81%91%e3%81%82%e3%81%a3%e3%81%a6-dake-atte-meaning",
-    "title": "JLPT N2 Grammarだけあって(dake atte)",
+    "title": "だけあって(dake atte) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar dakeatte (dake atte )",
     "explanation": "正因为；不愧是；正如所料",
     "examples": [
@@ -3272,7 +3272,7 @@
   },
   {
     "id": "%e3%81%a0%e3%81%91%e3%81%ab-dake-ni-meaning",
-    "title": "JLPT N2 Grammarだけに(dake ni)",
+    "title": "だけに(dake ni) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar dakeni (dake ni )",
     "explanation": "正因为；不愧是；正如人们所期望的",
     "examples": [
@@ -3308,7 +3308,7 @@
   },
   {
     "id": "%e3%81%a0%e3%81%a3%e3%81%a6-datte-meaning",
-    "title": "JLPT N2 Grammarだって(datte)",
+    "title": "だって(datte) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar datte (datte )",
     "explanation": "因为；但是；毕竟；即使；也",
     "examples": [
@@ -3344,7 +3344,7 @@
   },
   {
     "id": "%e3%81%a9%e3%81%93%e3%82%8d%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dokoro-dewa-nai-meaning",
-    "title": "JLPT N2 Grammarどころではない(dokoro dewa nai)",
+    "title": "どころではない(dokoro dewa nai) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar dokorodehanai (dokoro dewa nai )",
     "explanation": "哪有时间；哪有余地；远非；根本不是",
     "examples": [
@@ -3380,7 +3380,7 @@
   },
   {
     "id": "%e3%81%a9%e3%81%93%e3%82%8d%e3%81%8b-dokoro-ka-meaning",
-    "title": "JLPT N2 Grammarどころか(dokoro ka)",
+    "title": "どころか(dokoro ka) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar dokoroka (dokoro ka )",
     "explanation": "远非；别说；更不用说；根本不是",
     "examples": [
@@ -3416,7 +3416,7 @@
   },
   {
     "id": "%e3%81%a9%e3%81%86%e3%82%84%e3%82%89-dou-yara-meaning",
-    "title": "JLPT N2 Grammarどうやら(dou yara)",
+    "title": "どうやら(dou yara) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar douyara (dou yara )",
     "explanation": "好像；似乎；勉强",
     "examples": [
@@ -3452,7 +3452,7 @@
   },
   {
     "id": "%e3%81%a9%e3%81%86%e3%81%9b-douse-meaning",
-    "title": "JLPT N2 Grammarどうせ(douse)",
+    "title": "どうせ(douse) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar douse (douse )",
     "explanation": "反正；无论如何；总之；毕竟",
     "examples": [
@@ -3488,7 +3488,7 @@
   },
   {
     "id": "%e5%be%97%e3%81%aa%e3%81%84-%e3%81%88%e3%81%aa%e3%81%84-enai-meaning",
-    "title": "JLPT N2 Grammar得ない(enai)",
+    "title": "得ない(enai) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar ena i (enai )",
     "explanation": "不能；无法；不可能",
     "examples": [
@@ -3524,7 +3524,7 @@
   },
   {
     "id": "%e5%be%97%e3%82%8b-%e3%81%88%e3%82%8b-%e3%81%86%e3%82%8b-eru-uru-meaning",
-    "title": "JLPT N2 Grammar得る(eru / uru)",
+    "title": "得る(eru / uru) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar eru (eru / uru )",
     "explanation": "能够；可能",
     "examples": [
@@ -3560,7 +3560,7 @@
   },
   {
     "id": "%e5%86%8d%e3%81%b3-%e3%81%b5%e3%81%9f%e3%81%9f%e3%81%b3-futatabi-meaning",
-    "title": "JLPT N2 Grammar再び(futatabi)",
+    "title": "再び(futatabi) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar futatabi (futatabi )",
     "explanation": "再次；又一次",
     "examples": [
@@ -3596,7 +3596,7 @@
   },
   {
     "id": "%e3%81%8c%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%a7-ga-kikkake-de-%e3%82%92%e3%81%8d%e3%81%a3%e3%81%8b%e3%81%91%e3%81%ab-o-kikkake-ni-meaning",
-    "title": "JLPT N2 Grammarがきっかけで / をきっかけに(ga kikkake de / o kikkake ni)",
+    "title": "がきっかけで / をきっかけに(ga kikkake de / o kikkake ni) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar gakikkakede  /  wokikkakeni (ga kikkake de / o kikkake ni )",
     "explanation": "以...为契机；由于...的缘故；趁机",
     "examples": [
@@ -3632,7 +3632,7 @@
   },
   {
     "id": "%e3%81%92-ge-meaning",
-    "title": "JLPT N2 Grammarげ(ge)",
+    "title": "げ(ge) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar ge (ge )",
     "explanation": "看起来；似乎；表现出",
     "examples": [
@@ -3668,7 +3668,7 @@
   },
   {
     "id": "%e9%80%86%e3%81%ab-gyaku-ni-meaning",
-    "title": "JLPT N2 Grammar逆に(gyaku ni)",
+    "title": "逆に(gyaku ni) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar gyakuni (gyaku ni )",
     "explanation": "相反；反而",
     "examples": [
@@ -3704,7 +3704,7 @@
   },
   {
     "id": "%e5%8f%8d%e9%9d%a2-%e3%81%af%e3%82%93%e3%82%81%e3%82%93-hanmen-meaning",
-    "title": "JLPT N2 Grammar反面(hanmen)",
+    "title": "反面(hanmen) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar hanmen (hanmen )",
     "explanation": "虽然；另一方面",
     "examples": [
@@ -3740,7 +3740,7 @@
   },
   {
     "id": "%e4%b8%80%e5%bf%9c-ichiou-meaning",
-    "title": "JLPT N2 Grammar一応(ichiou)",
+    "title": "一応(ichiou) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar ichiou (ichiou )",
     "explanation": "大致；暂且；姑且",
     "examples": [
@@ -3776,7 +3776,7 @@
   },
   {
     "id": "%e4%bb%a5%e5%a4%96%e3%81%ae-igai-no-meaning",
-    "title": "JLPT N2 Grammar以外(igai)",
+    "title": "以外(igai) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar igai (igai )",
     "explanation": "除了...之外",
     "examples": [
@@ -3812,7 +3812,7 @@
   },
   {
     "id": "%e4%bb%a5%e4%b8%8a%e3%81%af-ijou-wa-meaning",
-    "title": "JLPT N2 Grammar以上は(ijou wa)",
+    "title": "以上は(ijou wa) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar ijou ha (ijou wa )",
     "explanation": "既然；因为；鉴于",
     "examples": [
@@ -3848,7 +3848,7 @@
   },
   {
     "id": "%e3%81%84%e3%81%8d%e3%81%aa%e3%82%8a-ikinari-meaning",
-    "title": "JLPT N2 Grammarいきなり(ikinari)",
+    "title": "いきなり(ikinari) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar ikinari (ikinari )",
     "explanation": "突然；猛然；毫无预警地",
     "examples": [
@@ -3884,7 +3884,7 @@
   },
   {
     "id": "%e3%81%ab%e3%81%97%e3%81%a6%e3%81%af-ni-shite-wa-meaning",
-    "title": "JLPT N3 Grammarにしては(ni shite wa)",
+    "title": "にしては(ni shite wa) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar nishiteha (ni shite wa )",
     "explanation": "考虑到...；对于...来说",
     "examples": [
@@ -3920,7 +3920,7 @@
   },
   {
     "id": "%e3%81%ab%e3%81%a8%e3%81%a3%e3%81%a6-ni-totte-meaning",
-    "title": "JLPT N3 Grammarにとって(ni totte)",
+    "title": "にとって(ni totte) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar nitotte (ni totte )",
     "explanation": "对...来说；从...的角度来看",
     "examples": [
@@ -3956,7 +3956,7 @@
   },
   {
     "id": "%e3%81%ab%e5%8f%8d%e3%81%97%e3%81%a6-ni-hanshite-meaning",
-    "title": "JLPT N3 Grammarに反して(ni hanshite)",
+    "title": "に反して(ni hanshite) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar nihanshite (ni hanshite )",
     "explanation": "违反；与...相反",
     "examples": [
@@ -3992,7 +3992,7 @@
   },
   {
     "id": "%e3%81%ab%e9%96%a2%e3%81%97%e3%81%a6-ni-kanshite-meaning",
-    "title": "JLPT N3 Grammarに関して(ni kanshite)",
+    "title": "に関して(ni kanshite) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar nikanshite (ni kanshite )",
     "explanation": "关于；有关",
     "examples": [
@@ -4028,7 +4028,7 @@
   },
   {
     "id": "%e3%81%ab%e5%af%be%e3%81%97%e3%81%a6-ni-taishite-meaning",
-    "title": "JLPT N3 Grammarに対して(ni taishite)",
+    "title": "に対して(ni taishite) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar nitaishite (ni taishite )",
     "explanation": "对于；针对；与...相对",
     "examples": [
@@ -4064,7 +4064,7 @@
   },
   {
     "id": "%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6-ni-tsuite-meaning",
-    "title": "JLPT N3 Grammarについて(ni tsuite)",
+    "title": "について(ni tsuite) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar nitsuite (ni tsuite )",
     "explanation": "关于；有关",
     "examples": [
@@ -4100,7 +4100,7 @@
   },
   {
     "id": "%e3%82%82%e3%81%ae%e3%81%8b-mono-ka-meaning",
-    "title": "JLPT N3 Grammarものか(mono ka)",
+    "title": "ものか(mono ka) - JLPT N3",
     "titleRomaji": "JLPT N3 Grammar monoka (mono ka )",
     "explanation": "绝不；才不会；怎么可能",
     "examples": [
@@ -4136,7 +4136,7 @@
   },
   {
     "id": "%e3%81%a0%e3%82%89%e3%81%91-darake-meaning",
-    "title": "JLPT N2 Grammarだらけ(darake)",
+    "title": "だらけ(darake) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar darake (darake )",
     "explanation": "满是；全是（带有负面含义）",
     "examples": [
@@ -4172,7 +4172,7 @@
   },
   {
     "id": "%e3%81%a3%e3%81%bd%e3%81%84-ppoi-meaning",
-    "title": "JLPT N2 Grammarっぽい(ppoi)",
+    "title": "っぽい(ppoi) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar ppoi (ppoi )",
     "explanation": "像...；有...倾向；容易...",
     "examples": [
@@ -4208,7 +4208,7 @@
   },
   {
     "id": "%e3%81%8c%e3%81%a1-gachi-meaning",
-    "title": "JLPT N2 Grammarがち(gachi)",
+    "title": "がち(gachi) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar gachi (gachi )",
     "explanation": "容易；往往；倾向于",
     "examples": [
@@ -4244,7 +4244,7 @@
   },
   {
     "id": "%e3%81%8c%e3%81%9f%e3%81%84-gatai-meaning",
-    "title": "JLPT N2 Grammarがたい(gatai)",
+    "title": "がたい(gatai) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar gatai (gatai )",
     "explanation": "难以；不容易",
     "examples": [
@@ -4280,7 +4280,7 @@
   },
   {
     "id": "%e3%81%8b%e3%81%ad%e3%82%8b-kaneru-meaning",
-    "title": "JLPT N2 Grammarかねる(kaneru)",
+    "title": "かねる(kaneru) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar kaneru (kaneru )",
     "explanation": "难以；不能；不便",
     "examples": [
@@ -4316,7 +4316,7 @@
   },
   {
     "id": "%e3%81%8b%e3%81%91%e3%82%8b-kakeru-meaning",
-    "title": "JLPT N2 Grammarかける(kakeru)",
+    "title": "かける(kakeru) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar kakeru (kakeru )",
     "explanation": "正在...；即将...；差点...",
     "examples": [
@@ -4352,7 +4352,7 @@
   },
   {
     "id": "%e3%81%8d%e3%82%8a-kiri-meaning",
-    "title": "JLPT N2 Grammarきり(kiri)",
+    "title": "きり(kiri) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar kiri (kiri )",
     "explanation": "只；仅；自从...之后就（再也没有）",
     "examples": [
@@ -4388,7 +4388,7 @@
   },
   {
     "id": "%e3%82%8f%e3%81%91%e3%81%a0-wake-da-meaning",
-    "title": "JLPT N2 Grammarわけだ(wake da)",
+    "title": "わけだ(wake da) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar wakeda (wake da )",
     "explanation": "所以；那么说；难怪",
     "examples": [
@@ -4424,7 +4424,7 @@
   },
   {
     "id": "%e3%82%8f%e3%81%91%e3%81%8c%e3%81%aa%e3%81%84-wake-ga-nai-meaning",
-    "title": "JLPT N2 Grammarわけがない(wake ga nai)",
+    "title": "わけがない(wake ga nai) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar wakeganai (wake ga nai )",
     "explanation": "不可能；不会",
     "examples": [
@@ -4460,7 +4460,7 @@
   },
   {
     "id": "%e3%82%8f%e3%81%91%e3%81%ab%e3%81%af%e3%81%84%e3%81%8b%e3%81%aa%e3%81%84-wake-ni-wa-ikanai-meaning",
-    "title": "JLPT N2 Grammarわけにはいかない(wake ni wa ikanai)",
+    "title": "わけにはいかない(wake ni wa ikanai) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar wakenihaikana (wake ni wa ikanai )",
     "explanation": "不能；不可以；不好意思",
     "examples": [
@@ -4496,7 +4496,7 @@
   },
   {
     "id": "%e3%81%a8%e3%81%93%e3%82%8d%e3%81%8c-tokoro-ga-meaning",
-    "title": "JLPT N2 Grammarところが(tokoro ga)",
+    "title": "ところが(tokoro ga) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar tokoroga (tokoro ga )",
     "explanation": "但是；可是；然而",
     "examples": [
@@ -4532,7 +4532,7 @@
   },
   {
     "id": "%e3%81%a8%e3%81%93%e3%82%8d%e3%81%a7-tokoro-de-meaning",
-    "title": "JLPT N2 Grammarところで(tokoro de)",
+    "title": "ところで(tokoro de) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar tokorode (tokoro de )",
     "explanation": "即使；就算；话说回来",
     "examples": [
@@ -4568,7 +4568,7 @@
   },
   {
     "id": "%e3%81%aa%e3%81%8c%e3%82%89-nagara-meaning",
-    "title": "JLPT N2 Grammarながら(nagara)",
+    "title": "ながら(nagara) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nagara (nagara )",
     "explanation": "一边...一边...；虽然...但是...",
     "examples": [
@@ -4604,7 +4604,7 @@
   },
   {
     "id": "%e3%81%aa%e3%81%8c%e3%82%89%e3%82%82-nagara-mo-meaning",
-    "title": "JLPT N2 Grammarながらも(nagara mo)",
+    "title": "ながらも(nagara mo) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nagaramo (nagara mo )",
     "explanation": "虽然...但是...；尽管...还是...",
     "examples": [
@@ -4640,7 +4640,7 @@
   },
   {
     "id": "%e3%81%ab%e9%81%95%e3%81%84%e3%81%aa%e3%81%84-ni-chigai-nai-meaning",
-    "title": "JLPT N2 Grammarに違いない(ni chigai nai)",
+    "title": "に違いない(ni chigai nai) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nichigainai (ni chigai nai )",
     "explanation": "一定；肯定；必定",
     "examples": [
@@ -4676,7 +4676,7 @@
   },
   {
     "id": "%e3%81%ab%e3%81%97%e3%81%a6%e3%82%82-ni-shite-mo-meaning",
-    "title": "JLPT N2 Grammarにしても(ni shite mo)",
+    "title": "にしても(ni shite mo) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nishitemo (ni shite mo )",
     "explanation": "即使；就算；无论",
     "examples": [
@@ -4712,7 +4712,7 @@
   },
   {
     "id": "%e3%81%ab%e3%81%a4%e3%81%91%e3%81%a6-ni-tsukete-meaning",
-    "title": "JLPT N2 Grammarにつけて(ni tsukete)",
+    "title": "につけて(ni tsukete) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nitsukete (ni tsukete )",
     "explanation": "每当；一...就...",
     "examples": [
@@ -4748,7 +4748,7 @@
   },
   {
     "id": "%e3%81%ab%e3%81%a4%e3%82%8c%e3%81%a6-ni-tsurete-meaning",
-    "title": "JLPT N2 Grammarにつれて(ni tsurete)",
+    "title": "につれて(ni tsurete) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nitsurete (ni tsurete )",
     "explanation": "随着；伴随着",
     "examples": [
@@ -4784,7 +4784,7 @@
   },
   {
     "id": "%e3%81%ab%e5%8f%8d%e3%81%97-ni-hanshi-meaning",
-    "title": "JLPT N2 Grammarに反し(ni hanshi)",
+    "title": "に反し(ni hanshi) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nihanshi (ni hanshi )",
     "explanation": "与...相反；违反",
     "examples": [
@@ -4820,7 +4820,7 @@
   },
   {
     "id": "%e3%81%ab%e6%af%94%e3%81%b9%e3%81%a6-ni-kurabete-meaning",
-    "title": "JLPT N2 Grammarに比べて(ni kurabete)",
+    "title": "に比べて(ni kurabete) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nikurabete (ni kurabete )",
     "explanation": "与...相比；比起...",
     "examples": [
@@ -4856,7 +4856,7 @@
   },
   {
     "id": "%e3%81%ab%e5%bf%9c%e3%81%98%e3%81%a6-ni-oujite-meaning",
-    "title": "JLPT N2 Grammarに応じて(ni oujite)",
+    "title": "に応じて(ni oujite) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nioujite (ni oujite )",
     "explanation": "根据；按照；依照",
     "examples": [
@@ -4892,7 +4892,7 @@
   },
   {
     "id": "%e3%81%ab%e3%82%82%e3%81%8b%e3%81%8b%e3%82%8f%e3%82%89%e3%81%9a-ni-mo-kakawarazu-meaning",
-    "title": "JLPT N2 Grammarにもかかわらず(ni mo kakawarazu)",
+    "title": "にもかかわらず(ni mo kakawarazu) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nimokakawarazu (ni mo kakawarazu )",
     "explanation": "尽管；虽然；不顾",
     "examples": [
@@ -4928,7 +4928,7 @@
   },
   {
     "id": "%e3%81%ab%e3%82%82%e3%81%a8%e3%81%a5%e3%81%8f-ni-moto-zuku-meaning",
-    "title": "JLPT N2 Grammarに基づく(ni motozuku)",
+    "title": "に基づく(ni motozuku) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nimotozuku (ni moto zuku )",
     "explanation": "基于；根据；依据",
     "examples": [
@@ -4964,7 +4964,7 @@
   },
   {
     "id": "%e3%81%ab%e9%96%a2%e3%81%97-ni-kanshi-meaning",
-    "title": "JLPT N2 Grammarに関し(ni kanshi)",
+    "title": "に関し(ni kanshi) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nikanshi (ni kanshi )",
     "explanation": "关于；有关",
     "examples": [
@@ -5000,7 +5000,7 @@
   },
   {
     "id": "%e3%81%ab%e5%af%be%e3%81%97-ni-taishi-meaning",
-    "title": "JLPT N2 Grammarに対し(ni taishi)",
+    "title": "に対し(ni taishi) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar nitaishi (ni taishi )",
     "explanation": "对于；针对；相对",
     "examples": [
@@ -5036,7 +5036,7 @@
   },
   {
     "id": "%e3%81%8b%e3%81%a8%e6%80%9d%e3%81%a3%e3%81%9f%e3%82%89-ka-to-omottara-meaning",
-    "title": "JLPT N2 Grammarかと思ったら(ka to omottara)",
+    "title": "かと思ったら(ka to omottara) - JLPT N2",
     "titleRomaji": "JLPT N2 Grammar katoomottara (ka to omottara )",
     "explanation": "刚...就...；刚一...就...",
     "examples": [
