@@ -1,4 +1,4 @@
-from pydantic import BaseModel, field_validator
+from pydantic import BaseModel, field_validator, HttpUrl
 from typing import List
 
 
@@ -25,7 +25,14 @@ class GrammarPoint(BaseModel):
     examples: List[Example]
     jlptLevel: str
     source: str = "JLPT Sensei"
-    url: str
+    url: HttpUrl
+
+    @field_validator('id', 'title', 'titleRomaji', 'explanationEN')
+    @classmethod
+    def not_empty_required(cls, v: str) -> str:
+        if not v or not v.strip():
+            raise ValueError('Field cannot be empty')
+        return v.strip()
 
     @field_validator('examples')
     @classmethod
