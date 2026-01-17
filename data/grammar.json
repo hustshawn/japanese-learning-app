@@ -1,0 +1,186 @@
+[
+  {
+    "id": "ga-particle",
+    "title": "が (ga) - Subject Marker",
+    "titleRomaji": "ga",
+    "explanation": "Marks the grammatical subject of a sentence. Often used to introduce new information or emphasize what is doing the action.",
+    "examples": [
+      {
+        "japanese": "猫が好きです。",
+        "romaji": "Neko ga suki desu.",
+        "english": "I like cats. (Literally: Cats are liked)"
+      },
+      {
+        "japanese": "雨が降っています。",
+        "romaji": "Ame ga futteimasu.",
+        "english": "It is raining. (Literally: Rain is falling)"
+      },
+      {
+        "japanese": "誰が来ましたか？",
+        "romaji": "Dare ga kimashita ka?",
+        "english": "Who came?"
+      }
+    ]
+  },
+  {
+    "id": "wa-particle",
+    "title": "は (wa) - Topic Marker",
+    "titleRomaji": "wa",
+    "explanation": "Marks the topic of a sentence (what you're talking about). Note: written as は but pronounced 'wa' when used as a particle.",
+    "examples": [
+      {
+        "japanese": "私は学生です。",
+        "romaji": "Watashi wa gakusei desu.",
+        "english": "I am a student."
+      },
+      {
+        "japanese": "これは本です。",
+        "romaji": "Kore wa hon desu.",
+        "english": "This is a book."
+      },
+      {
+        "japanese": "今日は暑いです。",
+        "romaji": "Kyou wa atsui desu.",
+        "english": "Today is hot."
+      }
+    ]
+  },
+  {
+    "id": "wo-particle",
+    "title": "を (wo) - Object Marker",
+    "titleRomaji": "wo/o",
+    "explanation": "Marks the direct object of an action. Usually pronounced 'o' rather than 'wo' in modern Japanese.",
+    "examples": [
+      {
+        "japanese": "りんごを食べます。",
+        "romaji": "Ringo wo tabemasu.",
+        "english": "I eat an apple."
+      },
+      {
+        "japanese": "本を読みます。",
+        "romaji": "Hon wo yomimasu.",
+        "english": "I read a book."
+      },
+      {
+        "japanese": "音楽を聞きます。",
+        "romaji": "Ongaku wo kikimasu.",
+        "english": "I listen to music."
+      }
+    ]
+  },
+  {
+    "id": "ni-particle",
+    "title": "に (ni) - Location/Time/Direction Marker",
+    "titleRomaji": "ni",
+    "explanation": "Indicates location of existence, time, direction, or target of an action. Very versatile particle with multiple uses.",
+    "examples": [
+      {
+        "japanese": "東京に住んでいます。",
+        "romaji": "Toukyou ni sundeimasu.",
+        "english": "I live in Tokyo."
+      },
+      {
+        "japanese": "９時に起きます。",
+        "romaji": "Kuji ni okimasu.",
+        "english": "I wake up at 9 o'clock."
+      },
+      {
+        "japanese": "友達に会います。",
+        "romaji": "Tomodachi ni aimasu.",
+        "english": "I meet a friend."
+      }
+    ]
+  },
+  {
+    "id": "de-particle",
+    "title": "で (de) - Location/Means Marker",
+    "titleRomaji": "de",
+    "explanation": "Indicates the location where an action takes place or the means/method by which something is done.",
+    "examples": [
+      {
+        "japanese": "図書館で勉強します。",
+        "romaji": "Toshokan de benkyou shimasu.",
+        "english": "I study at the library."
+      },
+      {
+        "japanese": "バスで行きます。",
+        "romaji": "Basu de ikimasu.",
+        "english": "I go by bus."
+      },
+      {
+        "japanese": "日本語で話します。",
+        "romaji": "Nihongo de hanashimasu.",
+        "english": "I speak in Japanese."
+      }
+    ]
+  },
+  {
+    "id": "desu-copula",
+    "title": "です (desu) - Copula",
+    "titleRomaji": "desu",
+    "explanation": "A copula that means 'to be' (for non-actions). Makes sentences polite and indicates state of being or equality.",
+    "examples": [
+      {
+        "japanese": "これは机です。",
+        "romaji": "Kore wa tsukue desu.",
+        "english": "This is a desk."
+      },
+      {
+        "japanese": "彼は先生です。",
+        "romaji": "Kare wa sensei desu.",
+        "english": "He is a teacher."
+      },
+      {
+        "japanese": "きれいです。",
+        "romaji": "Kirei desu.",
+        "english": "It is beautiful."
+      }
+    ]
+  },
+  {
+    "id": "masu-form",
+    "title": "ます (masu) - Polite Verb Ending",
+    "titleRomaji": "masu",
+    "explanation": "Polite present/future tense verb ending. Attached to verb stems to make them formal and polite.",
+    "examples": [
+      {
+        "japanese": "行きます。",
+        "romaji": "Ikimasu.",
+        "english": "I go. / I will go."
+      },
+      {
+        "japanese": "食べます。",
+        "romaji": "Tabemasu.",
+        "english": "I eat. / I will eat."
+      },
+      {
+        "japanese": "見ます。",
+        "romaji": "Mimasu.",
+        "english": "I see. / I will see."
+      }
+    ]
+  },
+  {
+    "id": "te-form",
+    "title": "て形 (te-form) - Connector Form",
+    "titleRomaji": "te-kei",
+    "explanation": "A verb form used to connect actions, make requests, or indicate ongoing actions. Very common and versatile grammatical structure.",
+    "examples": [
+      {
+        "japanese": "起きて、顔を洗います。",
+        "romaji": "Okite, kao wo araimasu.",
+        "english": "I wake up and wash my face."
+      },
+      {
+        "japanese": "座ってください。",
+        "romaji": "Suwatte kudasai.",
+        "english": "Please sit down."
+      },
+      {
+        "japanese": "走っています。",
+        "romaji": "Hashitteimasu.",
+        "english": "I am running."
+      }
+    ]
+  }
+]
