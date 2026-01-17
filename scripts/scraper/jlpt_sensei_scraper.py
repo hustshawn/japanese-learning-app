@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from typing import List, Dict
+from typing import List, Dict, Optional
 from .utils import fetch_url, logger
 
 
@@ -58,17 +58,120 @@ class JLPTSenseiScraper:
         logger.info(f"Found {len(grammar_links)} grammar points for {level}")
         return grammar_links
 
+    def parse_grammar_detail(self, url: str, level: str) -> Optional[Dict]:
+        """Parse a grammar detail page and extract all information."""
+        from .utils import generate_romaji, slugify
 
-# Test
+        html = fetch_url(url, delay=self.delay)
+        if not html:
+            return None
+
+        soup = BeautifulSoup(html, 'html.parser')
+
+        try:
+            # Extract title (usually in h1 or specific class)
+            title_elem = soup.find('h1')
+            if not title_elem:
+                logger.warning(f"No title found for {url}")
+                return None
+
+            title = title_elem.get_text(strip=True)
+
+            # Extract explanation/meaning section
+            # Look for sections with "meaning" or "explanation" in heading
+            explanation = ""
+            for heading in soup.find_all(['h2', 'h3', 'h4']):
+                heading_text = heading.get_text(strip=True).lower()
+                if 'meaning' in heading_text or 'explanation' in heading_text:
+                    # Get the next paragraph or div
+                    next_elem = heading.find_next(['p', 'div'])
+                    if next_elem:
+                        explanation = next_elem.get_text(strip=True)
+                        break
+
+            if not explanation:
+                # Fallback: get first paragraph after h1
+                first_p = soup.find('h1').find_next('p')
+                if first_p:
+                    explanation = first_p.get_text(strip=True)
+
+            # Extract examples
+            examples = []
+
+            # Look for example sections - common patterns:
+            # - <div class="example"> or similar
+            # - Japanese text followed by English translation
+            example_containers = soup.find_all(['div', 'li'], class_=lambda x: x and 'example' in x.lower() if x else False)
+
+            if not example_containers:
+                # Fallback: look for <p> tags with Japanese characters
+                example_containers = soup.find_all('p')
+
+            for container in example_containers:
+                text = container.get_text('\n', strip=True)
+                lines = [line.strip() for line in text.split('\n') if line.strip()]
+
+                # Heuristic: Japanese line followed by English line
+                for i in range(len(lines) - 1):
+                    japanese_line = lines[i]
+                    english_line = lines[i + 1]
+
+                    # Check if first line has Japanese characters
+                    if any('\u3040' <= c <= '\u309F' or '\u30A0' <= c <= '\u30FF' or '\u4E00' <= c <= '\u9FFF' for c in japanese_line):
+                        examples.append({
+                            'japanese': japanese_line,
+                            'romaji': generate_romaji(japanese_line),
+                            'englishTranslation': english_line
+                        })
+
+                        if len(examples) >= 5:  # Limit to 5 examples
+                            break
+
+                if len(examples) >= 5:
+                    break
+
+            # Create grammar point ID from URL
+            grammar_id = url.rstrip('/').split('/')[-1]
+            if not grammar_id:
+                grammar_id = slugify(title)
+
+            return {
+                'id': grammar_id,
+                'title': title,
+                'titleRomaji': generate_romaji(title),
+                'explanationEN': explanation,
+                'examples': examples,
+                'jlptLevel': level,
+                'source': 'JLPT Sensei',
+                'url': url
+            }
+
+        except Exception as e:
+            logger.error(f"Error parsing {url}: {e}")
+            return None
+
+
 if __name__ == '__main__':
     scraper = JLPTSenseiScraper()
 
-    # Test with N5 (smallest set)
+    # Test with N5 list
     print("Testing N5 grammar list fetch...")
     links = scraper.fetch_grammar_links('N5')
 
     if links:
         print(f"✓ Found {len(links)} grammar points")
-        print(f"  First item: {links[0]['title']} -> {links[0]['url']}")
+
+        # Test detail page parsing with first item
+        print(f"\nTesting detail page parse: {links[0]['url']}")
+        detail = scraper.parse_grammar_detail(links[0]['url'], 'N5')
+
+        if detail:
+            print(f"✓ Parsed successfully")
+            print(f"  Title: {detail['title']}")
+            print(f"  Romaji: {detail['titleRomaji']}")
+            print(f"  Explanation: {detail['explanationEN'][:100]}...")
+            print(f"  Examples: {len(detail['examples'])}")
+        else:
+            print("✗ Failed to parse detail page")
     else:
-        print("✗ No links found (check website structure)")
+        print("✗ No links found")
