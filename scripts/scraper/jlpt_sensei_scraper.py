@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 from typing import List, Dict, Optional
 from .utils import fetch_url, logger
+import json
+from .models import GrammarPoint, Example
 
 
 class JLPTSenseiScraper:
@@ -195,9 +197,6 @@ class JLPTSenseiScraper:
 
     def save_to_json(self, grammar_points: List[Dict], output_path: str) -> None:
         """Save grammar points to JSON file with validation."""
-        import json
-        from .models import GrammarPoint, Example
-
         # Validate all grammar points
         validated = []
         for data in grammar_points:
